@@ -1,4 +1,4 @@
-# Switzerland 2027: 10 trip ideas for five friends, starting in Langenfeld
+# Switzerland 2027: 10 trip ideas for five: two from Langenfeld, three flying in from Mexico City
 
 *Window: May – August 2027 · group of 5 · researched 25 October 2026 · prices are 2026 tariffs, per person, € at 1 CHF ≈ €1.07*
 
@@ -6,32 +6,34 @@ Open `index.html` for the visual version with photos and animated presentations.
 
 ## The 10 options at a glance
 
-| # | Trip | Days | Best time | May / Jun / Jul / Aug | € pp May–Jun | € pp Jul–Aug | Main ticket |
-|---|---|---|---|---|---|---|---|
-| 01 | **Bernese Oberland**: The Valley of 72 Waterfalls | 9 | 12–30 June | OK / Great / Good / Good | €1 480–2 390 | €1 640–2 650 | Berner Oberland Pass (6 days) |
-| 02 | **Grand Train Tour**: Switzerland's greatest hits by panorama train | 14 | 1–30 June | Good / Great / Good / Good | €2 560–3 910 | €2 800–4 310 | Swiss Travel Pass (15 days) |
-| 03 | **Valais Glaciers**: Matterhorn, Aletsch & the free-lift valley | 10 | July – August | Not ideal / Good / Great / Great | €1 520–2 510 | €1 670–2 770 | Swiss Half Fare Card |
-| 04 | **Engadin & Graubünden**: Turquoise lakes, glaciers & lifts included | 10 | July – August | Not ideal / Good / Great / Great | €1 570–2 570 | €1 680–2 760 | Half Fare Card + hotel 'lifts included' |
-| 05 | **Ticino**: Emerald rivers, palm trees & stone villages | 9 | 15 May – 15 June | Great / Great / Good / OK | €1 130–1 950 | €1 280–2 190 | Ticino Ticket (free with your stay) |
-| 06 | **Central Switzerland**: Lucerne, lakes & legendary peaks | 8 | 20 May – 30 June | Good / Great / Good / Good | €1 280–2 030 | €1 410–2 230 | Lucerne Travel Pass (5 days) |
-| 07 | **Appenzell & the East**: Hidden gems close to home | 8 | 1 June – 31 July | Good / Great / Great / Good | €1 090–1 790 | €1 150–1 880 | Individual tickets (Supersaver) |
-| 08 | **Lake Geneva & the Jura**: Vineyards, castles & a secret canyon | 9 | 10 May – 30 June | Great / Great / Good / Good | €1 480–2 390 | €1 590–2 580 | Half Fare Card + Riviera Card |
-| 09 | **Alpine Road Trip**: Grand Tour of Switzerland by car | 13 | late June – July | Not ideal / Good / Great / Good | €1 540–2 860 | €1 700–3 190 | Car + optional Half Fare |
-| 10 | **Swiss–Italian Lakes**: Bernina, Lake Como & Lugano | 11 | 10 May – 30 June | Great / Great / OK / Not ideal | €1 390–2 270 | €1 580–2 600 | Pay as you go |
+Two of you travel from Langenfeld; three friends fly in from Mexico City. 'In CH' is the Swiss part per person, the same for everyone; 'all-in' adds the trip there (May–June).
+
+| # | Trip | Days | Best time | May / Jun / Jul / Aug | € pp in CH May–Jun | € pp in CH Jul–Aug | All-in from Langenfeld | All-in from Mexico City | Friends fly | Main ticket |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 01 | **Bernese Oberland**: The Valley of 72 Waterfalls | 9 | 12–30 June | OK / Great / Good / Good | €1 380–2 230 | €1 520–2 460 | €1 480–2 390 | €2 270–3 590 | ZRH | Berner Oberland Pass (6 days) |
+| 02 | **Grand Train Tour**: Switzerland's greatest hits by panorama train | 14 | 1–30 June | Good / Great / Good / Good | €2 460–3 750 | €2 680–4 120 | €2 560–3 910 | €3 260–4 950 | ZRH → home from MXP | Swiss Travel Pass (15 days) |
+| 03 | **Valais Glaciers**: Matterhorn, Aletsch & the free-lift valley | 10 | July – August | Not ideal / Good / Great / Great | €1 410–2 350 | €1 550–2 580 | €1 520–2 510 | €2 280–3 640 | GVA | Swiss Half Fare Card |
+| 04 | **Engadin & Graubünden**: Turquoise lakes, glaciers & lifts included | 10 | July – August | Not ideal / Good / Great / Great | €1 460–2 410 | €1 550–2 570 | €1 570–2 570 | €2 330–3 690 | ZRH | Half Fare Card + hotel 'lifts included' |
+| 05 | **Ticino**: Emerald rivers, palm trees & stone villages | 9 | 15 May – 15 June | Great / Great / Good / OK | €950–1 690 | €1 060–1 870 | €1 130–1 950 | €1 810–2 970 | MXP | Ticino Ticket (free with your stay) |
+| 06 | **Central Switzerland**: Lucerne, lakes & legendary peaks | 8 | 20 May – 30 June | Good / Great / Good / Good | €1 190–1 890 | €1 290–2 070 | €1 280–2 030 | €2 030–3 140 | ZRH | Lucerne Travel Pass (5 days) |
+| 07 | **Appenzell & the East**: Hidden gems close to home | 8 | 1 June – 31 July | Good / Great / Great / Good | €1 000–1 650 | €1 030–1 720 | €1 090–1 790 | €1 840–2 910 | ZRH | Individual tickets (Supersaver) |
+| 08 | **Lake Geneva & the Jura**: Vineyards, castles & a secret canyon | 9 | 10 May – 30 June | Great / Great / Good / Good | €1 370–2 230 | €1 460–2 390 | €1 480–2 390 | €2 200–3 470 | GVA | Half Fare Card + Riviera Card |
+| 09 | **Alpine Road Trip**: Grand Tour of Switzerland by car | 13 | late June – July | Not ideal / Good / Great / Good | €1 540–2 860 | €1 700–3 190 | €1 540–2 860 | €2 340–4 040 | ZRH | Car + optional Half Fare |
+| 10 | **Swiss–Italian Lakes**: Bernina, Lake Como & Lugano | 11 | 10 May – 30 June | Great / Great / OK / Not ideal | €1 280–2 110 | €1 450–2 410 | €1 390–2 270 | €2 110–3 350 | MXP | Pay as you go |
 
 ## Our recommendation
 
-- **If you only pick one:** The Bernese Oberland is the Switzerland everyone dreams of, and it is easy from Langenfeld. Add Lucerne or Ticino to make it 12–14 days.
+- **If you only pick one:** The Bernese Oberland is the Switzerland everyone dreams of: easy from Langenfeld, and 2 h 45 by train from Zürich airport. Add Lucerne or Ticino to make it 12–14 days.
 - **Best value:** Ticino (free transport with your stay, great in May) or Appenzell (Option 07, closest and cheapest).
 - **Most epic two weeks:** The Grand Train Tour by train, or the Alpine Road Trip (Option 09) if someone is happy to drive.
 - **Best for July–August:** Valais or Engadin (Option 04): every high trail is open, and free or included lifts soften the peak-season prices.
 
 ### 14-day combos
 
-- **Classic & Hidden** (12–26 June 2027): Lauterbrunnen (5 n) → Saas valley + Täsch (4 n) → Ticino (4 n). Waterfalls, the Matterhorn with free Saas lifts, then lakes and palm trees. Tickets: Half Fare Card + Saver Day Passes for the 3 long moves (or Swiss Travel Pass 15 days for zero thinking). ≈ CHF 2,000–3,000 pp.
-- **Budget Lakes & Peaks** (late May – mid June): Appenzell (4 n) → Lucerne (4 n) → Ticino (5 n). The cheapest regions, the shortest travel days and all doable in late May. Tickets: Individual tickets → Lucerne Travel Pass (5 days) → Ticino Ticket. ≈ CHF 1,700–2,600 pp.
-- **South & Sun** (10–24 May 2027): Lake Geneva (4 n) → Ticino (5 n) → Lake Como (Italy) (4 n). The snow-free, warm version for May: vineyards, rivers, villas. Tickets: Half Fare Card + Ticino Ticket + Italian trains. ≈ CHF 1,800–2,700 pp.
-- **High Alpine Summer** (1–16 July or 16–31 August 2027): Engadin (4 n) → Saas valley + Täsch (5 n) → Lauterbrunnen (4 n). The summer version: lifts included in Engadin, free Saas lifts, then the Bernese Oberland, with every high trail open. Tickets: Swiss Travel Pass 15 days (regional trains along the Glacier Express route), or Half Fare + Saver Day Passes. ≈ CHF 2,300–3,600 pp at peak-season prices.
+- **Classic & Hidden** (12–26 June 2027): Lauterbrunnen (5 n) → Saas valley + Täsch (4 n) → Ticino (4 n). Waterfalls, the Matterhorn with free Saas lifts, then lakes and palm trees. Tickets: Half Fare Card + Saver Day Passes for the 3 long moves (or Swiss Travel Pass 15 days for zero thinking). Friends fly into Zürich, home from Milan Malpensa (nonstop to Mexico City). ≈ CHF 1,900–2,850 pp in Switzerland, plus the trip there.
+- **Budget Lakes & Peaks** (late May – mid June): Appenzell (4 n) → Lucerne (4 n) → Ticino (5 n). The cheapest regions, the shortest travel days and all doable in late May. Tickets: Individual tickets → Lucerne Travel Pass (5 days) → Ticino Ticket. Friends fly into Zürich, home from Milan Malpensa (nonstop to Mexico City). ≈ CHF 1,600–2,450 pp in Switzerland, plus the trip there.
+- **South & Sun** (10–24 May 2027): Lake Geneva (4 n) → Ticino (5 n) → Lake Como (Italy) (4 n). The snow-free, warm version for May: vineyards, rivers, villas. Tickets: Half Fare Card + Ticino Ticket + Italian trains. Friends fly into Geneva, home from Milan Malpensa (nonstop to Mexico City). ≈ CHF 1,700–2,550 pp in Switzerland, plus the trip there.
+- **High Alpine Summer** (1–16 July or 16–31 August 2027): Engadin (4 n) → Saas valley + Täsch (5 n) → Lauterbrunnen (4 n). The summer version: lifts included in Engadin, free Saas lifts, then the Bernese Oberland, with every high trail open. Tickets: Swiss Travel Pass 15 days (regional trains along the Glacier Express route), or Half Fare + Saver Day Passes. Friends fly into and out of Zürich. ≈ CHF 2,200–3,450 pp in Switzerland at peak-season prices, plus the trip there.
 
 ## When to go
 
@@ -84,14 +86,22 @@ Open `index.html` for the visual version with photos and animated presentations.
 - Packed DB trains in the NRW holidays (from 19 July). The cheapest Sparpreis fares go faster.
 - Dry summers can bring fire bans, so check before lighting a BBQ.
 
-For your group, July–August makes the whole trip ≈ 5–14 % dearer: about €60–400 more per person. Appenzell & the East changes least (+5 %) and Swiss–Italian Lakes most (+14 %).
+In Switzerland, July–August costs ≈ 4–13 % more: about €30–370 more per person. Appenzell & the East changes least (+4 %) and Swiss–Italian Lakes most (+13 %). Flights from Mexico City cost ≈ €240–350 more per person on top.
 
-## Getting from Langenfeld to Switzerland
+## Getting there
+
+### You two: Langenfeld → Switzerland
 
 - **Train (recommended)** (5–8 h, €30–80 pp each way if booked early): Langenfeld (Rheinl) → Köln or Düsseldorf Hbf (S6/RE, 15–20 min) → ICE to Basel SBB (≈ 4 h) → anywhere in Switzerland. Book DB 'Sparpreis Europa' / 'Super Sparpreis Europa' (from €19.99–24.99). International tickets open 6 months ahead. Domestic tickets to Basel Bad Bf (the German station in Basel) open 12 months ahead and are often cheapest. From there it is a 5-minute hop to Basel SBB.
-- **Car** (6–7 h, ≈ €20–60 pp each way (fuel ÷ 5) + CHF 40 vignette): Best for the Road Trip (Option 09) and hidden corners. Five adults with two weeks of luggage need a 7-seater or a roof box. Buy the e-vignette at via.admin.ch only (CHF 40; the 2027 vignette is valid 1 Dec 2026 – 31 Jan 2028). Parking at the car-free resorts costs ≈ CHF 10–25/day.
+- **Car** (6–7 h, ≈ €20–60 pp each way (fuel ÷ 5) + CHF 40 vignette): Best for the Road Trip (Option 09): drive down and pick the friends up at Zürich airport. Five adults with two weeks of luggage need a 7-seater or a roof box. Buy the e-vignette at via.admin.ch only (CHF 40; the 2027 vignette is valid 1 Dec 2026 – 31 Jan 2028). Parking at the car-free resorts costs ≈ CHF 10–25/day.
 - **FlixBus** (9–11 h, ≈ €25–40 pp): Köln → Zürich/Basel. The cheapest ticket, but you lose most of a day each way. The train is usually worth the extra €10–30.
-- **Flights (for your friends)** (–, depends on origin): Fly into Düsseldorf (DUS) or Köln/Bonn (CGN), both ≈ 30 min from Langenfeld. Consider an open-jaw ticket: arrive at DUS/CGN, fly home from Zürich (ZRH), Geneva (GVA) or Milan (MXP). That saves a 6–8 h journey back. Book long-haul ≈ 2–5 months ahead and European flights 1–3 months ahead, with Google Flights price alerts.
+
+### Your friends: Mexico City → Switzerland
+
+- **Flights** (≈ 13–16 h with one stop; ≈ €800–1,200 return in May–June, ≈ 30 % more in July–August): There is no nonstop flight to Switzerland yet (Swiss has only talked about one). The usual routes have one stop: Madrid (Aeroméxico, Iberia), Paris (Air France), Amsterdam (KLM), Frankfurt or Munich (Lufthansa) or London (British Airways). New: Aeroméxico flies nonstop Mexico City – Milan Malpensa from spring 2027 (≈ 12 h, 4 times a week). Book 3–6 months ahead with Google Flights alerts. July and December are the dearest months.
+- **Which airport** (Zürich · Geneva · Milan; pick the one closest to your first base): Zürich (ZRH) has the most connections and a station under the terminal: Lucerne ≈ 1 h, Bern ≈ 1 h 15, Interlaken ≈ 2 h 15. Geneva (GVA) suits Lake Geneva and Valais. Milan Malpensa (MXP) suits Ticino and the Italian lakes, ≈ 1 h 30 from Lugano. Fly home from a different airport (an open-jaw ticket) when the trip ends somewhere else, to skip a long train ride back.
+- **Entry & documents** (Mexican passport; no visa for up to 90 days): Mexicans need no visa for Switzerland and the Schengen area for up to 90 days in any 180. The passport must be valid at least 3 months after you leave. Fingerprints and a photo are taken at the first border under the EU's Entry/Exit System (fully running since April 2026). ETIAS, the €20 online travel authorisation, has not started yet; the latest reports say 2027 at the earliest, with a 6-month transition. Check before you fly. Travel insurance with medical cover and mountain rescue is strongly recommended.
+- **Meeting up & jet lag** (Mexico City is 8 h behind Swiss summer time; plan an easy first day): Flights from Mexico are overnight and land in Europe in the morning or afternoon. Meet at Zürich airport station, which you two reach from Langenfeld in ≈ 5.5–6 h, or go straight to the first base and meet there. Stay up until the evening and save the big mountain day for day 3, once everyone has slept.
 
 ## Passes
 
@@ -107,11 +117,11 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 ## Booking timeline
 
-- **Now (late Oct – Nov 2026):** Vote on an option and dates. Book refundable accommodation for hotspots (Lauterbrunnen, Täsch/Zermatt, Lucerne, Lake Como). For July–August this matters even more, because peak-season beds go first. Friends set flight price alerts. Domestic DB tickets to Basel Bad Bf are already bookable.
-- **6 months before (Nov 2026 – Feb 2027):** DB international Sparpreis tickets open: buy on day one. That is Nov 2026 – Jan 2027 for May–June, or Jan – Feb 2027 for July–August. SBB Saver Day Passes also go on sale 6 months ahead (limited cheap quotas).
-- **Jan – Feb 2027:** Friends book flights (summer fares rise fastest). Book the rental car (free cancellation) for the road trip. Swiss fares for 2027 will be known (≈ +3–4 % on national tickets from Dec 2026).
+- **Now (late Oct – Nov 2026):** Vote on an option and dates. Book refundable accommodation for hotspots (Lauterbrunnen, Täsch/Zermatt, Lucerne, Lake Como). For July–August this matters even more, because peak-season beds go first. The friends set Google Flights alerts for Mexico City → Zürich, Geneva and Milan. Domestic DB tickets to Basel Bad Bf are already bookable.
+- **6 months before (Nov 2026 – Feb 2027):** You two: DB international Sparpreis tickets open, so buy on day one. That is Nov 2026 – Jan 2027 for May–June, or Jan – Feb 2027 for July–August. SBB Saver Day Passes also go on sale 6 months ahead (limited cheap quotas).
+- **3–6 months before (Dec 2026 – Mar 2027):** Friends book their flights from Mexico City: Dec – Feb for May–June, Jan – Mar for July–August (summer fares rise fastest). Book the rental car (free cancellation) for the road trip. Swiss fares for 2027 will be known (≈ +3–4 % on national tickets from Dec 2026).
 - **~3 months before (Feb – May 2027):** Glacier Express & Bernina Express seats (reportedly from ~93 days ahead). Mountain huts and guesthouses. Note the SAC huts' new reservation fee from 2027.
-- **2–6 weeks before:** Buy the Swiss Travel Pass / Half Fare Card / regional pass online (fixed price, no early-bird). Check passports. Travel insurance for non-EU friends.
+- **2–6 weeks before:** Buy the Swiss Travel Pass / Half Fare Card / regional pass online (fixed price, no early-bird). Check passports. Friends: travel insurance, and check whether ETIAS has started.
 - **Last week:** Watch the forecast. Buy Jungfraujoch/Gornergrat tickets 1–2 days before a clear day. Download offline maps and the SBB, MeteoSwiss and SwitzerlandMobility apps.
 
 ## Money-saving tricks
@@ -124,20 +134,20 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - **Regional trains on famous routes:** Same Bernina/Glacier views, no reservation fee, and windows you can open.
 - **Hike down, ride up:** Buy one-way lift tickets and walk down. Often the most beautiful part.
 - **Under 25?:** Youth prices on the Swiss Travel Pass and regional passes are ≈ 30 % cheaper.
-- **Pay in CHF:** Always choose to pay in francs (not euros) on card terminals, and use a no-fee card.
+- **Open-jaw flights:** Friends: fly into one airport and home from another (e.g. Zürich in, Milan Malpensa out) to skip a long train day back.
 - **Too Good To Go:** The app works in Switzerland: bakery and supermarket bags for CHF 4–8.
 
 ## Practical
 
-- **🔌 Plugs:** Swiss sockets (type J) take thin 2-pin Euro plugs but NOT German Schuko plugs. Bring 2–3 adapters.
-- **📱 Roaming:** Switzerland is not in the EU roaming zone. Check your tariff or buy a Swiss eSIM data plan.
-- **💳 Money:** CHF. Cards and phones work almost everywhere. Keep some cash for mountain huts. Euros are accepted sometimes, at bad rates.
-- **🏥 Health:** The EHIC card works for people with German insurance. Friends from abroad need travel insurance that covers mountain rescue.
+- **🔌 Plugs:** Swiss sockets (type J) take thin 2-pin Euro plugs but NOT German Schuko plugs or Mexican flat-pin plugs. Bring adapters. Mexico runs on 127 V: phone and laptop chargers are fine, but check hair dryers and straighteners.
+- **📱 Roaming:** Switzerland is not in the EU roaming zone, and Mexican plans can be expensive abroad. Check your tariff or buy a Swiss or Europe eSIM data plan.
+- **💳 Money:** CHF. Cards and phones work almost everywhere: always pay in francs on card terminals and use a no-fee card. Friends: enable international use on Mexican cards. Keep some cash for mountain huts.
+- **🏥 Health:** The EHIC card covers the two of you (German insurance). The friends from Mexico need travel insurance with medical cover and mountain rescue.
 - **⛈️ Weather:** June to August afternoons bring thunderstorms, so start hikes early. July–August heat waves can hit 30–35 °C in the valleys. Check MeteoSwiss and the webcams before buying lift tickets.
 - **🥾 Trails:** Yellow signs = easy paths. White-red-white = mountain trails (sure-footed). Blue-white = alpine (not for you).
 - **🛒 Sundays:** Shops close on Sundays, except at train stations and petrol stations.
 - **🧳 Luggage:** SBB luggage forwarding (≈ CHF 12–25 per bag) lets you hop between bases with only a daypack.
-- **🛂 Documents:** Schengen rules apply. ETIAS for visa-free visitors is not running yet (Oct 2026) and is expected in 2027, so re-check before travel.
+- **🛂 Documents:** Schengen rules apply. Mexicans need no visa for up to 90 days; fingerprints and a photo are taken at the first border (EES). ETIAS (€20 online) is not running yet and is expected in 2027 at the earliest, so re-check before travel.
 
 ---
 
@@ -145,15 +155,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > Cliffs, waterfalls and the Eiger, Mönch and Jungfrau outside your window. The classic Swiss Alps, done from one cosy base.
 
-**9 days / 8 nights · best 12–30 June 2027 · ≈ 6.5–7 h by train · ≈ €1 480–2 390 pp**
+**9 days / 8 nights · best 12–30 June 2027 · ≈ 6.5–7 h by train from Langenfeld · friends fly into ZRH · ≈ €1 380–2 230 pp in Switzerland**
 
 *All lifts open from mid-June. Late May has the biggest waterfalls, but trails above 1,800 m are still snowy.*
 
 **Month by month:** *May: OK* (Waterfalls at their biggest and cheap, but snow above 1,800 m and some lifts shut.) · *June: Great* (Lifts open from mid-June, still before the school holidays. The sweet spot.) · *July: Good* (Every trail open and flowers at their best, but the busiest and priciest month.) · *August: Good* (Warm and fully open. Crowds ease a little after mid-August.)
 
-**July–August:** ≈ €1 640–2 650 pp (beds +30 %). In July–August, stay in Wilderswil or Matten (20–30 % cheaper than Lauterbrunnen), be at the lifts by 8 am and do Oeschinensee on a weekday.
+**July–August:** ≈ €1 520–2 460 pp in Switzerland (beds +30 %); all-in €1 640–2 650 from Langenfeld, €2 650–4 170 from Mexico City. In July–August, stay in Wilderswil or Matten (20–30 % cheaper than Lauterbrunnen), be at the lifts by 8 am and do Oeschinensee on a weekday.
 
-**Route:** Langenfeld → Lauterbrunnen (8 n) → home
+**Route:** Langenfeld + Mexico City → Lauterbrunnen (8 n) → home
 
 **Why go**
 
@@ -164,7 +174,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **Arrive in the valley:** Langenfeld → Köln → Basel → Interlaken → Lauterbrunnen. Check in and stroll to Staubbach Falls at golden hour. *Tip: Shop at the Coop in Lauterbrunnen or Interlaken for the first days.*
+1. **Arrive in the valley:** Langenfeld → Köln → Basel → Interlaken → Lauterbrunnen. Check in and stroll to Staubbach Falls at golden hour. Friends from Mexico City: fly into Zürich, then take the train from the airport to Lauterbrunnen (≈ 2 h 45, change in Bern and Interlaken Ost). *Tip: Shop at the Coop in Lauterbrunnen or Interlaken for the first days.*
 2. **Mürren & Gimmelwald:** Cable car to Grütschalp, then the flat panorama path to car-free Mürren (≈ 1.5 h) with the Eiger, Mönch and Jungfrau ahead. Walk down to the hamlet of Gimmelwald and take the cable car to Stechelberg. *Tip: Picnic on the Mürren meadows; Allmendhubel has a short flower trail.*
 3. **Trümmelbach & Sefinental:** Morning at Trümmelbach Falls, 10 glacier waterfalls inside the mountain (≈ CHF 16). Afternoon in the quiet Sefinental valley from Stechelberg, a hidden gem most people skip. *Tip: Optional splurge: Schilthorn / Piz Gloria (≈ CHF 115 return, half with Half Fare).*
 4. **Grindelwald First:** Train to Grindelwald, gondola to First. First Cliff Walk, then hike to the Bachalpsee mirror lake (≈ 1 h each way) for the Schreckhorn reflected in still water. *Tip: Go early for calm water. In late May / early June the trail can still be snowy.*
@@ -172,7 +182,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 6. **Lake Brienz day:** Turquoise Lake Brienz: bus to Iseltwald (the pier costs CHF 5), boat to Giessbach Falls and the old funicular, then Brienz village. Harder Kulm above Interlaken at sunset. *Tip: The Aare river in Interlaken glows turquoise, so walk along it in the evening.*
 7. **Oeschinensee & Blausee:** Train to Kandersteg, gondola (CHF 36–40 return) and a 20-minute walk to Oeschinensee, the most beautiful lake in the Alps. Fit hikers take the higher Heuberg panorama trail. On the way back, stop at the tiny Blausee (CHF 11–13). *Tip: Rowing boats on Oeschinensee in summer, and the Berghaus serves rösti with a view.*
 8. **Schynige Platte or Thun:** From mid-June: vintage cog railway to Schynige Platte (alpine garden, panorama loop ≈ 2.5 h). Rainy-day plan: Thun old town and castle, Oberhofen castle by boat, or the St. Beatus caves. *Tip: In 2026 the Schynige Platte railway opened on 13 June.*
-9. **Home:** Late breakfast, then the train back to Langenfeld (≈ 7 h).
+9. **Home:** Late breakfast, then the train back to Langenfeld (≈ 7 h). Friends: train back to Zürich airport (≈ 2 h 45) for the flight home.
 
 **Where to stay**
 
@@ -180,22 +190,30 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **A holiday apartment for 5–6**. Lauterbrunnen, Wengen or Wilderswil via Booking, Airbnb, e-domizil or Interhome. Wilderswil and Matten (by Interlaken) are 20–30 % cheaper. (≈ CHF 300–450 per night for the group)
 - *Splurge night:* **Berghotel Faulhorn or Hotel Bellevue des Alpes**. A historic mountain hotel high above the clouds: sunrise over the 4,000 m peaks with nobody else there. (≈ CHF 120–250 pp with dinner)
 
-**Getting there:** Langenfeld → Köln Hbf (S6, 20 min) → ICE to Basel SBB (≈ 4 h) → IC to Interlaken Ost (≈ 2 h) → Bernese Oberland Railway (BOB) to Lauterbrunnen (20 min). Book one through-ticket Köln → Lauterbrunnen with DB 'Sparpreis Europa', usually €40–80 each way if booked when sales open.
+**Getting there, you two:** Langenfeld → Köln Hbf (S6, 20 min) → ICE to Basel SBB (≈ 4 h) → IC to Interlaken Ost (≈ 2 h) → Bernese Oberland Railway (BOB) to Lauterbrunnen (20 min). Book one through-ticket Köln → Lauterbrunnen with DB 'Sparpreis Europa', usually €40–80 each way if booked when sales open.
+
+**Getting there, friends:** Fly into Zürich, then take the train from the airport to Lauterbrunnen (≈ 2 h 45, change in Bern and Interlaken Ost). Train back to Zürich airport (≈ 2 h 45) for the flight home.
 
 **Getting around:** Berner Oberland Pass, 6 days: CHF 350, or CHF 254 if you are under 25 or hold a Half Fare Card. It covers trains, buses and lake boats, plus 25+ mountain lifts (Schynige Platte, Männlichen and more), with big discounts on others (e.g. First at 50 %). If the Jungfraujoch is a must, take the Jungfrau Travel Pass + Jungfraujoch add-on (CHF 89) instead. That is the cheapest way to the top.
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
-| Train Langenfeld ⇄ Lauterbrunnen | 95 | 150 |
 | Swiss trains, buses, boats (pass) | 350 | 350 |
 | Mountain lifts & entry fees | 125 | 330 |
 | Accommodation (8 nights, shared) | 440 | 720 |
 | Food (cook + picnic / some dinners out) | 315 | 585 |
 | Buffer (coffee, lockers, souvenirs) | 60 | 100 |
-| **Total May–June** | **1 385** (≈ €1 480) | **2 235** (≈ €2 390) |
-| *Total July–August (estimate)* | *1 536* (≈ €1 640) | *2 481* (≈ €2 650) |
+| **In Switzerland, everyone** | 1 290 (≈ €1 380) | 2 085 (≈ €2 230) |
+| You two: train Langenfeld ⇄ Lauterbrunnen | 95 (≈ €100) | 150 (≈ €160) |
+| Friends: flights Mexico City ⇄ ZRH + airport train | 830 (≈ €890) | 1 270 (≈ €1 360) |
+| **Total from Langenfeld** | 1 385 (≈ €1 480) | 2 235 (≈ €2 390) |
+| **Total from Mexico City** | 2 120 (≈ €2 270) | 3 355 (≈ €3 590) |
+| *Total from Langenfeld, July–August (estimate)* | 1 536 (≈ €1 640) | 2 481 (≈ €2 650) |
+| *Total from Mexico City, July–August (estimate)* | 2 477 (≈ €2 650) | 3 901 (≈ €4 170) |
+
+Whole group (2 + 3): ≈ €9 770–15 550 in May–June.
 
 **Hidden gems:** Sefinental: A wild side valley behind Stechelberg with waterfalls and almost no tourists.; Gimmelwald: A farming hamlet with honesty-box cheese stalls and a timeless feel.; Giessbach Falls: Walk behind a 14-step waterfall and take a 1879 funicular up to a grand hotel terrace.; Heuberg trail: The high path above Oeschinensee: the postcard view without the crowds.; Rosenlaui gorge: A glacier gorge on the Grosse Scheidegg bus route (Meiringen ↔ Grindelwald, summer only).
 
@@ -208,7 +226,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - Snow lingers above ~1,800 m until mid or late June: Bachalpsee, Faulhorn and Schynige Platte may be partly closed in late May.
 - Shops close on Sundays, except those at Interlaken Ost station.
 
-**Booking:** *Now:* Book the apartment (free cancellation). The Lauterbrunnen ones go first. · *6 months before:* DB Sparpreis Europa tickets open. Buy on day one. · *2–4 weeks before:* Buy the Berner Oberland Pass online (PDF to your phone). · *1–2 days before:* Jungfraujoch or Schilthorn tickets, once you see the weather.
+**Booking:** *Now:* Book the apartment (free cancellation). The Lauterbrunnen ones go first. · *6 months before:* DB Sparpreis Europa tickets open. Buy on day one. · *3–6 months before:* Friends: flights Mexico City → Zürich (ZRH). Set price alerts now. · *2–4 weeks before:* Buy the Berner Oberland Pass online (PDF to your phone). · *1–2 days before:* Jungfraujoch or Schilthorn tickets, once you see the weather.
 
 **Make it longer:** To make it 12–14 days, add 4 nights in Lucerne (Option 06) or 4–5 nights in Ticino (Option 05) for sun and lakes.
 
@@ -218,15 +236,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > Lucerne, Lauterbrunnen, Lake Geneva, the Matterhorn, the Glacier Express, the Bernina Express and palm trees in Lugano, all in two weeks on one pass.
 
-**14 days / 13 nights · best 1–30 June 2027 · ≈ 5.5 h to Lucerne · ≈ €2 560–3 910 pp**
+**14 days / 13 nights · best 1–30 June 2027 · ≈ 5.5 h to Lucerne from Langenfeld · friends fly into ZRH → home from MXP · ≈ €2 460–3 750 pp in Switzerland**
 
 *Works any time from May to August. June has all the mountain lifts open without the summer crowds.*
 
 **Month by month:** *May: Good* (Trains run and seats are easier to get; some high lifts are still closed.) · *June: Great* (Everything open, before the holidays. The best balance.) · *July: Good* (All open, but Glacier Express seats go fast and Lucerne and Zermatt are packed.) · *August: Good* (Peak crowds and prices at every stop, and 30 °C+ in Lugano.)
 
-**July–August:** ≈ €2 800–4 310 pp (beds +25 %). Reserve the Glacier Express the day bookings open (~93 days ahead). The CHF 54 reservation costs the same all year, but summer seats sell out first.
+**July–August:** ≈ €2 680–4 120 pp in Switzerland (beds +25 %); all-in €2 800–4 310 from Langenfeld, €3 720–5 670 from Mexico City. Reserve the Glacier Express the day bookings open (~93 days ahead). The CHF 54 reservation costs the same all year, but summer seats sell out first.
 
-**Route:** Langenfeld → Lucerne (2 n) → Lauterbrunnen (3 n) → Montreux (2 n) → Täsch / Zermatt (2 n) → Pontresina (2 n) → Lugano (2 n) → home
+**Route:** Langenfeld + Mexico City → Lucerne (2 n) → Lauterbrunnen (3 n) → Montreux (2 n) → Täsch / Zermatt (2 n) → Pontresina (2 n) → Lugano (2 n) → home
 
 **Why go**
 
@@ -237,7 +255,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **To Lucerne:** Langenfeld → Basel → Lucerne (≈ 5.5 h). Chapel Bridge, old town and the Musegg wall towers (free).
+1. **To Lucerne:** Langenfeld → Basel → Lucerne (≈ 5.5 h). Chapel Bridge, old town and the Musegg wall towers (free). Friends from Mexico City: fly into Zürich. The Swiss Travel Pass covers the 1 h train from the airport to Lucerne.
 2. **Queen of the Mountains:** Boat to Vitznau and the cog railway up Rigi (free with the pass). Hike the panorama trail Rigi Kaltbad → Rigi Scheidegg. *Tip: Alternative: the Pilatus Golden Round Trip (50 % off with the pass).*
 3. **Over the Brünig to the waterfalls:** Lucerne–Interlaken Express over the Brünig pass, past three lakes. Afternoon at Staubbach and Trümmelbach Falls.
 4. **Mürren & Gimmelwald:** Grütschalp → Mürren panorama path, then down to Gimmelwald. *Tip: Schilthorn is half price from Mürren with the pass (≈ CHF 46).*
@@ -250,7 +268,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 11. **Bernina glaciers:** Walk to the Morteratsch glacier, then Diavolezza (from ~20 June) or Muottas Muragl (from ~6 June) for the sunset view over the lakes.
 12. **Bernina Express to Italy:** Pontresina → Alp Grüm → Brusio spiral viaduct → Tirano (≈ 2 h, reservation ≈ CHF 32), then the seasonal Bernina Express bus along Lake Como to Lugano.
 13. **Lugano dolce vita:** Monte Brè funicular, the olive trail to Gandria, and a boat to Morcote, one of the prettiest villages in Switzerland.
-14. **Home:** Lugano → Gotthard Base Tunnel → Zürich → Köln (≈ 7.5 h). Or splurge on the Gotthard Panorama Express (boat + train) to Lucerne.
+14. **Home:** Lugano → Gotthard Base Tunnel → Zürich → Köln (≈ 7.5 h). Or splurge on the Gotthard Panorama Express (boat + train) to Lucerne. Friends: fly home from Milan Malpensa, ≈ 1 h 30 by train from Lugano (Aeroméxico flies nonstop to Mexico City from spring 2027), or from Zürich (≈ 2 h).
 
 **Where to stay**
 
@@ -258,22 +276,30 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **Apartments + 3★ hotels**. Apartments in Lucerne and Lauterbrunnen, 3★ hotels for the single nights. Täsch instead of Zermatt. (≈ CHF 90–120 pp/night)
 - *Splurge night:* **Riffelhaus 1853 or Kulmhotel Gornergrat**. Stay up the mountain when the day-trippers have left: sunset and sunrise on the Matterhorn. (≈ CHF 200+ pp)
 
-**Getting there:** Langenfeld → Köln → Basel SBB (ICE ≈ 4 h) → Lucerne (1 h). Buy the DB ticket only as far as Basel SBB, because the Swiss Travel Pass covers everything from there. Home from Lugano via Zürich or Basel.
+**Getting there, you two:** Langenfeld → Köln → Basel SBB (ICE ≈ 4 h) → Lucerne (1 h). Buy the DB ticket only as far as Basel SBB, because the Swiss Travel Pass covers everything from there. Home from Lugano via Zürich or Basel.
+
+**Getting there, friends:** Fly into Zürich. The Swiss Travel Pass covers the 1 h train from the airport to Lucerne. Fly home from Milan Malpensa, ≈ 1 h 30 by train from Lugano (Aeroméxico flies nonstop to Mexico City from spring 2027), or from Zürich (≈ 2 h).
 
 **Getting around:** Swiss Travel Pass, 15 days, 2nd class: CHF 499 (youth CHF 356). It covers almost everything. Seat reservations are extra: GoldenPass Express CHF 20, Glacier Express CHF 54, Bernina Express ≈ CHF 32–44 and the Bernina bus. Budget ≈ CHF 140 per person for reservations. For the cheapest option, skip the reservations and use regional trains on the same lines.
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
-| Train Langenfeld ⇄ Basel | 95 | 150 |
 | Swiss Travel Pass + seat reservations | 640 | 660 |
 | Mountain lifts (Pilatus, Gornergrat, Schilthorn…) | 150 | 350 |
 | Accommodation (13 nights) | 845 | 1 365 |
 | Food | 560 | 980 |
 | Buffer | 100 | 150 |
-| **Total May–June** | **2 390** (≈ €2 560) | **3 655** (≈ €3 910) |
-| *Total July–August (estimate)* | *2 620* (≈ €2 800) | *4 026* (≈ €4 310) |
+| **In Switzerland, everyone** | 2 295 (≈ €2 460) | 3 505 (≈ €3 750) |
+| You two: train Langenfeld ⇄ Basel | 95 (≈ €100) | 150 (≈ €160) |
+| Friends: flights Mexico City ⇄ ZRH + airport train | 750 (≈ €800) | 1 120 (≈ €1 200) |
+| **Total from Langenfeld** | 2 390 (≈ €2 560) | 3 655 (≈ €3 910) |
+| **Total from Mexico City** | 3 045 (≈ €3 260) | 4 625 (≈ €4 950) |
+| *Total from Langenfeld, July–August (estimate)* | 2 620 (≈ €2 800) | 4 026 (≈ €4 310) |
+| *Total from Mexico City, July–August (estimate)* | 3 481 (≈ €3 720) | 5 296 (≈ €5 670) |
+
+Whole group (2 + 3): ≈ €14 900–22 670 in May–June.
 
 **Hidden gems:** Rigi Scheidegg trail: The quiet side of Rigi, with views over Lake Lucerne and Lake Zug.; St-Saphorin: A tiny medieval wine village in Lavaux with a lakeside tavern.; Riffelsee at dawn: The famous Matterhorn reflection without people.; Alp Grüm: A station terrace above the Palü glacier on the Bernina line.; Gandria: A car-free fishing village clinging to the cliffs of Lake Lugano.
 
@@ -286,7 +312,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - Zermatt is car-free and pricey. Täsch (one stop before) is the money saver.
 - The pass also gives free entry to 500+ museums, so use it on rainy days.
 
-**Booking:** *Now:* Refundable hostels or hotels for all six stops, especially Zermatt/Täsch and Lucerne. · *6 months before:* DB Köln ⇄ Basel Sparpreis tickets. · *~3 months before:* Glacier Express + Bernina Express + GoldenPass reservations. · *2–4 weeks before:* Swiss Travel Pass online (pick your start date).
+**Booking:** *Now:* Refundable hostels or hotels for all six stops, especially Zermatt/Täsch and Lucerne. · *6 months before:* DB Köln ⇄ Basel Sparpreis tickets. · *3–6 months before:* Friends: flights Mexico City → Zürich (ZRH → home from MXP). Set price alerts now. · *~3 months before:* Glacier Express + Bernina Express + GoldenPass reservations. · *2–4 weeks before:* Swiss Travel Pass online (pick your start date).
 
 **Make it longer:** It is already 14 days. To slow down, drop Montreux and add a night each in Lauterbrunnen and Lugano.
 
@@ -296,15 +322,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > The Matterhorn, the longest glacier in the Alps and a car-free glacier village where your guest card makes all summer lifts free.
 
-**10 days / 9 nights · best July – August 2027 · ≈ 6.5–7 h by train · ≈ €1 520–2 510 pp**
+**10 days / 9 nights · best July – August 2027 · ≈ 6.5–7 h by train from Langenfeld · friends fly into GVA · ≈ €1 410–2 350 pp in Switzerland**
 
 *High trails (Five Lakes Walk, Aletsch ridge) are snow-free from about late June or July. Late June works too, and the second half of August is a little quieter.*
 
 **Month by month:** *May: Not ideal* (Too early: the Five Lakes and Aletsch trails are under snow.) · *June: Good* (Good from late June, but some high trails are still opening.) · *July: Great* (Prime time: snow-free high trails, wildflowers and all the free Saas lifts.) · *August: Great* (Still prime. Zermatt is busy, so the Saas valley base pays off.)
 
-**July–August:** ≈ €1 670–2 770 pp (beds +25 %). The SaastalCard's free lifts and cheaper beds in Täsch cancel out much of the summer premium. Book both now.
+**July–August:** ≈ €1 550–2 580 pp in Switzerland (beds +25 %); all-in €1 670–2 770 from Langenfeld, €2 650–4 230 from Mexico City. The SaastalCard's free lifts and cheaper beds in Täsch cancel out much of the summer premium. Book both now.
 
-**Route:** Langenfeld → Saas-Fee / Saas-Grund (4 n) → Täsch (2 n) → Riederalp / Bettmeralp (3 n) → home
+**Route:** Langenfeld + Mexico City → Saas-Fee / Saas-Grund (4 n) → Täsch (2 n) → Riederalp / Bettmeralp (3 n) → home
 
 **Why go**
 
@@ -315,7 +341,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **To the glacier village:** Langenfeld → Basel → Bern → Visp → bus to Saas-Fee (≈ 7 h). Collect your SaastalCard at check-in.
+1. **To the glacier village:** Langenfeld → Basel → Bern → Visp → bus to Saas-Fee (≈ 7 h). Collect your SaastalCard at check-in. Friends from Mexico City: fly into Geneva (or Zürich). Direct trains from Geneva airport reach Visp in ≈ 2 h 15, then the bus goes up to Saas.
 2. **Free lifts day 1:** Spielboden & Längfluh lifts (free) for close-up glacier views. Feed the marmots at Spielboden. Walk down via the glacier trail.
 3. **Hohsaas 4000er trail:** Saas-Grund → Kreuzboden → Hohsaas (3,200 m, free): the '18 four-thousanders' view trail. Afternoon: Kapellenweg chapel path to Saas-Fee. *Tip: The Metro Alpin to 3,500 m is not free (≈ CHF 45 with the card).*
 4. **Mattmark & Saas-Almagell:** Bus to the Mattmark lake (2,200 m) and walk around the turquoise reservoir, or take the Heidbodme lift and do the Almagell high trail.
@@ -324,7 +350,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 7. **To the Aletsch plateau:** Täsch → Visp → Mörel → cable car to car-free Riederalp (≈ 1.5 h). Walk through the ancient Aletsch forest.
 8. **Aletsch Glacier day:** Moosfluh → panoramic trail along the glacier edge → Bettmerhorn or Eggishorn: the longest glacier in the Alps right below you. *Tip: Trails on the Moosfluh slope are monitored and can be rerouted, so check locally.*
 9. **Spa day in Leukerbad:** Day trip to Leukerbad (≈ 1.5 h): open-air thermal pools facing 1,000 m cliffs, plus the Gemmi pass cable car.
-10. **Home:** Brig → Bern → Basel → Köln (≈ 6.5 h).
+10. **Home:** Brig → Bern → Basel → Köln (≈ 6.5 h). Friends: from Brig it is ≈ 2 h 30 back to Geneva airport or to Zürich airport.
 
 **Where to stay**
 
@@ -332,22 +358,30 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **Apartments in all three places**. Saas-Grund is cheaper than Saas-Fee and still gets the SaastalCard. (≈ CHF 80–110 pp/night)
 - *Splurge night:* **Kulmhotel Gornergrat (3,100 m)**. One of the highest hotels in the Alps: Matterhorn sunset and a sky full of stars. (≈ CHF 200+ pp)
 
-**Getting there:** Langenfeld → Köln → Basel → Bern → Visp (≈ 6 h), then the PostBus up the Saas valley. DB sells Sparpreis Europa tickets to Visp/Brig. Home from Brig.
+**Getting there, you two:** Langenfeld → Köln → Basel → Bern → Visp (≈ 6 h), then the PostBus up the Saas valley. DB sells Sparpreis Europa tickets to Visp/Brig. Home from Brig.
+
+**Getting there, friends:** Fly into Geneva (or Zürich). Direct trains from Geneva airport reach Visp in ≈ 2 h 15, then the bus goes up to Saas. From Brig it is ≈ 2 h 30 back to Geneva airport or to Zürich airport.
 
 **Getting around:** A Swiss Half Fare Card (CHF 150, 1 month) is best here, because the Saas lifts are free anyway. Expect ≈ CHF 190 more in half-price tickets (Gornergrat, Aletsch lifts, Leukerbad, transfers). The Swiss Travel Pass would cost more for this route.
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
-| Train Langenfeld ⇄ Valais | 100 | 150 |
 | Half Fare Card + tickets | 340 | 380 |
 | Lifts & entries (Saas lifts free!) | 45 | 160 |
 | Accommodation (9 nights) | 495 | 855 |
 | Food | 380 | 700 |
 | Buffer | 60 | 100 |
-| **Total May–June** | **1 420** (≈ €1 520) | **2 345** (≈ €2 510) |
-| *Total July–August (estimate)* | *1 564* (≈ €1 670) | *2 589* (≈ €2 770) |
+| **In Switzerland, everyone** | 1 320 (≈ €1 410) | 2 195 (≈ €2 350) |
+| You two: train Langenfeld ⇄ Valais | 100 (≈ €110) | 150 (≈ €160) |
+| Friends: flights Mexico City ⇄ GVA + airport train | 810 (≈ €870) | 1 210 (≈ €1 290) |
+| **Total from Langenfeld** | 1 420 (≈ €1 520) | 2 345 (≈ €2 510) |
+| **Total from Mexico City** | 2 130 (≈ €2 280) | 3 405 (≈ €3 640) |
+| *Total from Langenfeld, July–August (estimate)* | 1 564 (≈ €1 670) | 2 589 (≈ €2 770) |
+| *Total from Mexico City, July–August (estimate)* | 2 479 (≈ €2 650) | 3 949 (≈ €4 230) |
+
+Whole group (2 + 3): ≈ €9 880–15 940 in May–June.
 
 **Hidden gems:** SaastalCard lifts: Nine free summer cable cars. Hardly any foreign tourists know this trick.; Mattmark: A turquoise high-alpine reservoir at the end of the road.; Riffelsee: Matterhorn reflection, 5 minutes from Rotenboden station.; Aletsch forest: 1,000-year-old Swiss stone pines at the glacier's edge.; Gemmi pass: A cliff-top lake plateau above Leukerbad.
 
@@ -360,7 +394,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - The Five Lakes Walk and Aletsch high trails open when the snow melts, often only in late June.
 - Valais has the most sunshine in Switzerland, but it is still the Alps: pack layers.
 
-**Booking:** *Now:* Täsch + Riederalp apartments (popular from June, and they sell out for July–August). · *6 months before:* DB tickets to Visp/Brig. · *2–4 weeks before:* Half Fare Card online. · *1 day before:* Gornergrat on the clearest day.
+**Booking:** *Now:* Täsch + Riederalp apartments (popular from June, and they sell out for July–August). · *6 months before:* DB tickets to Visp/Brig. · *3–6 months before:* Friends: flights Mexico City → Geneva (GVA). Set price alerts now. · *2–4 weeks before:* Half Fare Card online. · *1 day before:* Gornergrat on the clearest day.
 
 **Make it longer:** Add 4 nights in the Bernese Oberland (Option 01) before Valais. Kandersteg → Lötschberg tunnel → Visp is only 1 hour.
 
@@ -370,15 +404,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > Switzerland's highest valley: silver lakes, the Bernina glaciers, sgraffito villages and hotels that include all mountain lifts in the room price.
 
-**10 days / 9 nights · best July – August 2027 · ≈ 6–8 h by train · ≈ €1 570–2 570 pp**
+**10 days / 9 nights · best July – August 2027 · ≈ 6–8 h by train from Langenfeld · friends fly into ZRH · ≈ €1 460–2 410 pp in Switzerland**
 
 *Summer lifts open between ~6 and 27 June (2026: Muottas Muragl 6 June, Diavolezza 20 June). July and August have every lift, the warmest lakes and the most out of 'lifts included'.*
 
 **Month by month:** *May: Not ideal* (Off season: the summer lifts are closed and some hotels shut until June.) · *June: Good* (Lifts start between ~6 and 27 June. Late June is lovely and quiet.) · *July: Great* (Best month: every lift, warm lakes, flowers, and fewer crowds than the Bernese Oberland.) · *August: Great* (Warm and fully open. Busier with Italian visitors around mid-August.)
 
-**July–August:** ≈ €1 680–2 760 pp (beds +15 %). Book a hotel with 'Bergbahnen inklusive' (lifts included). It runs all summer, so the longer the lifts are open, the more you save.
+**July–August:** ≈ €1 550–2 570 pp in Switzerland (beds +15 %); all-in €1 680–2 760 from Langenfeld, €2 660–4 200 from Mexico City. Book a hotel with 'Bergbahnen inklusive' (lifts included). It runs all summer, so the longer the lifts are open, the more you save.
 
-**Route:** Langenfeld → Flims (2 n) → Pontresina (4 n) → Scuol (3 n) → home
+**Route:** Langenfeld + Mexico City → Flims (2 n) → Pontresina (4 n) → Scuol (3 n) → home
 
 **Why go**
 
@@ -389,7 +423,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **To Flims:** Langenfeld → Basel/Zürich → Chur → bus to Flims (≈ 6.5 h). Evening walk to the forest lakes.
+1. **To Flims:** Langenfeld → Basel/Zürich → Chur → bus to Flims (≈ 6.5 h). Evening walk to the forest lakes. Friends from Mexico City: fly into Zürich, then take the train to Chur (≈ 1 h 30) and the bus to Flims.
 2. **Caumasee & Rhine Gorge:** Morning swim at turquoise Caumasee (a lift goes down to the beach, with an entry fee in summer) or the free, smaller Crestasee. Walk to the Il Spir platform above the Ruinaulta, the 'Swiss Grand Canyon'.
 3. **Albula railway:** Chur → Filisur (Landwasser Viaduct viewpoint) → Bergün → spiral tunnels → Pontresina. Check in to a 'lifts included' hotel.
 4. **Morteratsch & Diavolezza:** Glacier walk to the Morteratsch glacier tongue (signs show how far it has retreated), then Diavolezza for the Bernina massif. *Tip: Diavolezza opened on 20 June in 2026. Before that, do Muottas Muragl instead.*
@@ -398,7 +432,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 7. **To Lower Engadin:** Train to Scuol. Afternoon at the Bogn Engiadina thermal spa.
 8. **Swiss National Park:** Zernez visitor centre, then a trail in the park, e.g. Il Fuorn → Margunet, to spot chamois, ibex and marmots.
 9. **Guarda & Tarasp:** Hike the 'Schellen-Ursli' village of Guarda with its sgraffito houses → Ardez, and visit fairy-tale Tarasp castle.
-10. **Home:** Scuol → Vereina tunnel → Landquart → Zürich → Köln (≈ 7 h).
+10. **Home:** Scuol → Vereina tunnel → Landquart → Zürich → Köln (≈ 7 h). Friends: from Scuol it is ≈ 2 h 45 by train back to Zürich airport.
 
 **Where to stay**
 
@@ -406,22 +440,30 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **3★ hotel with lifts included**. Pontresina, Samedan or Sils hotels in the scheme. The free lifts offset the higher room price. (≈ CHF 100–130 pp/night)
 - *Splurge night:* **Hotel Waldhaus Sils or Romantik Hotel Muottas Muragl**. A grand hotel with a Belle Époque lounge, or a mountain hotel above the lakes. (≈ CHF 200+ pp)
 
-**Getting there:** Langenfeld → Köln → Basel or Zürich → Chur (≈ 6 h). DB sells through-tickets to Chur. The Rhaetian Railway (RhB) takes over from there.
+**Getting there, you two:** Langenfeld → Köln → Basel or Zürich → Chur (≈ 6 h). DB sells through-tickets to Chur. The Rhaetian Railway (RhB) takes over from there.
+
+**Getting there, friends:** Fly into Zürich, then take the train to Chur (≈ 1 h 30) and the bus to Flims. From Scuol it is ≈ 2 h 45 by train back to Zürich airport.
 
 **Getting around:** Half Fare Card (CHF 150) + tickets. In Upper Engadin most lifts and often buses are free with participating hotels. In Lower Engadin ask your host for the guest card. Budget ≈ CHF 120 more for half-price train tickets.
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
-| Train Langenfeld ⇄ Chur | 100 | 150 |
 | Half Fare + Swiss tickets | 270 | 300 |
 | Lifts & entries (many included) | 70 | 160 |
 | Accommodation (9 nights) | 585 | 990 |
 | Food | 380 | 700 |
 | Buffer | 60 | 100 |
-| **Total May–June** | **1 465** (≈ €1 570) | **2 400** (≈ €2 570) |
-| *Total July–August (estimate)* | *1 573* (≈ €1 680) | *2 578* (≈ €2 760) |
+| **In Switzerland, everyone** | 1 365 (≈ €1 460) | 2 250 (≈ €2 410) |
+| You two: train Langenfeld ⇄ Chur | 100 (≈ €110) | 150 (≈ €160) |
+| Friends: flights Mexico City ⇄ ZRH + airport train | 810 (≈ €870) | 1 200 (≈ €1 280) |
+| **Total from Langenfeld** | 1 465 (≈ €1 570) | 2 400 (≈ €2 570) |
+| **Total from Mexico City** | 2 175 (≈ €2 330) | 3 450 (≈ €3 690) |
+| *Total from Langenfeld, July–August (estimate)* | 1 573 (≈ €1 680) | 2 578 (≈ €2 760) |
+| *Total from Mexico City, July–August (estimate)* | 2 488 (≈ €2 660) | 3 928 (≈ €4 200) |
+
+Whole group (2 + 3): ≈ €10 130–16 210 in May–June.
 
 **Hidden gems:** Lej da Staz: A dark forest lake between St. Moritz and Pontresina.; Val Fex: A car-free side valley with a glacier at the end.; Crestasee: Caumasee's quieter, cheaper twin.; Guarda: One of the prettiest villages in Switzerland, straight out of a children's book.; Soglio (bonus): A chestnut-forest village above Val Bregaglia, 1.5 h by PostBus from St. Moritz.
 
@@ -434,7 +476,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - In summer 2026 the St. Moritz Dorf–Corviglia funicular was closed for renovation, so check for 2027.
 - The 2017 Bondo landslide area (Val Bondasca) in Bregaglia is closed. Soglio itself is fine.
 
-**Booking:** *Now:* Hotels in the 'lifts included' scheme (filter on graubuenden.ch). · *6 months before:* DB tickets to Chur. · *2–4 weeks before:* Half Fare Card. · *On the day:* Regional Bernina trains need no reservation.
+**Booking:** *Now:* Hotels in the 'lifts included' scheme (filter on graubuenden.ch). · *6 months before:* DB tickets to Chur. · *3–6 months before:* Friends: flights Mexico City → Zürich (ZRH). Set price alerts now. · *2–4 weeks before:* Half Fare Card. · *On the day:* Regional Bernina trains need no reservation.
 
 **Make it longer:** Add 3 nights on Lake Como via the Bernina line to Tirano (Option 10), or Soglio + Chiavenna.
 
@@ -444,15 +486,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > Switzerland with an Italian soul: jade-green rivers, waterfalls, stone villages and lakeside piazzas, with free public transport for hotel guests.
 
-**9 days / 8 nights · best 15 May – 15 June 2027 · ≈ 7.5–8 h by train · ≈ €1 130–1 950 pp**
+**9 days / 8 nights · best 15 May – 15 June 2027 · ≈ 7.5–8 h by train from Langenfeld · friends fly into MXP · ≈ €950–1 690 pp in Switzerland**
 
 *The best region for May: 20–25 °C, rivers full, before the summer heat. River water is still cold (≈ 12–16 °C).*
 
 **Month by month:** *May: Great* (Warm (20–25 °C), green and quiet. The best region for May.) · *June: Great* (Warm, long evenings, and the lakes become swimmable.) · *July: Good* (Swimming season, but hot (30 °C+), humid and busier.) · *August: OK* (The hottest month. Ferragosto (15 Aug) brings Italian crowds, and Locarno hotels spike during the film festival.)
 
-**July–August:** ≈ €1 280–2 190 pp (beds +25 %). In summer, sleep higher up (Valle Maggia or the Monti above Locarno), hike in the morning and swim in the afternoon. The Ticino Ticket still makes transport free.
+**July–August:** ≈ €1 060–1 870 pp in Switzerland (beds +25 %); all-in €1 280–2 190 from Langenfeld, €2 160–3 500 from Mexico City. In summer, sleep higher up (Valle Maggia or the Monti above Locarno), hike in the morning and swim in the afternoon. The Ticino Ticket still makes transport free.
 
-**Route:** Langenfeld → Tenero / Locarno (5 n) → Lugano (3 n) → home
+**Route:** Langenfeld + Mexico City → Tenero / Locarno (5 n) → Lugano (3 n) → home
 
 **Why go**
 
@@ -463,7 +505,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **South through the Gotthard:** Langenfeld → Basel → Gotthard Base Tunnel → Bellinzona → Tenero/Locarno (≈ 8 h). Aperitivo on Lake Maggiore.
+1. **South through the Gotthard:** Langenfeld → Basel → Gotthard Base Tunnel → Bellinzona → Tenero/Locarno (≈ 8 h). Aperitivo on Lake Maggiore. Friends from Mexico City: fly into Milan Malpensa (Aeroméxico nonstop from spring 2027), then ≈ 2 h by train to Locarno with one change. Zürich works too (≈ 2 h 45 through the Gotthard).
 2. **Valle Verzasca:** Bus 321 to Sonogno, hike the riverside Sentierone down to Lavertezzo (≈ 3–4 h) and the Ponte dei Salti double-arch bridge. Stop at the stone village of Corippo. *Tip: Go on a weekday and start early. Lavertezzo is busy at weekends.*
 3. **Valle Maggia & Bavona:** Bus to Bignasco → Val Bavona: Foroglio's 110 m waterfall and stone hamlets with no mains electricity. Mario Botta's church in Mogno. *Tip: The Bavona road reopened in April 2025 after the 2024 flood.*
 4. **Cardada & Ascona:** Funicular + cable car + chairlift to Cimetta: from Monte Rosa down to the lake. Afternoon in Ascona.
@@ -471,7 +513,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 6. **Bellinzona → Lugano:** UNESCO castles of Bellinzona (Castelgrande), then on to Lugano.
 7. **Lake Lugano:** Monte Brè funicular → olive trail to Gandria → boat back. Sunset on Monte San Salvatore.
 8. **Monte Generoso or Como:** Cog railway to Monte Generoso (Mario Botta's 'stone flower' summit building) or a day trip to Como / Bellagio in Italy (30 min). *Tip: Morcote by boat is a lovely calmer option.*
-9. **Home:** Lugano → Zürich → Köln (≈ 7.5 h).
+9. **Home:** Lugano → Zürich → Köln (≈ 7.5 h). Friends: from Lugano it is ≈ 1 h 30 by direct train to Malpensa.
 
 **Where to stay**
 
@@ -479,22 +521,30 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **Apartment or rustico (stone cottage)**. Minusio, Gordola or Tenero for Locarno. Paradiso or Castagnola for Lugano. Confirm the Ticino Ticket with your host. (≈ CHF 70–100 pp/night)
 - *Splurge night:* **Corippo's 'albergo diffuso'**. A hotel spread across the houses of a tiny 1,000-year-old stone village. (≈ CHF 150+ pp)
 
-**Getting there:** Langenfeld → Köln → Basel → Lucerne/Arth-Goldau → Gotthard Base Tunnel → Bellinzona → Locarno (≈ 8 h). Cheapest: DB Sparpreis to Basel + an SBB Saver Day Pass (from CHF 52, or CHF 29 with Half Fare) for the Swiss part each way.
+**Getting there, you two:** Langenfeld → Köln → Basel → Lucerne/Arth-Goldau → Gotthard Base Tunnel → Bellinzona → Locarno (≈ 8 h). Cheapest: DB Sparpreis to Basel + an SBB Saver Day Pass (from CHF 52, or CHF 29 with Half Fare) for the Swiss part each way.
+
+**Getting there, friends:** Fly into Milan Malpensa (Aeroméxico nonstop from spring 2027), then ≈ 2 h by train to Locarno with one change. Zürich works too (≈ 2 h 45 through the Gotthard). From Lugano it is ≈ 1 h 30 by direct train to Malpensa.
 
 **Getting around:** Free with the Ticino Ticket (from your accommodation). It covers regional trains and buses for your whole stay, with 20–30 % off cable cars and some boats. No Swiss pass needed.
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
-| Train Langenfeld ⇄ Ticino (DB + Saver Day Passes) | 170 | 250 |
 | Local transport (Ticino Ticket = free) | 30 | 60 |
 | Lifts & entries | 70 | 150 |
 | Accommodation (8 nights) | 400 | 680 |
 | Food (grotti are good value) | 340 | 585 |
 | Buffer | 50 | 100 |
-| **Total May–June** | **1 060** (≈ €1 130) | **1 825** (≈ €1 950) |
-| *Total July–August (estimate)* | *1 194* (≈ €1 280) | *2 045* (≈ €2 190) |
+| **In Switzerland, everyone** | 890 (≈ €950) | 1 575 (≈ €1 690) |
+| You two: train Langenfeld ⇄ Ticino (DB + Saver Day Passes) | 170 (≈ €180) | 250 (≈ €270) |
+| Friends: flights Mexico City ⇄ MXP + airport train | 800 (≈ €860) | 1 200 (≈ €1 280) |
+| **Total from Langenfeld** | 1 060 (≈ €1 130) | 1 825 (≈ €1 950) |
+| **Total from Mexico City** | 1 690 (≈ €1 810) | 2 775 (≈ €2 970) |
+| *Total from Langenfeld, July–August (estimate)* | 1 194 (≈ €1 280) | 2 045 (≈ €2 190) |
+| *Total from Mexico City, July–August (estimate)* | 2 015 (≈ €2 160) | 3 275 (≈ €3 500) |
+
+Whole group (2 + 3): ≈ €7 690–12 810 in May–June.
 
 **Hidden gems:** Corippo: The smallest municipality in Switzerland until 2020, a cascade of stone houses.; Val Bavona: Twelve stone hamlets, waterfalls and no electricity grid.; Rasa: A car-free hamlet reached only by a tiny cable car from Verdasio.; Gandria: A fishing village on stilts, reached by an olive-grove trail.; Grotti: Rustic stone taverns: polenta, brasato and Merlot for ≈ CHF 30–45.
 
@@ -507,7 +557,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - Ticino Ticket eligibility varies: most hotels, hostels and campsites take part, but many Airbnbs do not. Ask before booking.
 - Mosquito repellent helps by the lakes in the evening.
 
-**Booking:** *Now:* Campsite bungalow / apartment with the Ticino Ticket. · *6 months before:* DB Köln ⇄ Basel + SBB Saver Day Passes (cheapest early). · *Weekdays:* Plan the Verzasca hike Monday to Friday. · *On the day:* Grotto tables are first come, first served at lunch.
+**Booking:** *Now:* Campsite bungalow / apartment with the Ticino Ticket. · *6 months before:* DB Köln ⇄ Basel + SBB Saver Day Passes (cheapest early). · *3–6 months before:* Friends: flights Mexico City → Milan Malpensa (MXP). Set price alerts now. · *Weekdays:* Plan the Verzasca hike Monday to Friday. · *On the day:* Grotto tables are first come, first served at lunch.
 
 **Make it longer:** Add 3–4 nights on Lake Como (Option 10) or 4 nights in the Bernese Oberland on the way back.
 
@@ -517,15 +567,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > A fjord-like lake ringed by famous peaks: Pilatus, Rigi, Stoos, Bürgenstock. One pass covers almost all of it, and Lucerne is only 5 hours from home.
 
-**8 days / 7 nights · best 20 May – 30 June 2027 · ≈ 5 h by train · ≈ €1 280–2 030 pp**
+**8 days / 7 nights · best 20 May – 30 June 2027 · ≈ 5 h by train from Langenfeld · friends fly into ZRH · ≈ €1 190–1 890 pp in Switzerland**
 
 *Pilatus opened on 11 May in 2026. The Stoos ridge hike is usually snow-free from mid-June.*
 
 **Month by month:** *May: Good* (Pilatus from mid-May, but the Stoos ridge and high trails are still snowy.) · *June: Great* (Everything open and the lake warming up. The sweet spot.) · *July: Good* (Lake swimming and every lift, but the old town and the boats are packed.) · *August: Good* (The same crowds, and the Lucerne Festival starts in mid-August.)
 
-**July–August:** ≈ €1 410–2 230 pp (beds +25 %). Take the first lift of the day up Pilatus or Rigi, and swim at the free Ufschötti lakeside park in the afternoon.
+**July–August:** ≈ €1 290–2 070 pp in Switzerland (beds +25 %); all-in €1 410–2 230 from Langenfeld, €2 380–3 670 from Mexico City. Take the first lift of the day up Pilatus or Rigi, and swim at the free Ufschötti lakeside park in the afternoon.
 
-**Route:** Langenfeld → Lucerne (7 n) → home
+**Route:** Langenfeld + Mexico City → Lucerne (7 n) → home
 
 **Why go**
 
@@ -536,14 +586,14 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **Lucerne:** Langenfeld → Basel → Lucerne (≈ 5 h). Chapel Bridge, Lion Monument and the free Musegg wall towers. *Tip: Hotel guests get the Lucerne Visitor Card: free city buses.*
+1. **Lucerne:** Langenfeld → Basel → Lucerne (≈ 5 h). Chapel Bridge, Lion Monument and the free Musegg wall towers. Friends from Mexico City: fly into Zürich. Lucerne is ≈ 1 h by train from the airport. *Tip: Hotel guests get the Lucerne Visitor Card: free city buses.*
 2. **Pilatus Golden Round Trip:** Boat → Alpnachstad → the world's steepest cog railway → Pilatus Kulm → gondola down to Kriens.
 3. **Rigi, Queen of the Mountains:** Boat to Vitznau → cog railway to Rigi Kulm → walk to Kaltbad and the panorama trail to Rigi Scheidegg. *Tip: Splurge: Mario Botta's Rigi Kaltbad mineral baths.*
 4. **Stoos ridge:** Steepest funicular in the world (110 %) → chairlift to Klingenstock → ridge hike to Fronalpstock (≈ 2.5 h) with views of 10 lakes. *Tip: Needs a head for heights and snow-free conditions (usually from mid-June).*
 5. **Engelberg:** Trübsee alpine lake and the Engstlenalp trail, or Brunni and the Härzlisee. Titlis is extra (glacier, Cliff Walk).
 6. **Bürgenstock & Stanserhorn:** Boat + funicular to Bürgenstock, the cliff path to the Hammetschwand lift (Europe's highest outdoor lift). Afternoon: the CabriO open-top cable car up Stanserhorn.
 7. **Hidden gem day:** Maderanertal: waterfalls, the Golzernsee lake and a historic hotel. Or Seelisberg → the Rütli meadow, birthplace of Switzerland, by boat on Lake Uri.
-8. **Home:** Morning on the lake, train home in the afternoon (≈ 5 h).
+8. **Home:** Morning on the lake, train home in the afternoon (≈ 5 h). Friends: ≈ 1 h back to Zürich airport.
 
 **Where to stay**
 
@@ -551,22 +601,30 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **Apartment for 5 in Lucerne, Kriens or Weggis**. Weggis/Vitznau on the lake are calmer and boats are covered by your pass. (≈ CHF 300–450 per night for the group)
 - *Splurge night:* **Hotel Rigi Kulm or Hotel Pilatus-Kulm**. Sleep on the summit and watch the sunrise over a sea of fog and the Alps. (≈ CHF 150–250 pp)
 
-**Getting there:** Langenfeld → Köln → Basel → Lucerne (≈ 5 h, one change). DB Sparpreis Europa goes straight to Luzern.
+**Getting there, you two:** Langenfeld → Köln → Basel → Lucerne (≈ 5 h, one change). DB Sparpreis Europa goes straight to Luzern.
+
+**Getting there, friends:** Fly into Zürich. Lucerne is ≈ 1 h by train from the airport. ≈ 1 h back to Zürich airport.
 
 **Getting around:** Lucerne Travel Pass: 3 days CHF 240, 5 days CHF 290, 10 days CHF 365 (one price all year, no extra discounts). It includes Pilatus, Rigi, Stoos, Bürgenstock, Stanserhorn, Brunni and the lake boats. For 7 days, buy the 5-day pass and do Lucerne-only days without it.
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
-| Train Langenfeld ⇄ Lucerne | 90 | 130 |
 | Lucerne Travel Pass + city transport | 310 | 310 |
 | Lifts & entries not covered | 60 | 150 |
 | Accommodation (7 nights) | 385 | 665 |
 | Food | 305 | 560 |
 | Buffer | 50 | 80 |
-| **Total May–June** | **1 200** (≈ €1 280) | **1 895** (≈ €2 030) |
-| *Total July–August (estimate)* | *1 314* (≈ €1 410) | *2 087* (≈ €2 230) |
+| **In Switzerland, everyone** | 1 110 (≈ €1 190) | 1 765 (≈ €1 890) |
+| You two: train Langenfeld ⇄ Lucerne | 90 (≈ €100) | 130 (≈ €140) |
+| Friends: flights Mexico City ⇄ ZRH + airport train | 790 (≈ €850) | 1 170 (≈ €1 250) |
+| **Total from Langenfeld** | 1 200 (≈ €1 280) | 1 895 (≈ €2 030) |
+| **Total from Mexico City** | 1 900 (≈ €2 030) | 2 935 (≈ €3 140) |
+| *Total from Langenfeld, July–August (estimate)* | 1 314 (≈ €1 410) | 2 087 (≈ €2 230) |
+| *Total from Mexico City, July–August (estimate)* | 2 221 (≈ €2 380) | 3 431 (≈ €3 670) |
+
+Whole group (2 + 3): ≈ €8 650–13 480 in May–June.
 
 **Hidden gems:** Musegg wall: Free medieval towers with the best view over Lucerne's rooftops.; Maderanertal: A deep, quiet valley of waterfalls, with a 19th-century hotel at the end.; Seelisberg & Rütli: A forest lake, a lakeside meadow and boats on fjord-like Lake Uri.; Härzlisee: A small mountain lake at Brunni (Engelberg), perfect for a picnic.; Rigi Scheidegg: The quiet end of Rigi, with old railway tracks turned into a trail.
 
@@ -579,7 +637,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - Lake Lucerne is chilly for swimming until late June (≈ 17–19 °C).
 - Pilatus (cog railway) usually opens mid-May. Before that, use the Kriens gondola.
 
-**Booking:** *Now:* Apartment in Lucerne or on the lake. · *6 months before:* DB Sparpreis to Luzern. · *1–2 weeks before:* Lucerne Travel Pass (fixed price). · *Day before:* Choose Pilatus/Rigi days by weather.
+**Booking:** *Now:* Apartment in Lucerne or on the lake. · *6 months before:* DB Sparpreis to Luzern. · *3–6 months before:* Friends: flights Mexico City → Zürich (ZRH). Set price alerts now. · *1–2 weeks before:* Lucerne Travel Pass (fixed price). · *Day before:* Choose Pilatus/Rigi days by weather.
 
 **Make it longer:** Add the Bernese Oberland (Option 01): Lucerne → Interlaken is 2 h over the Brünig pass.
 
@@ -589,15 +647,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > The cliff-side Aescher guesthouse, mirror lakes in the Alpstein, Europe's mightiest waterfall and a village you can only reach by boat. Cheap, close and still a secret.
 
-**8 days / 7 nights · best 1 June – 31 July 2027 · ≈ 5–6 h by train · ≈ €1 090–1 790 pp**
+**8 days / 7 nights · best 1 June – 31 July 2027 · ≈ 5–6 h by train from Langenfeld · friends fly into ZRH · ≈ €1 000–1 650 pp in Switzerland**
 
 *Lower mountains (max ~2,000 m) open early. The new Säntis cable car opens in spring 2027. July is just as good and barely pricier.*
 
 **Month by month:** *May: Good* (Green and cheap, but the Alpstein trails stay snowy until June.) · *June: Great* (Meadows in flower and huts opening. The sweet spot.) · *July: Great* (Alpstein lakes and mountain inns at their best, and prices barely change.) · *August: Good* (Still lovely, but Ebenalp and Seealpsee are busy on sunny weekends.)
 
-**July–August:** ≈ €1 150–1 880 pp (beds +10 %). The cheapest summer option: mostly Swiss visitors, small family hotels and almost no peak surcharge. Do Ebenalp and Seealpsee on a weekday.
+**July–August:** ≈ €1 030–1 720 pp in Switzerland (beds +10 %); all-in €1 150–1 880 from Langenfeld, €2 120–3 320 from Mexico City. The cheapest summer option: mostly Swiss visitors, small family hotels and almost no peak surcharge. Do Ebenalp and Seealpsee on a weekday.
 
-**Route:** Langenfeld → Schaffhausen (1 n) → Appenzell (4 n) → Walensee (2 n) → home
+**Route:** Langenfeld + Mexico City → Schaffhausen (1 n) → Appenzell (4 n) → Walensee (2 n) → home
 
 **Why go**
 
@@ -608,14 +666,14 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **Rhine Falls:** Langenfeld → Köln → Singen/Zürich → Schaffhausen (≈ 5 h). Rhine Falls at evening light, with a boat to the rock in the middle.
+1. **Rhine Falls:** Langenfeld → Köln → Singen/Zürich → Schaffhausen (≈ 5 h). Rhine Falls at evening light, with a boat to the rock in the middle. Friends from Mexico City: fly into Zürich. Schaffhausen is ≈ 45 min by train from the airport.
 2. **Stein am Rhein → Appenzell:** Painted houses of Stein am Rhein, then St. Gallen's UNESCO Abbey Library and on to Appenzell.
 3. **Seealpsee & Aescher:** Cable car to Ebenalp → Wildkirchli caves → Aescher cliff guesthouse → steep path down to Seealpsee → Wasserauen (≈ 3 h). *Tip: Ebenalp cable car ≈ CHF 24 one way.*
 4. **Alpstein lakes:** Brülisau → Sämtisersee → Fälensee (a fjord-like mirror lake) → Bollenwees → back (≈ 5 h). Fit hikers start from Hoher Kasten along the Stauberen ridge.
 5. **Appenzell village:** Painted façades, the Appenzeller show dairy in Stein, and the Barfussweg barefoot trail Gontenbad → Appenzell (≈ 1.5 h). *Tip: Säntis: the new cable car opens in spring 2027. Check prices (half-fare discount reportedly dropped).*
 6. **To Walensee:** Train to Walenstadt/Murg, boat to car-free Quinten (vineyards and fig trees under the Churfirsten cliffs).
 7. **Seerenbach & Klöntal:** Seerenbach Falls, one of the highest waterfalls in Switzerland, or a trip to the turquoise Klöntalersee near Glarus.
-8. **Home:** Zürich → Köln (≈ 5 h).
+8. **Home:** Zürich → Köln (≈ 5 h). Friends: from Walensee it is ≈ 1 h to Zürich airport.
 
 **Where to stay**
 
@@ -623,22 +681,30 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **Hotels/apartments in Appenzell & Walenstadt**. Traditional Appenzell hotels with wooden rooms and big breakfasts. (≈ CHF 75–100 pp/night)
 - *Splurge night:* **Berggasthaus Ebenalp or Seealpsee**. Simple mountain guesthouse rooms/dorms: sunset over the Alpstein after the day-trippers leave. (≈ CHF 80–120 pp with dinner)
 
-**Getting there:** Langenfeld → Köln → Basel or Stuttgart/Singen → Schaffhausen (≈ 5 h). Home from Zürich. Driving is also easy here (≈ 6 h), and Appenzell parking is cheap.
+**Getting there, you two:** Langenfeld → Köln → Basel or Stuttgart/Singen → Schaffhausen (≈ 5 h). Home from Zürich. Driving is also easy here (≈ 6 h), and Appenzell parking is cheap.
+
+**Getting there, friends:** Fly into Zürich. Schaffhausen is ≈ 45 min by train from the airport. From Walensee it is ≈ 1 h to Zürich airport.
 
 **Getting around:** No pass needed. Buy individual tickets with Supersaver fares in the SBB app. The Half Fare Card (CHF 150) does not pay off on this short route. Lifts: Ebenalp CHF 36 return, Hoher Kasten extra.
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
-| Train Langenfeld ⇄ eastern Switzerland | 90 | 130 |
 | Swiss tickets (no pass) | 150 | 200 |
 | Lifts & entries | 100 | 150 |
 | Accommodation (7 nights) | 350 | 595 |
 | Food | 280 | 520 |
 | Buffer | 50 | 80 |
-| **Total May–June** | **1 020** (≈ €1 090) | **1 675** (≈ €1 790) |
-| *Total July–August (estimate)* | *1 073* (≈ €1 150) | *1 760* (≈ €1 880) |
+| **In Switzerland, everyone** | 930 (≈ €1 000) | 1 545 (≈ €1 650) |
+| You two: train Langenfeld ⇄ eastern Switzerland | 90 (≈ €100) | 130 (≈ €140) |
+| Friends: flights Mexico City ⇄ ZRH + airport train | 790 (≈ €850) | 1 170 (≈ €1 250) |
+| **Total from Langenfeld** | 1 020 (≈ €1 090) | 1 675 (≈ €1 790) |
+| **Total from Mexico City** | 1 720 (≈ €1 840) | 2 715 (≈ €2 910) |
+| *Total from Langenfeld, July–August (estimate)* | 1 073 (≈ €1 150) | 1 760 (≈ €1 880) |
+| *Total from Mexico City, July–August (estimate)* | 1 980 (≈ €2 120) | 3 104 (≈ €3 320) |
+
+Whole group (2 + 3): ≈ €7 700–12 310 in May–June.
 
 **Hidden gems:** Fälensee: A long, narrow mirror lake framed by limestone walls.; Sämtisersee: A lake that drains away underground, with cows grazing along it.; Quinten: A car-free hamlet reachable only by boat or on foot.; Barfussweg: A 1.5 h barefoot trail through meadows and mud between Gontenbad and Appenzell.; Klöntalersee: A turquoise lake under 2,000 m cliffs near Glarus.
 
@@ -651,7 +717,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - Many mountain guesthouses take cash only. Bring some CHF.
 - Lake Constance and the German side (Lindau, Mainau) are an easy extra day.
 
-**Booking:** *Now:* Appenzell apartment + 1 guesthouse night (they fill early). · *6 months before:* DB tickets (or plan the drive). · *1–2 days before:* Supersaver tickets in the SBB app. · *Weekdays:* Hike the Seealpsee loop Monday to Friday to avoid crowds.
+**Booking:** *Now:* Appenzell apartment + 1 guesthouse night (they fill early). · *6 months before:* DB tickets (or plan the drive). · *3–6 months before:* Friends: flights Mexico City → Zürich (ZRH). Set price alerts now. · *1–2 days before:* Supersaver tickets in the SBB app. · *Weekdays:* Hike the Seealpsee loop Monday to Friday to avoid crowds.
 
 **Make it longer:** Add Lucerne & lakes (Option 06): Walensee → Lucerne is 1.5 h.
 
@@ -661,15 +727,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > Wine terraces above a sea-like lake, a castle on the water, the home of Gruyère cheese and the Jura's hidden 'Grand Canyon' with wild ibex.
 
-**9 days / 8 nights · best 10 May – 30 June 2027 · ≈ 6.5 h by train · ≈ €1 480–2 390 pp**
+**9 days / 8 nights · best 10 May – 30 June 2027 · ≈ 6.5 h by train from Langenfeld · friends fly into GVA · ≈ €1 370–2 230 pp in Switzerland**
 
 *Low altitude, so it is great in May (wild narcissus fields above Montreux). Note: Rochers-de-Naye is closed until 21 May 2027.*
 
 **Month by month:** *May: Great* (Narcissus fields, mild and quiet. Rochers-de-Naye reopens on 22 May.) · *June: Great* (Warm, the vines are green, and the lake is swimmable by late June.) · *July: Good* (Swimming weather. Avoid Montreux during the Jazz Festival (2–17 July 2027).) · *August: Good* (Hot and lively. The Lavaux terraces and Jura lakes are great for a swim.)
 
-**July–August:** ≈ €1 590–2 580 pp (beds +20 %). In early July, base in Vevey or Lausanne instead of Montreux until the Jazz Festival ends (17 July 2027). The Jura stays cooler on hot days.
+**July–August:** ≈ €1 460–2 390 pp in Switzerland (beds +20 %); all-in €1 590–2 580 from Langenfeld, €2 540–3 980 from Mexico City. In early July, base in Vevey or Lausanne instead of Montreux until the Jazz Festival ends (17 July 2027). The Jura stays cooler on hot days.
 
-**Route:** Langenfeld → Montreux / Vevey (5 n) → Neuchâtel (3 n) → home
+**Route:** Langenfeld + Mexico City → Montreux / Vevey (5 n) → Neuchâtel (3 n) → home
 
 **Why go**
 
@@ -680,7 +746,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **To Lake Geneva:** Langenfeld → Basel → Lausanne → Montreux (≈ 6.5 h). Lakeside promenade at sunset.
+1. **To Lake Geneva:** Langenfeld → Basel → Lausanne → Montreux (≈ 6.5 h). Lakeside promenade at sunset. Friends from Mexico City: fly into Geneva. Montreux is ≈ 1 h 15 by direct train from the airport.
 2. **Lavaux:** Train to Chexbres, walk down the terraces to St-Saphorin and Rivaz (≈ 2.5 h), taste wine at a caveau, and take a paddle steamer back.
 3. **Chillon & the heights:** Château de Chillon (50 % off with the Riviera Card), then the Rochers-de-Naye cog railway (from 22 May 2027) or the narcissus meadows above Montreux (mid-May).
 4. **Gruyères:** Medieval Gruyères and its castle, the Maison du Gruyère dairy, the Cailler chocolate factory in Broc, and the Moléson summit.
@@ -688,7 +754,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 6. **To Neuchâtel:** Train to Neuchâtel: yellow-stone old town and lakeside.
 7. **Creux du Van:** Train to Noiraigue, climb the '14 hairpins' trail to the rim (≈ 2 h), lunch at the Ferme du Soliat, return via the Areuse gorge.
 8. **Saut du Doubs:** Train to Les Brenets, boat across the lake to the 27 m Doubs waterfall on the French border. Optional: the watchmaking towns of La Chaux-de-Fonds / Le Locle (UNESCO).
-9. **Home:** Neuchâtel → Basel → Köln (≈ 5 h).
+9. **Home:** Neuchâtel → Basel → Köln (≈ 5 h). Friends: from Neuchâtel it is ≈ 1 h 15 back to Geneva airport.
 
 **Where to stay**
 
@@ -696,22 +762,30 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **Apartment in Vevey / Clarens + hotel in Neuchâtel**. Ask for the Montreux Riviera Card, which apartments and campsites issue too. (≈ CHF 85–110 pp/night)
 - *Splurge night:* **Hotel des Trois Couronnes, Vevey**. A historic grand hotel on the lake (or just drinks on its terrace). (≈ CHF 250+ pp)
 
-**Getting there:** Langenfeld → Köln → Basel → Lausanne/Montreux (≈ 6.5 h, 1–2 changes). Home from Neuchâtel via Basel. Friends flying in from abroad can use Geneva airport.
+**Getting there, you two:** Langenfeld → Köln → Basel → Lausanne/Montreux (≈ 6.5 h, 1–2 changes). Home from Neuchâtel via Basel.
+
+**Getting there, friends:** Fly into Geneva. Montreux is ≈ 1 h 15 by direct train from the airport. From Neuchâtel it is ≈ 1 h 15 back to Geneva airport.
 
 **Getting around:** Half Fare Card (CHF 150) + tickets ≈ CHF 180 more. Add the free local cards: the Montreux Riviera Card (free regional transport, 50 % off Chillon, discounts on Rochers-de-Naye) and the Neuchâtel tourist card for overnight guests (check with your host).
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
-| Train Langenfeld ⇄ Lake Geneva | 100 | 150 |
 | Half Fare + Swiss tickets | 330 | 380 |
 | Lifts, castles, tastings | 120 | 220 |
 | Accommodation (8 nights) | 440 | 760 |
 | Food | 340 | 630 |
 | Buffer | 50 | 90 |
-| **Total May–June** | **1 380** (≈ €1 480) | **2 230** (≈ €2 390) |
-| *Total July–August (estimate)* | *1 488* (≈ €1 590) | *2 412* (≈ €2 580) |
+| **In Switzerland, everyone** | 1 280 (≈ €1 370) | 2 080 (≈ €2 230) |
+| You two: train Langenfeld ⇄ Lake Geneva | 100 (≈ €110) | 150 (≈ €160) |
+| Friends: flights Mexico City ⇄ GVA + airport train | 780 (≈ €830) | 1 160 (≈ €1 240) |
+| **Total from Langenfeld** | 1 380 (≈ €1 480) | 2 230 (≈ €2 390) |
+| **Total from Mexico City** | 2 060 (≈ €2 200) | 3 240 (≈ €3 470) |
+| *Total from Langenfeld, July–August (estimate)* | 1 488 (≈ €1 590) | 2 412 (≈ €2 580) |
+| *Total from Mexico City, July–August (estimate)* | 2 373 (≈ €2 540) | 3 722 (≈ €3 980) |
+
+Whole group (2 + 3): ≈ €9 560–15 190 in May–June.
 
 **Hidden gems:** Creux du Van: A 1,400 m-wide rock cirque with ibex, often almost empty.; Lac de Taney: A car-free mountain lake above the Rhône valley.; Narcissus fields: Mid-May 'May snow' of wild narcissi above Montreux.; Areuse gorge: Bridges and footbridges through a forested canyon.; St-Saphorin: A medieval wine village with no traffic.
 
@@ -724,7 +798,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - Lake Geneva is mild and sunny: the warmest swimming in this list after Ticino (≈ 18–20 °C late June).
 - Wine caveaux in Lavaux often open only in the late afternoon or evening and at weekends.
 
-**Booking:** *Now:* Montreux/Vevey apartment. June is fine; in July avoid Montreux during the Jazz Festival (2–17 July 2027). · *6 months before:* DB tickets. · *2–4 weeks before:* Half Fare Card. · *On arrival:* Collect the Riviera Card from your host.
+**Booking:** *Now:* Montreux/Vevey apartment. June is fine; in July avoid Montreux during the Jazz Festival (2–17 July 2027). · *6 months before:* DB tickets. · *3–6 months before:* Friends: flights Mexico City → Geneva (GVA). Set price alerts now. · *2–4 weeks before:* Half Fare Card. · *On arrival:* Collect the Riviera Card from your host.
 
 **Make it longer:** Add Zermatt / Valais (Option 03): Montreux → Visp is only 1.5 h.
 
@@ -734,15 +808,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > Hairpin passes, glaciers by the roadside, turquoise lakes and every hidden corner a train can't reach. The most freedom for five people sharing one car.
 
-**13 days / 12 nights · best late June – July 2027 · ≈ 6 h drive to Lake Lucerne · ≈ €1 540–2 860 pp**
+**13 days / 12 nights · best late June – July 2027 · ≈ 6 h drive to Lake Lucerne from Langenfeld · friends fly into ZRH · ≈ €1 540–2 860 pp in Switzerland**
 
 *In 2026 the Furka, Grimsel and Nufenen passes opened on 29 May and Susten in mid-June. Go after mid-June. July adds snow-free high trails; August has the busiest pass roads.*
 
 **Month by month:** *May: Not ideal* (Too early: the high passes only open from late May to mid-June.) · *June: Good* (Passes open between walls of snow, and the roads are quiet. High trails still opening.) · *July: Great* (Everything open: every pass, lift and trail. Book the beds early.) · *August: Good* (All open, but the busiest pass roads and full campsites.)
 
-**July–August:** ≈ €1 700–3 190 pp (beds +25 %). Drive each pass early, before the motorbikes and coaches. Book every night ahead, because last-minute rooms are rare in summer.
+**July–August:** ≈ €1 700–3 190 pp in Switzerland (beds +25 %); all-in €1 700–3 190 from Langenfeld, €2 740–4 720 from Mexico City. Drive each pass early, before the motorbikes and coaches. Book every night ahead, because last-minute rooms are rare in summer.
 
-**Route:** Langenfeld → Lake Lucerne (2 n) → Lauterbrunnen (3 n) → Täsch (2 n) → Flims (2 n) → Tenero (2 n) → Lucerne area (1 n) → home
+**Route:** Langenfeld + Mexico City → Lake Lucerne (2 n) → Lauterbrunnen (3 n) → Täsch (2 n) → Flims (2 n) → Tenero (2 n) → Lucerne area (1 n) → home
 
 **Why go**
 
@@ -753,7 +827,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **Rhine Falls → Lake Lucerne:** Drive ≈ 5.5 h to the Rhine Falls (break), then on to Brunnen on Lake Lucerne. *Tip: Fill up the tank in Germany. Fuel is cheaper.*
+1. **Rhine Falls → Lake Lucerne:** Drive ≈ 5.5 h to the Rhine Falls (break), then on to Brunnen on Lake Lucerne. Friends from Mexico City: fly into Zürich. You two pick them up at the airport on the drive down (≈ 45 min to Lake Lucerne). *Tip: Fill up the tank in Germany. Fuel is cheaper.*
 2. **Stoos:** Steepest funicular in the world and the Klingenstock → Fronalpstock ridge. Drive the Axenstrasse along the lake.
 3. **Susten Pass:** Over the Susten pass (glacier at the roadside) → Aare Gorge → Lake Brienz (Iseltwald) → Lauterbrunnen. *Tip: Susten usually opens mid-June.*
 4. **Mürren & Trümmelbach:** Leave the car and take the train/cable car to car-free Mürren. Trümmelbach Falls.
@@ -765,7 +839,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 10. **San Bernardino → Ticino:** Over the San Bernardino pass → Bellinzona castles → Tenero on Lake Maggiore.
 11. **Verzasca & Maggia:** Verzasca riverside hike + Foroglio waterfall.
 12. **Gotthard Tremola:** Drive the cobbled Tremola hairpins over the Gotthard → Andermatt → Lucerne area.
-13. **Home:** ≈ 6–7 h drive home.
+13. **Home:** ≈ 6–7 h drive home. Friends: drop them at Zürich airport on the last day (≈ 45 min from Lucerne).
 
 **Where to stay**
 
@@ -773,11 +847,13 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **Apartments for 5 everywhere**. Easy with a car: book places outside the villages with free parking. (≈ CHF 75–100 pp/night)
 - *Splurge night:* **A pass-top hotel**. e.g. a historic hospice on the Gotthard or Grimsel: the passes are magic after the traffic goes. (≈ CHF 120–200 pp)
 
-**Getting there:** Your own car (5 adults + luggage is tight: add a roof box), or rent a 7-seater (VW Touran/Sharan, V-Class) in Düsseldorf or Köln for ≈ €50–100/day. Check the rental allows Switzerland. Vignette CHF 40 only at via.admin.ch (resellers charge more).
+**Getting there, you two:** You two drive down and pick the friends up at Zürich airport. Your own car is tight for 5 adults + luggage (add a roof box), so consider a 7-seater (VW Touran/Sharan, V-Class) from Düsseldorf or Köln for ≈ €50–100/day, usually cheaper than renting in Switzerland. Check the rental allows Switzerland. Vignette CHF 40 only at via.admin.ch (resellers charge more).
+
+**Getting there, friends:** Fly into Zürich. You two pick them up at the airport on the drive down (≈ 45 min to Lake Lucerne). Drop them at Zürich airport on the last day (≈ 45 min from Lucerne).
 
 **Getting around:** The car does most of the work. Budget ≈ CHF 200–350 per person for lifts and mountain trains (Mürren, First, Gornergrat, Oeschinensee). A Half Fare Card (CHF 150) roughly breaks even, so only buy it if you add Jungfraujoch or Schilthorn.
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
@@ -787,8 +863,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 | Accommodation (12 nights) | 600 | 1 080 |
 | Food | 455 | 845 |
 | Buffer | 80 | 120 |
-| **Total May–June** | **1 435** (≈ €1 540) | **2 675** (≈ €2 860) |
-| *Total July–August (estimate)* | *1 585* (≈ €1 700) | *2 979* (≈ €3 190) |
+| **In Switzerland, everyone** | 1 435 (≈ €1 540) | 2 675 (≈ €2 860) |
+| You two: driving (car costs shared above) | 0 (≈ €0) | 0 (≈ €0) |
+| Friends: flights Mexico City ⇄ ZRH | 750 (≈ €800) | 1 100 (≈ €1 180) |
+| **Total from Langenfeld** | 1 435 (≈ €1 540) | 2 675 (≈ €2 860) |
+| **Total from Mexico City** | 2 185 (≈ €2 340) | 3 775 (≈ €4 040) |
+| *Total from Langenfeld, July–August (estimate)* | 1 585 (≈ €1 700) | 2 979 (≈ €3 190) |
+| *Total from Mexico City, July–August (estimate)* | 2 560 (≈ €2 740) | 4 409 (≈ €4 720) |
+
+Whole group (2 + 3): ≈ €10 100–17 840 in May–June.
 
 **Hidden gems:** Tremola: The old cobbled Gotthard road, Switzerland's longest road monument, with 24 hairpins.; Steingletscher: A glacier and lake right by the Susten pass road.; Oberalp lighthouse: A red lighthouse at 2,046 m at the source of the Rhine.; Crestasee: A smaller forest lake next to Caumasee.; Seelisberg: A sunny lake terrace above Lake Uri.
 
@@ -801,7 +884,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - Car-free villages (Mürren, Wengen, Zermatt, Saas-Fee): park in Lauterbrunnen/Täsch (≈ CHF 10–25/day).
 - Driving 2,000 km: share the driving, and take breaks at the many pass-top restaurants.
 
-**Booking:** *Now:* Book the rental car (free cancellation) + Lauterbrunnen/Täsch stays. · *Jan–Mar:* Campsite cabins (popular ones fill early). · *Before departure:* E-vignette at via.admin.ch (2027 vignette valid from 1 Dec 2026). · *Daily:* Check pass status and the weather each morning.
+**Booking:** *Now:* Book the rental car (free cancellation) + Lauterbrunnen/Täsch stays. · *Jan–Mar:* Campsite cabins (popular ones fill early). · *3–6 months before:* Friends: flights Mexico City → Zürich (ZRH). Set price alerts now. · *Before departure:* E-vignette at via.admin.ch (2027 vignette valid from 1 Dec 2026). · *Daily:* Check pass status and the weather each morning.
 
 **Make it longer:** It is already 13 days. Swap Ticino for Engadin (Julier/Maloja passes) if you prefer mountains over lakes.
 
@@ -811,15 +894,15 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 > Swiss mountains, Italian lakes and prices: ride the Bernina Express from Tirano, sleep cheaper on Lake Como and in Chiavenna, and visit Soglio, 'the threshold of paradise'.
 
-**11 days / 10 nights · best 10 May – 30 June 2027 · ≈ 7.5 h by train to Lugano · ≈ €1 390–2 270 pp**
+**11 days / 10 nights · best 10 May – 30 June 2027 · ≈ 7.5 h by train to Lugano from Langenfeld · friends fly into MXP · ≈ €1 280–2 110 pp in Switzerland**
 
 *Lakes are lovely from May. For Bernina lifts (Muottas Muragl, Diavolezza) go after ~6–20 June. Avoid August.*
 
 **Month by month:** *May: Great* (Gardens in bloom (azaleas), mild and calm.) · *June: Great* (Warm, long evenings, before peak prices.) · *July: OK* (Hot and crowded on Lake Como, with prices near their peak.) · *August: Not ideal* (Ferragosto: Lake Como is at its fullest and most expensive. Avoid.)
 
-**July–August:** ≈ €1 580–2 600 pp (beds +35 %). If it has to be summer, sleep on Lake Lugano or in Chiavenna rather than Bellagio, and visit the Como villas at opening time.
+**July–August:** ≈ €1 450–2 410 pp in Switzerland (beds +35 %); all-in €1 580–2 600 from Langenfeld, €2 520–4 000 from Mexico City. If it has to be summer, sleep on Lake Lugano or in Chiavenna rather than Bellagio, and visit the Como villas at opening time.
 
-**Route:** Langenfeld → Lugano (2 n) → Varenna / Bellano (3 n) → Pontresina (2 n) → Chiavenna (2 n) → Lugano or Como (1 n) → home
+**Route:** Langenfeld + Mexico City → Lugano (2 n) → Varenna / Bellano (3 n) → Pontresina (2 n) → Chiavenna (2 n) → Lugano or Como (1 n) → home
 
 **Why go**
 
@@ -830,7 +913,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 
 **Day by day**
 
-1. **To Lugano:** Langenfeld → Basel → Gotthard Base Tunnel → Lugano (≈ 7.5 h). Lakeside walk in Parco Ciani.
+1. **To Lugano:** Langenfeld → Basel → Gotthard Base Tunnel → Lugano (≈ 7.5 h). Lakeside walk in Parco Ciani. Friends from Mexico City: fly into Milan Malpensa (Aeroméxico nonstop from spring 2027). Lugano is ≈ 1 h 30 by direct train.
 2. **Lugano:** Monte Brè → olive trail to Gandria → boat back. Evening on Monte San Salvatore.
 3. **To Lake Como:** Bus via Porlezza to Menaggio (≈ 1 h), ferry to Varenna. Castello di Vezio at sunset.
 4. **Ferry-hopping:** Bellagio, Villa Carlotta's gardens (Tremezzo), Villa del Balbianello (Star Wars and Bond). *Tip: The mid-lake ferry day ticket saves money.*
@@ -840,7 +923,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 8. **Maloja → Soglio → Chiavenna:** PostBus down the Maloja hairpins → Soglio (chestnut forest trail to Castasegna) → Chiavenna, Italy. *Tip: The seasonal 'Palm Express' bus follows this road. Reservation needed.*
 9. **Chiavenna:** Acquafraggia twin waterfalls, Lake Mezzola, and dinner in a crotto (natural cave cellar tavern).
 10. **Slow boat down Lake Como:** Train to Colico, then a slow ferry the whole length of the lake to Como (≈ 4 h), and the train to Lugano (≈ 30 min).
-11. **Home:** Lugano → Zürich → Köln (≈ 7.5 h).
+11. **Home:** Lugano → Zürich → Köln (≈ 7.5 h). Friends: back to Malpensa from Lugano or Como (≈ 1 h 30).
 
 **Where to stay**
 
@@ -848,22 +931,30 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - *Comfort:* **Apartments on the lake + Pontresina hotel**. Pick a Pontresina hotel with 'lifts included'. (≈ €70–95 pp/night)
 - *Splurge night:* **A lakeside villa hotel in Bellagio**. Or simply an aperitivo on a grand-hotel terrace. (≈ €200+ pp)
 
-**Getting there:** Langenfeld → Köln → Basel → Lugano via the Gotthard Base Tunnel (≈ 7.5 h). Ticket: DB Sparpreis Europa to Lugano, or DB to Basel + an SBB Saver Day Pass.
+**Getting there, you two:** Langenfeld → Köln → Basel → Lugano via the Gotthard Base Tunnel (≈ 7.5 h). Ticket: DB Sparpreis Europa to Lugano, or DB to Basel + an SBB Saver Day Pass.
+
+**Getting there, friends:** Fly into Milan Malpensa (Aeroméxico nonstop from spring 2027). Lugano is ≈ 1 h 30 by direct train. Back to Malpensa from Lugano or Como (≈ 1 h 30).
 
 **Getting around:** No pass. Italian trains and ferries are cheap (Varenna → Tirano ≈ €8). The Swiss legs (Bernina, PostBus, Lugano) ≈ CHF 120–180, and half that with a Half Fare Card if you add more Swiss days.
 
-**Costs per person (CHF)**
+**Costs per person (CHF, May–June)**
 
 | Item | Budget | Comfort |
 |---|---:|---:|
-| Train Langenfeld ⇄ Lugano | 100 | 150 |
 | Trains, ferries & buses (CH + IT) | 220 | 250 |
 | Villas, lifts & entries | 80 | 160 |
 | Accommodation (10 nights) | 450 | 800 |
 | Food (Italy is cheaper) | 385 | 660 |
 | Buffer | 60 | 100 |
-| **Total May–June** | **1 295** (≈ €1 390) | **2 120** (≈ €2 270) |
-| *Total July–August (estimate)* | *1 472* (≈ €1 580) | *2 430* (≈ €2 600) |
+| **In Switzerland, everyone** | 1 195 (≈ €1 280) | 1 970 (≈ €2 110) |
+| You two: train Langenfeld ⇄ Lugano | 100 (≈ €110) | 150 (≈ €160) |
+| Friends: flights Mexico City ⇄ MXP + airport train | 780 (≈ €830) | 1 160 (≈ €1 240) |
+| **Total from Langenfeld** | 1 295 (≈ €1 390) | 2 120 (≈ €2 270) |
+| **Total from Mexico City** | 1 975 (≈ €2 110) | 3 130 (≈ €3 350) |
+| *Total from Langenfeld, July–August (estimate)* | 1 472 (≈ €1 580) | 2 430 (≈ €2 600) |
+| *Total from Mexico City, July–August (estimate)* | 2 357 (≈ €2 520) | 3 740 (≈ €4 000) |
+
+Whole group (2 + 3): ≈ €9 110–14 590 in May–June.
 
 **Hidden gems:** Soglio: Painter Segantini called it 'the threshold of paradise'.; Crotti of Chiavenna: Taverns built into natural rock caves with cool air currents.; Acquafraggia falls: Twin waterfalls Leonardo da Vinci wrote about.; Orrido di Bellano: Walkways through a roaring gorge.; Fiumelatte: Italy's shortest river (250 m), only flowing from spring to autumn.
 
@@ -876,7 +967,7 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - Italian restaurants charge 'coperto' (cover charge) of €2–4 per person. That's normal.
 - Mobile data: EU roaming works in Italy, but Switzerland may cost extra on German tariffs.
 
-**Booking:** *Now:* Lake Como apartment (June books up early, July–August even earlier). · *6 months before:* DB ticket to Lugano. · *Few days before:* Palm Express bus reservation if you want it. · *On the day:* Italian regional trains: buy in the Trenitalia/Trenord app.
+**Booking:** *Now:* Lake Como apartment (June books up early, July–August even earlier). · *6 months before:* DB ticket to Lugano. · *3–6 months before:* Friends: flights Mexico City → Milan Malpensa (MXP). Set price alerts now. · *Few days before:* Palm Express bus reservation if you want it. · *On the day:* Italian regional trains: buy in the Trenitalia/Trenord app.
 
 **Make it longer:** Combine with Ticino (Option 05) for a 14-day 'sun and lakes' trip.
 
@@ -929,6 +1020,12 @@ For your group, July–August makes the whole trip ≈ 5–14 % dearer: about �
 - [Glacier Express reservation 2026](https://www.tour-switzerland.ch/guides/glacier-express/)
 - [SAC hut fees from 2027](https://www.blick.ch/wirtschaft/no-show-gebuehr-ab-2027-so-viel-steigen-die-preise-pro-nacht-in-den-sac-huetten-id22028074.html)
 - [ETIAS status](https://navan.com/blog/when-does-etias-go-into-effect)
+- [EU Entry/Exit System fully live (Apr 2026)](https://www.iamexpat.ch/expat-info/swiss-news/eu-entryexit-system-be-fully-rolled-out-april-10)
+- [Mexico City → Zürich fares (Kayak)](https://www.kayak.com.mx/vuelos/Ciudad-de-Mexico-Juarez-y-otros-aeropuertos-MEX/Zurich-ZRH)
+- [Mexico City → Zürich fares (Aeroméxico)](https://www.aeromexico.com/es_mx/vuelos-desde-ciudad-de-mexico-a-zurich)
+- [Mexico City → Geneva fares (Skyscanner)](https://www.skyscanner.ie/routes/mexa/gva/mexico-city-to-geneva.html)
+- [Aeroméxico Mexico City – Milan nonstop 2027](https://www.aeroroutes.com/eng/260908-amns27eu)
+- [Swiss direct Zürich – Mexico City only discussed](https://www.travelnews.ch/english-corner/26349-swiss-new-long-haul-destination-in-talk.html)
 - [EUR/CHF rate (Oct 2026)](https://www.exchange-rates.org/exchange-rate-history/chf-eur-2026-10-02)
 - [Switzerland travel costs 2026](https://switzerlanding.com/week-cost/)
 

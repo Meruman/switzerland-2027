@@ -2,6 +2,8 @@
 
 Prices are 2026 tariffs found in research (Oct 2026). Swiss national fares rise ~3-4 % from
 13 Dec 2026, so 2027 prices may be a little higher. Costs are per person, in CHF, for May-June.
+The 'Train Langenfeld' cost row is paid only by the two coming from Langenfeld; the three friends
+from Mexico City pay FLIGHTS_MEX plus the airport train in FLY instead. Every other row is shared.
 
 Each option's "season" rates May-August from 0 (not ideal) to 3 (great). "peak" is the estimated
 July-August surcharge on accommodation; PEAK_TRAVEL is the one on the train or car hire to get there.
@@ -10,12 +12,17 @@ Swiss passes, food and most lift tickets cost the same all summer.
 
 EUR_PER_CHF = 1.07  # ~0.93 CHF per EUR (Oct 2026)
 GROUP = 5
+FROM_HOME, FROM_MEX = 2, 3  # two by train from Langenfeld, three flying in from Mexico City
 PEAK_TRAVEL = 0.20  # DB cheap fares sell out faster in the NRW school holidays (19 Jul - 31 Aug 2027)
+# Return flight Mexico City -> Zürich / Geneva / Milan, economy, one stop, booked 3-6 months ahead, May-June.
+# Fares seen in Oct 2026: from ~MXN 15-17k (Nov), GVA from ~EUR 650, Christmas ~USD 1,280.
+FLIGHTS_MEX = (750, 1100)  # CHF, budget / comfort
+PEAK_FLIGHT = 0.30  # July is one of the dearest months to fly Mexico City -> Zürich
 RATING = {3: "Great", 2: "Good", 1: "OK", 0: "Not ideal"}
 
 TRIP = {
     "title": "Switzerland 2027",
-    "subtitle": "10 trip ideas for five friends, starting in Langenfeld",
+    "subtitle": "10 trip ideas for five: two from Langenfeld, three flying in from Mexico City",
     "window": "May – August 2027",
     "researched": "25 October 2026",
 }
@@ -647,7 +654,7 @@ OPTIONS = [
             ("Comfort", "Apartment in Vevey / Clarens + hotel in Neuchâtel", "Ask for the Montreux Riviera Card, which apartments and campsites issue too.", "≈ CHF 85–110 pp/night"),
             ("Splurge night", "Hotel des Trois Couronnes, Vevey", "A historic grand hotel on the lake (or just drinks on its terrace).", "≈ CHF 250+ pp"),
         ],
-        "getting_there": "Langenfeld → Köln → Basel → Lausanne/Montreux (≈ 6.5 h, 1–2 changes). Home from Neuchâtel via Basel. Friends flying in from abroad can use Geneva airport.",
+        "getting_there": "Langenfeld → Köln → Basel → Lausanne/Montreux (≈ 6.5 h, 1–2 changes). Home from Neuchâtel via Basel.",
         "getting_around": "Half Fare Card (CHF 150) + tickets ≈ CHF 180 more. Add the free local cards: the Montreux Riviera Card (free regional transport, 50 % off Chillon, discounts on Rochers-de-Naye) and the Neuchâtel tourist card for overnight guests (check with your host).",
         "pass": ("Half Fare Card + Riviera Card", "CHF 150 + ≈ CHF 180"),
         "gems": [
@@ -733,7 +740,7 @@ OPTIONS = [
             ("Comfort", "Apartments for 5 everywhere", "Easy with a car: book places outside the villages with free parking.", "≈ CHF 75–100 pp/night"),
             ("Splurge night", "A pass-top hotel", "e.g. a historic hospice on the Gotthard or Grimsel: the passes are magic after the traffic goes.", "≈ CHF 120–200 pp"),
         ],
-        "getting_there": "Your own car (5 adults + luggage is tight: add a roof box), or rent a 7-seater (VW Touran/Sharan, V-Class) in Düsseldorf or Köln for ≈ €50–100/day. Check the rental allows Switzerland. Vignette CHF 40 only at via.admin.ch (resellers charge more).",
+        "getting_there": "You two drive down and pick the friends up at Zürich airport. Your own car is tight for 5 adults + luggage (add a roof box), so consider a 7-seater (VW Touran/Sharan, V-Class) from Düsseldorf or Köln for ≈ €50–100/day, usually cheaper than renting in Switzerland. Check the rental allows Switzerland. Vignette CHF 40 only at via.admin.ch (resellers charge more).",
         "getting_around": "The car does most of the work. Budget ≈ CHF 200–350 per person for lifts and mountain trains (Mürren, First, Gornergrat, Oeschinensee). A Half Fare Card (CHF 150) roughly breaks even, so only buy it if you add Jungfraujoch or Schilthorn.",
         "pass": ("Car + optional Half Fare", "vignette CHF 40 per car"),
         "gems": [
@@ -857,11 +864,47 @@ OPTIONS = [
     },
 ]
 
+# How the three friends from Mexico City reach each option. "cost" is the return train from the
+# airport to the first base (CHF, budget / comfort); the flight itself is FLIGHTS_MEX.
+# "out" is the airport for the flight home when it differs (open-jaw).
+FLY = {
+    "01-bernese-oberland": {"code": "ZRH", "airport": "Zürich", "cost": (80, 170),
+        "arrive": "Fly into Zürich, then take the train from the airport to Lauterbrunnen (≈ 2 h 45, change in Bern and Interlaken Ost).",
+        "home": "Train back to Zürich airport (≈ 2 h 45) for the flight home."},
+    "02-grand-train-tour": {"code": "ZRH", "out": "MXP", "airport": "Zürich", "cost": (0, 20),
+        "arrive": "Fly into Zürich. The Swiss Travel Pass covers the 1 h train from the airport to Lucerne.",
+        "home": "Fly home from Milan Malpensa, ≈ 1 h 30 by train from Lugano (Aeroméxico flies nonstop to Mexico City from spring 2027), or from Zürich (≈ 2 h)."},
+    "03-valais-matterhorn": {"code": "GVA", "airport": "Geneva", "cost": (60, 110),
+        "arrive": "Fly into Geneva (or Zürich). Direct trains from Geneva airport reach Visp in ≈ 2 h 15, then the bus goes up to Saas.",
+        "home": "From Brig it is ≈ 2 h 30 back to Geneva airport or to Zürich airport."},
+    "04-engadin-graubuenden": {"code": "ZRH", "airport": "Zürich", "cost": (60, 100),
+        "arrive": "Fly into Zürich, then take the train to Chur (≈ 1 h 30) and the bus to Flims.",
+        "home": "From Scuol it is ≈ 2 h 45 by train back to Zürich airport."},
+    "05-ticino": {"code": "MXP", "airport": "Milan Malpensa", "cost": (50, 100),
+        "arrive": "Fly into Milan Malpensa (Aeroméxico nonstop from spring 2027), then ≈ 2 h by train to Locarno with one change. Zürich works too (≈ 2 h 45 through the Gotthard).",
+        "home": "From Lugano it is ≈ 1 h 30 by direct train to Malpensa."},
+    "06-lucerne-lakes": {"code": "ZRH", "airport": "Zürich", "cost": (40, 70),
+        "arrive": "Fly into Zürich. Lucerne is ≈ 1 h by train from the airport.",
+        "home": "≈ 1 h back to Zürich airport."},
+    "07-appenzell-east": {"code": "ZRH", "airport": "Zürich", "cost": (40, 70),
+        "arrive": "Fly into Zürich. Schaffhausen is ≈ 45 min by train from the airport.",
+        "home": "From Walensee it is ≈ 1 h to Zürich airport."},
+    "08-lake-geneva-jura": {"code": "GVA", "airport": "Geneva", "cost": (30, 60),
+        "arrive": "Fly into Geneva. Montreux is ≈ 1 h 15 by direct train from the airport.",
+        "home": "From Neuchâtel it is ≈ 1 h 15 back to Geneva airport."},
+    "09-alpine-road-trip": {"code": "ZRH", "airport": "Zürich", "cost": (0, 0),
+        "arrive": "Fly into Zürich. You two pick them up at the airport on the drive down (≈ 45 min to Lake Lucerne).",
+        "home": "Drop them at Zürich airport on the last day (≈ 45 min from Lucerne)."},
+    "10-swiss-italian-lakes": {"code": "MXP", "airport": "Milan Malpensa", "cost": (30, 60),
+        "arrive": "Fly into Milan Malpensa (Aeroméxico nonstop from spring 2027). Lugano is ≈ 1 h 30 by direct train.",
+        "home": "Back to Malpensa from Lugano or Como (≈ 1 h 30)."},
+}
+
 # ---------------------------------------------------------------------------
 # Overview content
 # ---------------------------------------------------------------------------
 PICKS = [
-    ("If you only pick one", "01-bernese-oberland", "The Bernese Oberland is the Switzerland everyone dreams of, and it is easy from Langenfeld. Add Lucerne or Ticino to make it 12–14 days."),
+    ("If you only pick one", "01-bernese-oberland", "The Bernese Oberland is the Switzerland everyone dreams of: easy from Langenfeld, and 2 h 45 by train from Zürich airport. Add Lucerne or Ticino to make it 12–14 days."),
     ("Best value", "05-ticino", "Ticino (free transport with your stay, great in May) or Appenzell (Option 07, closest and cheapest)."),
     ("Most epic two weeks", "02-grand-train-tour", "The Grand Train Tour by train, or the Alpine Road Trip (Option 09) if someone is happy to drive."),
     ("Best for July–August", "03-valais-matterhorn", "Valais or Engadin (Option 04): every high trail is open, and free or included lifts soften the peak-season prices."),
@@ -873,7 +916,8 @@ COMBOS = [
         "when": "12–26 June 2027",
         "plan": [("Lauterbrunnen", 5), ("Saas valley + Täsch", 4), ("Ticino", 4)],
         "transport": "Half Fare Card + Saver Day Passes for the 3 long moves (or Swiss Travel Pass 15 days for zero thinking)",
-        "cost": "≈ CHF 2,000–3,000 pp",
+        "fly": "into Zürich, home from Milan Malpensa (nonstop to Mexico City)",
+        "cost": "≈ CHF 1,900–2,850 pp in Switzerland",
         "why": "Waterfalls, the Matterhorn with free Saas lifts, then lakes and palm trees.",
     },
     {
@@ -881,7 +925,8 @@ COMBOS = [
         "when": "late May – mid June",
         "plan": [("Appenzell", 4), ("Lucerne", 4), ("Ticino", 5)],
         "transport": "Individual tickets → Lucerne Travel Pass (5 days) → Ticino Ticket",
-        "cost": "≈ CHF 1,700–2,600 pp",
+        "fly": "into Zürich, home from Milan Malpensa (nonstop to Mexico City)",
+        "cost": "≈ CHF 1,600–2,450 pp in Switzerland",
         "why": "The cheapest regions, the shortest travel days and all doable in late May.",
     },
     {
@@ -889,7 +934,8 @@ COMBOS = [
         "when": "10–24 May 2027",
         "plan": [("Lake Geneva", 4), ("Ticino", 5), ("Lake Como (Italy)", 4)],
         "transport": "Half Fare Card + Ticino Ticket + Italian trains",
-        "cost": "≈ CHF 1,800–2,700 pp",
+        "fly": "into Geneva, home from Milan Malpensa (nonstop to Mexico City)",
+        "cost": "≈ CHF 1,700–2,550 pp in Switzerland",
         "why": "The snow-free, warm version for May: vineyards, rivers, villas.",
     },
     {
@@ -897,7 +943,8 @@ COMBOS = [
         "when": "1–16 July or 16–31 August 2027",
         "plan": [("Engadin", 4), ("Saas valley + Täsch", 5), ("Lauterbrunnen", 4)],
         "transport": "Swiss Travel Pass 15 days (regional trains along the Glacier Express route), or Half Fare + Saver Day Passes",
-        "cost": "≈ CHF 2,300–3,600 pp at peak-season prices",
+        "fly": "into and out of Zürich",
+        "cost": "≈ CHF 2,200–3,450 pp in Switzerland at peak-season prices",
         "why": "The summer version: lifts included in Engadin, free Saas lifts, then the Bernese Oberland, with every high trail open.",
     },
 ]
@@ -967,7 +1014,7 @@ TRANSPORT = [
         "icon": "🚗",
         "time": "6–7 h",
         "price": "≈ €20–60 pp each way (fuel ÷ 5) + CHF 40 vignette",
-        "text": "Best for the Road Trip (Option 09) and hidden corners. Five adults with two weeks of luggage need a 7-seater or a roof box. Buy the e-vignette at via.admin.ch only (CHF 40; the 2027 vignette is valid 1 Dec 2026 – 31 Jan 2028). Parking at the car-free resorts costs ≈ CHF 10–25/day.",
+        "text": "Best for the Road Trip (Option 09): drive down and pick the friends up at Zürich airport. Five adults with two weeks of luggage need a 7-seater or a roof box. Buy the e-vignette at via.admin.ch only (CHF 40; the 2027 vignette is valid 1 Dec 2026 – 31 Jan 2028). Parking at the car-free resorts costs ≈ CHF 10–25/day.",
     },
     {
         "mode": "FlixBus",
@@ -976,12 +1023,37 @@ TRANSPORT = [
         "price": "≈ €25–40 pp",
         "text": "Köln → Zürich/Basel. The cheapest ticket, but you lose most of a day each way. The train is usually worth the extra €10–30.",
     },
+]
+
+# For the three friends flying in from Mexico City (same card layout as TRANSPORT)
+FLIGHTS = [
     {
-        "mode": "Flights (for your friends)",
+        "mode": "Flights",
         "icon": "✈️",
-        "time": "–",
-        "price": "depends on origin",
-        "text": "Fly into Düsseldorf (DUS) or Köln/Bonn (CGN), both ≈ 30 min from Langenfeld. Consider an open-jaw ticket: arrive at DUS/CGN, fly home from Zürich (ZRH), Geneva (GVA) or Milan (MXP). That saves a 6–8 h journey back. Book long-haul ≈ 2–5 months ahead and European flights 1–3 months ahead, with Google Flights price alerts.",
+        "time": "≈ 13–16 h with one stop",
+        "price": "≈ €800–1,200 return in May–June, ≈ 30 % more in July–August",
+        "text": "There is no nonstop flight to Switzerland yet (Swiss has only talked about one). The usual routes have one stop: Madrid (Aeroméxico, Iberia), Paris (Air France), Amsterdam (KLM), Frankfurt or Munich (Lufthansa) or London (British Airways). New: Aeroméxico flies nonstop Mexico City – Milan Malpensa from spring 2027 (≈ 12 h, 4 times a week). Book 3–6 months ahead with Google Flights alerts. July and December are the dearest months.",
+    },
+    {
+        "mode": "Which airport",
+        "icon": "🛬",
+        "time": "Zürich · Geneva · Milan",
+        "price": "pick the one closest to your first base",
+        "text": "Zürich (ZRH) has the most connections and a station under the terminal: Lucerne ≈ 1 h, Bern ≈ 1 h 15, Interlaken ≈ 2 h 15. Geneva (GVA) suits Lake Geneva and Valais. Milan Malpensa (MXP) suits Ticino and the Italian lakes, ≈ 1 h 30 from Lugano. Fly home from a different airport (an open-jaw ticket) when the trip ends somewhere else, to skip a long train ride back.",
+    },
+    {
+        "mode": "Entry & documents",
+        "icon": "🛂",
+        "time": "Mexican passport",
+        "price": "no visa for up to 90 days",
+        "text": "Mexicans need no visa for Switzerland and the Schengen area for up to 90 days in any 180. The passport must be valid at least 3 months after you leave. Fingerprints and a photo are taken at the first border under the EU's Entry/Exit System (fully running since April 2026). ETIAS, the €20 online travel authorisation, has not started yet; the latest reports say 2027 at the earliest, with a 6-month transition. Check before you fly. Travel insurance with medical cover and mountain rescue is strongly recommended.",
+    },
+    {
+        "mode": "Meeting up & jet lag",
+        "icon": "🤝",
+        "time": "Mexico City is 8 h behind Swiss summer time",
+        "price": "plan an easy first day",
+        "text": "Flights from Mexico are overnight and land in Europe in the morning or afternoon. Meet at Zürich airport station, which you two reach from Langenfeld in ≈ 5.5–6 h, or go straight to the first base and meet there. Stay up until the evening and save the big mountain day for day 3, once everyone has slept.",
     },
 ]
 
@@ -996,11 +1068,11 @@ PASSES = [
 ]
 
 TIMELINE = [
-    ("Now (late Oct – Nov 2026)", "Vote on an option and dates. Book refundable accommodation for hotspots (Lauterbrunnen, Täsch/Zermatt, Lucerne, Lake Como). For July–August this matters even more, because peak-season beds go first. Friends set flight price alerts. Domestic DB tickets to Basel Bad Bf are already bookable."),
-    ("6 months before (Nov 2026 – Feb 2027)", "DB international Sparpreis tickets open: buy on day one. That is Nov 2026 – Jan 2027 for May–June, or Jan – Feb 2027 for July–August. SBB Saver Day Passes also go on sale 6 months ahead (limited cheap quotas)."),
-    ("Jan – Feb 2027", "Friends book flights (summer fares rise fastest). Book the rental car (free cancellation) for the road trip. Swiss fares for 2027 will be known (≈ +3–4 % on national tickets from Dec 2026)."),
+    ("Now (late Oct – Nov 2026)", "Vote on an option and dates. Book refundable accommodation for hotspots (Lauterbrunnen, Täsch/Zermatt, Lucerne, Lake Como). For July–August this matters even more, because peak-season beds go first. The friends set Google Flights alerts for Mexico City → Zürich, Geneva and Milan. Domestic DB tickets to Basel Bad Bf are already bookable."),
+    ("6 months before (Nov 2026 – Feb 2027)", "You two: DB international Sparpreis tickets open, so buy on day one. That is Nov 2026 – Jan 2027 for May–June, or Jan – Feb 2027 for July–August. SBB Saver Day Passes also go on sale 6 months ahead (limited cheap quotas)."),
+    ("3–6 months before (Dec 2026 – Mar 2027)", "Friends book their flights from Mexico City: Dec – Feb for May–June, Jan – Mar for July–August (summer fares rise fastest). Book the rental car (free cancellation) for the road trip. Swiss fares for 2027 will be known (≈ +3–4 % on national tickets from Dec 2026)."),
     ("~3 months before (Feb – May 2027)", "Glacier Express & Bernina Express seats (reportedly from ~93 days ahead). Mountain huts and guesthouses. Note the SAC huts' new reservation fee from 2027."),
-    ("2–6 weeks before", "Buy the Swiss Travel Pass / Half Fare Card / regional pass online (fixed price, no early-bird). Check passports. Travel insurance for non-EU friends."),
+    ("2–6 weeks before", "Buy the Swiss Travel Pass / Half Fare Card / regional pass online (fixed price, no early-bird). Check passports. Friends: travel insurance, and check whether ETIAS has started."),
     ("Last week", "Watch the forecast. Buy Jungfraujoch/Gornergrat tickets 1–2 days before a clear day. Download offline maps and the SBB, MeteoSwiss and SwitzerlandMobility apps."),
 ]
 
@@ -1013,20 +1085,20 @@ HACKS = [
     ("Regional trains on famous routes", "Same Bernina/Glacier views, no reservation fee, and windows you can open."),
     ("Hike down, ride up", "Buy one-way lift tickets and walk down. Often the most beautiful part."),
     ("Under 25?", "Youth prices on the Swiss Travel Pass and regional passes are ≈ 30 % cheaper."),
-    ("Pay in CHF", "Always choose to pay in francs (not euros) on card terminals, and use a no-fee card."),
+    ("Open-jaw flights", "Friends: fly into one airport and home from another (e.g. Zürich in, Milan Malpensa out) to skip a long train day back."),
     ("Too Good To Go", "The app works in Switzerland: bakery and supermarket bags for CHF 4–8."),
 ]
 
 PRACTICAL = [
-    ("🔌 Plugs", "Swiss sockets (type J) take thin 2-pin Euro plugs but NOT German Schuko plugs. Bring 2–3 adapters."),
-    ("📱 Roaming", "Switzerland is not in the EU roaming zone. Check your tariff or buy a Swiss eSIM data plan."),
-    ("💳 Money", "CHF. Cards and phones work almost everywhere. Keep some cash for mountain huts. Euros are accepted sometimes, at bad rates."),
-    ("🏥 Health", "The EHIC card works for people with German insurance. Friends from abroad need travel insurance that covers mountain rescue."),
+    ("🔌 Plugs", "Swiss sockets (type J) take thin 2-pin Euro plugs but NOT German Schuko plugs or Mexican flat-pin plugs. Bring adapters. Mexico runs on 127 V: phone and laptop chargers are fine, but check hair dryers and straighteners."),
+    ("📱 Roaming", "Switzerland is not in the EU roaming zone, and Mexican plans can be expensive abroad. Check your tariff or buy a Swiss or Europe eSIM data plan."),
+    ("💳 Money", "CHF. Cards and phones work almost everywhere: always pay in francs on card terminals and use a no-fee card. Friends: enable international use on Mexican cards. Keep some cash for mountain huts."),
+    ("🏥 Health", "The EHIC card covers the two of you (German insurance). The friends from Mexico need travel insurance with medical cover and mountain rescue."),
     ("⛈️ Weather", "June to August afternoons bring thunderstorms, so start hikes early. July–August heat waves can hit 30–35 °C in the valleys. Check MeteoSwiss and the webcams before buying lift tickets."),
     ("🥾 Trails", "Yellow signs = easy paths. White-red-white = mountain trails (sure-footed). Blue-white = alpine (not for you)."),
     ("🛒 Sundays", "Shops close on Sundays, except at train stations and petrol stations."),
     ("🧳 Luggage", "SBB luggage forwarding (≈ CHF 12–25 per bag) lets you hop between bases with only a daypack."),
-    ("🛂 Documents", "Schengen rules apply. ETIAS for visa-free visitors is not running yet (Oct 2026) and is expected in 2027, so re-check before travel."),
+    ("🛂 Documents", "Schengen rules apply. Mexicans need no visa for up to 90 days; fingerprints and a photo are taken at the first border (EES). ETIAS (€20 online) is not running yet and is expected in 2027 at the earliest, so re-check before travel."),
 ]
 
 SOURCES = [
@@ -1075,6 +1147,12 @@ SOURCES = [
     ("Glacier Express reservation 2026", "https://www.tour-switzerland.ch/guides/glacier-express/"),
     ("SAC hut fees from 2027", "https://www.blick.ch/wirtschaft/no-show-gebuehr-ab-2027-so-viel-steigen-die-preise-pro-nacht-in-den-sac-huetten-id22028074.html"),
     ("ETIAS status", "https://navan.com/blog/when-does-etias-go-into-effect"),
+    ("EU Entry/Exit System fully live (Apr 2026)", "https://www.iamexpat.ch/expat-info/swiss-news/eu-entryexit-system-be-fully-rolled-out-april-10"),
+    ("Mexico City → Zürich fares (Kayak)", "https://www.kayak.com.mx/vuelos/Ciudad-de-Mexico-Juarez-y-otros-aeropuertos-MEX/Zurich-ZRH"),
+    ("Mexico City → Zürich fares (Aeroméxico)", "https://www.aeromexico.com/es_mx/vuelos-desde-ciudad-de-mexico-a-zurich"),
+    ("Mexico City → Geneva fares (Skyscanner)", "https://www.skyscanner.ie/routes/mexa/gva/mexico-city-to-geneva.html"),
+    ("Aeroméxico Mexico City – Milan nonstop 2027", "https://www.aeroroutes.com/eng/260908-amns27eu"),
+    ("Swiss direct Zürich – Mexico City only discussed", "https://www.travelnews.ch/english-corner/26349-swiss-new-long-haul-destination-in-talk.html"),
     ("EUR/CHF rate (Oct 2026)", "https://www.exchange-rates.org/exchange-rate-history/chf-eur-2026-10-02"),
     ("Switzerland travel costs 2026", "https://switzerlanding.com/week-cost/"),
 ]

@@ -162,6 +162,9 @@ html.deck { scroll-snap-type: y proximity; }
 .trip-line .node { padding: 8px 14px; border-radius: 999px; background: var(--surface-2); font-weight: 700; font-size: .88rem; border: 1px solid var(--line); }
 .trip-line .node.home { background: var(--ink); color: var(--bg); }
 .trip-line .arrow { color: var(--accent); font-weight: 900; }
+.trip-line .who { width: 74px; white-space: nowrap; font-size: .72rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.trip-line + .trip-line { margin-top: -8px; }
+.panel h3 + p { margin-bottom: 14px; }
 .two { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
 .panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px; box-shadow: var(--shadow); }
 .slide.alt .panel { background: var(--bg); }
@@ -176,11 +179,15 @@ table.costs { width: 100%; border-collapse: collapse; font-size: .95rem; }
 table.costs th, table.costs td { padding: 11px 10px; border-bottom: 1px solid var(--line); text-align: left; }
 table.costs th { font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
 table.costs td.num, table.costs th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
-table.costs tr.total td { font-weight: 800; border-bottom: 0; font-size: 1.05rem; }
+table.costs tr.total td { font-weight: 800; font-size: 1.02rem; }
+table.costs tr:last-child td { border-bottom: 0; }
+table.costs tr.group td { padding-top: 20px; font-size: .72rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
 .totals { display: grid; gap: 12px; }
 .total-card { border-radius: var(--radius); padding: 20px 22px; background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow); }
 .slide.alt .total-card { background: var(--bg); }
 .total-card.hl { background: linear-gradient(135deg, var(--glacier), #0a5f59); color: #fff; border: 0; }
+.total-card.mex { background: linear-gradient(135deg, #2f5d8a, #1d3b5c); color: #fff; border: 0; }
+.total-card .amount.sm { font-size: clamp(1.2rem, 2.4vw, 1.5rem); line-height: 1.35; }
 .total-card small { display: block; font-size: .74rem; text-transform: uppercase; letter-spacing: .12em; opacity: .8; font-weight: 700; }
 .total-card .amount { font-family: var(--display); font-size: clamp(2rem, 4.5vw, 2.8rem); font-weight: 700; line-height: 1.1; font-variant-numeric: tabular-nums; }
 .note { font-size: .82rem; color: var(--muted); margin-top: 14px; }
@@ -245,14 +252,16 @@ table.costs tr.total td { font-weight: 800; border-bottom: 0; font-size: 1.05rem
 .card .meta { display: flex; justify-content: space-between; align-items: end; margin-top: auto; padding-top: 10px; border-top: 1px solid var(--line); }
 .card .price { font-weight: 800; }
 .card .price small { display: block; font-weight: 600; color: var(--muted); font-size: .72rem; text-transform: uppercase; letter-spacing: .1em; }
+.card .all-in { display: block; margin-top: 4px; font-size: .74rem; font-weight: 600; color: var(--muted); line-height: 1.45; }
 .pips { display: grid; grid-template-columns: auto auto; gap: 2px 8px; font-size: .72rem; color: var(--muted); align-items: center; }
 .pips i { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--surface-2); margin-left: 2px; }
 .pips i.f { background: var(--glacier); }
 .card.hidden { display: none; }
 
 .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
-table.compare { width: 100%; border-collapse: collapse; font-size: .9rem; min-width: 1360px; }
-table.compare td:nth-child(4), table.compare td:nth-child(5), table.compare td:nth-child(8), table.compare td:nth-child(9) { white-space: nowrap; }
+table.compare { width: 100%; border-collapse: collapse; font-size: .9rem; min-width: 1560px; }
+table.compare td:nth-child(4), table.compare td:nth-child(5), table.compare td:nth-child(6), table.compare td:nth-child(7), table.compare td:nth-child(8),
+table.compare td:nth-child(9), table.compare td:nth-child(10) { white-space: nowrap; }
 table.compare td:nth-child(2) { min-width: 210px; }
 table.compare th, table.compare td { padding: 12px 14px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
 table.compare th { font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); background: var(--surface-2); position: sticky; top: 0; }
@@ -321,6 +330,7 @@ table.compare td a:hover { color: var(--accent); }
 .mo p { font-size: .9rem; color: var(--muted); margin: 10px 0 12px; flex: 1; }
 .mo-price { font-weight: 800; font-variant-numeric: tabular-nums; }
 .mo-price small { display: block; font-size: .7rem; font-weight: 600; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
+.mo-all { margin-top: 6px; font-size: .76rem; color: var(--muted); line-height: 1.4; }
 .total-card.summer { background: linear-gradient(135deg, #c98a2e, #a8501f); color: #fff; border: 0; }
 .total-card .d { display: block; font-size: .8rem; opacity: .9; margin-top: 4px; }
 
