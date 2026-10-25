@@ -1,16 +1,22 @@
 """All trip content lives here. Edit this file, then run:  python _source/build.py
 
 Prices are 2026 tariffs found in research (Oct 2026). Swiss national fares rise ~3-4 % from
-13 Dec 2026, so 2027 prices may be a little higher. Costs are per person, in CHF.
+13 Dec 2026, so 2027 prices may be a little higher. Costs are per person, in CHF, for May-June.
+
+Each option's "season" rates May-August from 0 (not ideal) to 3 (great). "peak" is the estimated
+July-August surcharge on accommodation; PEAK_TRAVEL is the one on the train or car hire to get there.
+Swiss passes, food and most lift tickets cost the same all summer.
 """
 
 EUR_PER_CHF = 1.07  # ~0.93 CHF per EUR (Oct 2026)
 GROUP = 5
+PEAK_TRAVEL = 0.20  # DB cheap fares sell out faster in the NRW school holidays (19 Jul - 31 Aug 2027)
+RATING = {3: "Great", 2: "Good", 1: "OK", 0: "Not ideal"}
 
 TRIP = {
     "title": "Switzerland 2027",
     "subtitle": "10 trip ideas for five friends, starting in Langenfeld",
-    "window": "May – June 2027",
+    "window": "May – August 2027",
     "researched": "25 October 2026",
 }
 
@@ -28,7 +34,14 @@ OPTIONS = [
         "days": 9, "nights": 8,
         "best": "12–30 June",
         "best_note": "All lifts open from mid-June. Late May has the biggest waterfalls, but trails above 1,800 m are still snowy.",
-        "months": ["june"],
+        "season": [
+            ("May", 1, "Waterfalls at their biggest and cheap, but snow above 1,800 m and some lifts shut."),
+            ("June", 3, "Lifts open from mid-June, still before the school holidays. The sweet spot."),
+            ("July", 2, "Every trail open and flowers at their best, but the busiest and priciest month."),
+            ("August", 2, "Warm and fully open. Crowds ease a little after mid-August."),
+        ],
+        "peak": 0.30,
+        "summer_tip": "In July–August, stay in Wilderswil or Matten (20–30 % cheaper than Lauterbrunnen), be at the lifts by 8 am and do Oeschinensee on a weekday.",
         "tags": ["classic", "car-free", "one base"],
         "travel": "≈ 6.5–7 h by train",
         "scores": {"Nature": 5, "Views": 5, "Hidden gems": 3, "Budget": 3, "Easy": 5},
@@ -102,8 +115,15 @@ OPTIONS = [
         "cover": "gt-landwasser",
         "days": 14, "nights": 13,
         "best": "1–30 June",
-        "best_note": "Works any time in May or June. June has more mountain lifts open.",
-        "months": ["may", "june"],
+        "best_note": "Works any time from May to August. June has all the mountain lifts open without the summer crowds.",
+        "season": [
+            ("May", 2, "Trains run and seats are easier to get; some high lifts are still closed."),
+            ("June", 3, "Everything open, before the holidays. The best balance."),
+            ("July", 2, "All open, but Glacier Express seats go fast and Lucerne and Zermatt are packed."),
+            ("August", 2, "Peak crowds and prices at every stop, and 30 °C+ in Lugano."),
+        ],
+        "peak": 0.25,
+        "summer_tip": "Reserve the Glacier Express the day bookings open (~93 days ahead). The CHF 54 reservation costs the same all year, but summer seats sell out first.",
         "tags": ["bucket list", "panorama trains", "many stops"],
         "travel": "≈ 5.5 h to Lucerne",
         "scores": {"Nature": 4, "Views": 5, "Hidden gems": 2, "Budget": 1, "Easy": 4},
@@ -181,9 +201,16 @@ OPTIONS = [
         "tagline": "The Matterhorn, the longest glacier in the Alps and a car-free glacier village where your guest card makes all summer lifts free.",
         "cover": "va-riffelsee",
         "days": 10, "nights": 9,
-        "best": "15–30 June",
-        "best_note": "High trails (Five Lakes Walk, Aletsch ridge) are usually snow-free from mid or late June.",
-        "months": ["june"],
+        "best": "July – August",
+        "best_note": "High trails (Five Lakes Walk, Aletsch ridge) are snow-free from about late June or July. Late June works too, and the second half of August is a little quieter.",
+        "season": [
+            ("May", 0, "Too early: the Five Lakes and Aletsch trails are under snow."),
+            ("June", 2, "Good from late June, but some high trails are still opening."),
+            ("July", 3, "Prime time: snow-free high trails, wildflowers and all the free Saas lifts."),
+            ("August", 3, "Still prime. Zermatt is busy, so the Saas valley base pays off."),
+        ],
+        "peak": 0.25,
+        "summer_tip": "The SaastalCard's free lifts and cheaper beds in Täsch cancel out much of the summer premium. Book both now.",
         "tags": ["glaciers", "car-free", "money hack"],
         "travel": "≈ 6.5–7 h by train",
         "scores": {"Nature": 5, "Views": 5, "Hidden gems": 4, "Budget": 3, "Easy": 4},
@@ -241,7 +268,7 @@ OPTIONS = [
             "Valais has the most sunshine in Switzerland, but it is still the Alps: pack layers.",
         ],
         "booking": [
-            ("Now", "Täsch + Riederalp apartments (popular in June)."),
+            ("Now", "Täsch + Riederalp apartments (popular from June, and they sell out for July–August)."),
             ("6 months before", "DB tickets to Visp/Brig."),
             ("2–4 weeks before", "Half Fare Card online."),
             ("1 day before", "Gornergrat on the clearest day."),
@@ -257,9 +284,16 @@ OPTIONS = [
         "tagline": "Switzerland's highest valley: silver lakes, the Bernina glaciers, sgraffito villages and hotels that include all mountain lifts in the room price.",
         "cover": "en-sils",
         "days": 10, "nights": 9,
-        "best": "12–30 June",
-        "best_note": "Summer lifts open between ~6 and 27 June (2026: Muottas Muragl 6 June, Diavolezza 20 June).",
-        "months": ["june"],
+        "best": "July – August",
+        "best_note": "Summer lifts open between ~6 and 27 June (2026: Muottas Muragl 6 June, Diavolezza 20 June). July and August have every lift, the warmest lakes and the most out of 'lifts included'.",
+        "season": [
+            ("May", 0, "Off season: the summer lifts are closed and some hotels shut until June."),
+            ("June", 2, "Lifts start between ~6 and 27 June. Late June is lovely and quiet."),
+            ("July", 3, "Best month: every lift, warm lakes, flowers, and fewer crowds than the Bernese Oberland."),
+            ("August", 3, "Warm and fully open. Busier with Italian visitors around mid-August."),
+        ],
+        "peak": 0.15,
+        "summer_tip": "Book a hotel with 'Bergbahnen inklusive' (lifts included). It runs all summer, so the longer the lifts are open, the more you save.",
         "tags": ["hidden gems", "lakes", "money hack"],
         "travel": "≈ 6–8 h by train",
         "scores": {"Nature": 5, "Views": 4, "Hidden gems": 5, "Budget": 3, "Easy": 4},
@@ -335,7 +369,14 @@ OPTIONS = [
         "days": 9, "nights": 8,
         "best": "15 May – 15 June",
         "best_note": "The best region for May: 20–25 °C, rivers full, before the summer heat. River water is still cold (≈ 12–16 °C).",
-        "months": ["may", "june"],
+        "season": [
+            ("May", 3, "Warm (20–25 °C), green and quiet. The best region for May."),
+            ("June", 3, "Warm, long evenings, and the lakes become swimmable."),
+            ("July", 2, "Swimming season, but hot (30 °C+), humid and busier."),
+            ("August", 1, "The hottest month. Ferragosto (15 Aug) brings Italian crowds, and Locarno hotels spike during the film festival."),
+        ],
+        "peak": 0.25,
+        "summer_tip": "In summer, sleep higher up (Valle Maggia or the Monti above Locarno), hike in the morning and swim in the afternoon. The Ticino Ticket still makes transport free.",
         "tags": ["best in May", "budget", "hidden gems"],
         "travel": "≈ 7.5–8 h by train",
         "scores": {"Nature": 4, "Views": 4, "Hidden gems": 5, "Budget": 5, "Easy": 5},
@@ -410,7 +451,14 @@ OPTIONS = [
         "days": 8, "nights": 7,
         "best": "20 May – 30 June",
         "best_note": "Pilatus opened on 11 May in 2026. The Stoos ridge hike is usually snow-free from mid-June.",
-        "months": ["may", "june"],
+        "season": [
+            ("May", 2, "Pilatus from mid-May, but the Stoos ridge and high trails are still snowy."),
+            ("June", 3, "Everything open and the lake warming up. The sweet spot."),
+            ("July", 2, "Lake swimming and every lift, but the old town and the boats are packed."),
+            ("August", 2, "The same crowds, and the Lucerne Festival starts in mid-August."),
+        ],
+        "peak": 0.25,
+        "summer_tip": "Take the first lift of the day up Pilatus or Rigi, and swim at the free Ufschötti lakeside park in the afternoon.",
         "tags": ["one base", "lakes", "easy"],
         "travel": "≈ 5 h by train",
         "scores": {"Nature": 4, "Views": 5, "Hidden gems": 3, "Budget": 4, "Easy": 5},
@@ -482,9 +530,16 @@ OPTIONS = [
         "tagline": "The cliff-side Aescher guesthouse, mirror lakes in the Alpstein, Europe's mightiest waterfall and a village you can only reach by boat. Cheap, close and still a secret.",
         "cover": "ap-aescher",
         "days": 8, "nights": 7,
-        "best": "25 May – 30 June",
-        "best_note": "Lower mountains (max ~2,000 m) open early. The new Säntis cable car opens in spring 2027.",
-        "months": ["may", "june"],
+        "best": "1 June – 31 July",
+        "best_note": "Lower mountains (max ~2,000 m) open early. The new Säntis cable car opens in spring 2027. July is just as good and barely pricier.",
+        "season": [
+            ("May", 2, "Green and cheap, but the Alpstein trails stay snowy until June."),
+            ("June", 3, "Meadows in flower and huts opening. The sweet spot."),
+            ("July", 3, "Alpstein lakes and mountain inns at their best, and prices barely change."),
+            ("August", 2, "Still lovely, but Ebenalp and Seealpsee are busy on sunny weekends."),
+        ],
+        "peak": 0.10,
+        "summer_tip": "The cheapest summer option: mostly Swiss visitors, small family hotels and almost no peak surcharge. Do Ebenalp and Seealpsee on a weekday.",
         "tags": ["budget", "hidden gems", "close to home"],
         "travel": "≈ 5–6 h by train",
         "scores": {"Nature": 4, "Views": 4, "Hidden gems": 5, "Budget": 5, "Easy": 5},
@@ -558,7 +613,14 @@ OPTIONS = [
         "days": 9, "nights": 8,
         "best": "10 May – 30 June",
         "best_note": "Low altitude, so it is great in May (wild narcissus fields above Montreux). Note: Rochers-de-Naye is closed until 21 May 2027.",
-        "months": ["may", "june"],
+        "season": [
+            ("May", 3, "Narcissus fields, mild and quiet. Rochers-de-Naye reopens on 22 May."),
+            ("June", 3, "Warm, the vines are green, and the lake is swimmable by late June."),
+            ("July", 2, "Swimming weather. Avoid Montreux during the Jazz Festival (2–17 July 2027)."),
+            ("August", 2, "Hot and lively. The Lavaux terraces and Jura lakes are great for a swim."),
+        ],
+        "peak": 0.20,
+        "summer_tip": "In early July, base in Vevey or Lausanne instead of Montreux until the Jazz Festival ends (17 July 2027). The Jura stays cooler on hot days.",
         "tags": ["wine & food", "culture", "best in May"],
         "travel": "≈ 6.5 h by train",
         "scores": {"Nature": 3, "Views": 4, "Hidden gems": 4, "Budget": 3, "Easy": 5},
@@ -615,7 +677,7 @@ OPTIONS = [
             "Wine caveaux in Lavaux often open only in the late afternoon or evening and at weekends.",
         ],
         "booking": [
-            ("Now", "Montreux/Vevey apartment (Montreux Jazz Festival starts in July, so June is fine)."),
+            ("Now", "Montreux/Vevey apartment. June is fine; in July avoid Montreux during the Jazz Festival (2–17 July 2027)."),
             ("6 months before", "DB tickets."),
             ("2–4 weeks before", "Half Fare Card."),
             ("On arrival", "Collect the Riviera Card from your host."),
@@ -631,9 +693,16 @@ OPTIONS = [
         "tagline": "Hairpin passes, glaciers by the roadside, turquoise lakes and every hidden corner a train can't reach. The most freedom for five people sharing one car.",
         "cover": "rt-grimsel",
         "days": 13, "nights": 12,
-        "best": "15–30 June",
-        "best_note": "In 2026 the Furka, Grimsel and Nufenen passes opened on 29 May and Susten in mid-June. Go after mid-June.",
-        "months": ["june"],
+        "best": "late June – July",
+        "best_note": "In 2026 the Furka, Grimsel and Nufenen passes opened on 29 May and Susten in mid-June. Go after mid-June. July adds snow-free high trails; August has the busiest pass roads.",
+        "season": [
+            ("May", 0, "Too early: the high passes only open from late May to mid-June."),
+            ("June", 2, "Passes open between walls of snow, and the roads are quiet. High trails still opening."),
+            ("July", 3, "Everything open: every pass, lift and trail. Book the beds early."),
+            ("August", 2, "All open, but the busiest pass roads and full campsites."),
+        ],
+        "peak": 0.25,
+        "summer_tip": "Drive each pass early, before the motorbikes and coaches. Book every night ahead, because last-minute rooms are rare in summer.",
         "tags": ["road trip", "hidden gems", "flexible"],
         "travel": "≈ 6 h drive to Lake Lucerne",
         "scores": {"Nature": 5, "Views": 5, "Hidden gems": 5, "Budget": 4, "Easy": 3},
@@ -711,8 +780,15 @@ OPTIONS = [
         "cover": "it-varenna",
         "days": 11, "nights": 10,
         "best": "10 May – 30 June",
-        "best_note": "Lakes are lovely from May. For Bernina lifts (Muottas Muragl, Diavolezza) go after ~6–20 June.",
-        "months": ["may", "june"],
+        "best_note": "Lakes are lovely from May. For Bernina lifts (Muottas Muragl, Diavolezza) go after ~6–20 June. Avoid August.",
+        "season": [
+            ("May", 3, "Gardens in bloom (azaleas), mild and calm."),
+            ("June", 3, "Warm, long evenings, before peak prices."),
+            ("July", 1, "Hot and crowded on Lake Como, with prices near their peak."),
+            ("August", 0, "Ferragosto: Lake Como is at its fullest and most expensive. Avoid."),
+        ],
+        "peak": 0.35,
+        "summer_tip": "If it has to be summer, sleep on Lake Lugano or in Chiavenna rather than Bellagio, and visit the Como villas at opening time.",
         "tags": ["budget", "food", "two countries"],
         "travel": "≈ 7.5 h by train to Lugano",
         "scores": {"Nature": 4, "Views": 5, "Hidden gems": 4, "Budget": 4, "Easy": 4},
@@ -771,7 +847,7 @@ OPTIONS = [
             "Mobile data: EU roaming works in Italy, but Switzerland may cost extra on German tariffs.",
         ],
         "booking": [
-            ("Now", "Lake Como apartment (June books up early)."),
+            ("Now", "Lake Como apartment (June books up early, July–August even earlier)."),
             ("6 months before", "DB ticket to Lugano."),
             ("Few days before", "Palm Express bus reservation if you want it."),
             ("On the day", "Italian regional trains: buy in the Trenitalia/Trenord app."),
@@ -788,6 +864,7 @@ PICKS = [
     ("If you only pick one", "01-bernese-oberland", "The Bernese Oberland is the Switzerland everyone dreams of, and it is easy from Langenfeld. Add Lucerne or Ticino to make it 12–14 days."),
     ("Best value", "05-ticino", "Ticino (free transport with your stay, great in May) or Appenzell (Option 07, closest and cheapest)."),
     ("Most epic two weeks", "02-grand-train-tour", "The Grand Train Tour by train, or the Alpine Road Trip (Option 09) if someone is happy to drive."),
+    ("Best for July–August", "03-valais-matterhorn", "Valais or Engadin (Option 04): every high trail is open, and free or included lifts soften the peak-season prices."),
 ]
 
 COMBOS = [
@@ -815,6 +892,14 @@ COMBOS = [
         "cost": "≈ CHF 1,800–2,700 pp",
         "why": "The snow-free, warm version for May: vineyards, rivers, villas.",
     },
+    {
+        "name": "High Alpine Summer",
+        "when": "1–16 July or 16–31 August 2027",
+        "plan": [("Engadin", 4), ("Saas valley + Täsch", 5), ("Lauterbrunnen", 4)],
+        "transport": "Swiss Travel Pass 15 days (regional trains along the Glacier Express route), or Half Fare + Saver Day Passes",
+        "cost": "≈ CHF 2,300–3,600 pp at peak-season prices",
+        "why": "The summer version: lifts included in Engadin, free Saas lifts, then the Bernese Oberland, with every high trail open.",
+    },
 ]
 
 DATES = [
@@ -829,6 +914,44 @@ DATES = [
     ("~12–15 June", "Susten pass*", "open"),
     ("20 June", "Diavolezza*", "open"),
     ("late June", "Five Lakes Walk / high trails snow-free", "open"),
+    ("2–17 July", "Montreux Jazz Festival (Montreux fills up)", "event"),
+    ("3 July", "Swiss school holidays start (Bern, Zug and many others, to ~15 Aug)", "holiday"),
+    ("early July", "Alpine flowers at their peak around 2,000 m", "open"),
+    ("19 July", "NRW school holidays start (to 31 Aug)", "holiday"),
+    ("1 August", "Swiss National Day: fireworks & bonfires (a Sunday)", "event"),
+    ("~4–14 August", "Locarno Film Festival (it may move to late July in 2027)", "event"),
+    ("15 August", "Ferragosto: Italy's peak holiday (Ticino & Lake Como full)", "holiday"),
+    ("mid-August", "Lucerne Festival summer season begins", "event"),
+]
+
+# School-holiday bands drawn under the date track: (label, start, end), as (day, month) pairs.
+BANDS = [
+    ("Swiss schools off", (3, "July"), (15, "August")),
+    ("NRW schools off", (19, "July"), (31, "August")),
+    ("Italy's holiday peak", (8, "August"), (22, "August")),
+]
+
+# The four month cards in "When to go": (month, chip, text)
+SEASONS = [
+    ("May", "cheaper · greener · snow up high", "Shoulder season: lower prices, fewer tourists, waterfalls at their peak and blossoming meadows. But many high trails above ~1,800 m are still snowy and some lifts are closed for maintenance. Best regions: Ticino, Lake Geneva, Lucerne, Appenzell, Italian lakes. Watch out for the long weekends (Ascension 6 May, Pentecost 16–17 May), when Swiss and Germans travel too."),
+    ("June", "everything opens", "From mid-June nearly all lifts and passes are open, the days are the longest of the year and the high-alpine lakes thaw. It is still before the July–August school holidays. <b>Sweet spot: Sat 12 – Sat 26 June 2027.</b> Late June is ideal for Zermatt, Engadin and the road trip."),
+    ("July", "all open · peak season starts", "Every lift, pass and high trail is open, alpine flowers peak in early July and the lakes get warm enough to swim. But Swiss schools break up around 3 July and NRW's on 19 July, so prices climb and the famous spots are busy. Montreux Jazz Festival runs 2–17 July. Best regions: Valais, Engadin, Appenzell and the road trip. <b>Summer sweet spot: 1–16 July</b>, before the German holidays."),
+    ("August", "warmest · busiest · priciest", "The warmest lakes and reliable high-alpine hiking, plus Swiss National Day on Sunday 1 August. It is also the most crowded month: Italians fill Ticino and Lake Como around Ferragosto (15 Aug), and beds are at peak prices. It gets better after ~16 August, when most Swiss schools go back. <b>Avoid the Italian lakes and Ticino in mid-August.</b>"),
+]
+
+SUMMER_PROS = [
+    "Every lift, pass, hut and high trail is open: no snow surprises on the Five Lakes Walk, Faulhorn, Aletsch or the Furka and Susten passes.",
+    "Warm lakes and rivers for swimming (≈ 20–24 °C in Lake Geneva, Lugano, Thun and Brienz).",
+    "Alpine flowers peak in early July, and the evenings are long and warm for picnics, BBQ spots and open-air events.",
+    "Swiss National Day on 1 August: bonfires on the hills, fireworks over the lakes and farm brunches.",
+    "Swiss passes (Swiss Travel Pass, Half Fare, regional passes) cost the same as in June.",
+]
+SUMMER_CONS = [
+    "Accommodation costs ≈ 10–35 % more and sells out earlier. Booking sites show July as Lauterbrunnen's most expensive month.",
+    "Crowds and midday queues at the hotspots: Lauterbrunnen, Grindelwald, Lucerne, Zermatt, Oeschinensee, Lake Como.",
+    "Heat waves (30–35 °C in Ticino, Valais and around Geneva in recent summers) and almost daily afternoon thunderstorms in the mountains.",
+    "Packed DB trains in the NRW holidays (from 19 July). The cheapest Sparpreis fares go faster.",
+    "Dry summers can bring fire bans, so check before lighting a BBQ.",
 ]
 
 TRANSPORT = [
@@ -873,10 +996,10 @@ PASSES = [
 ]
 
 TIMELINE = [
-    ("Now (late Oct – Nov 2026)", "Vote on an option and dates. Book refundable accommodation for hotspots (Lauterbrunnen, Täsch/Zermatt, Lucerne, Lake Como). Friends set flight price alerts. Domestic DB tickets to Basel Bad Bf are already bookable."),
-    ("6 months before (Nov 2026 – Jan 2027)", "DB international Sparpreis tickets open: buy on day one. SBB Saver Day Passes also go on sale 6 months ahead (limited cheap quotas)."),
-    ("Jan – Feb 2027", "Friends book flights. Book the rental car (free cancellation) for the road trip. Swiss fares for 2027 will be known (≈ +3–4 % on national tickets from Dec 2026)."),
-    ("~3 months before (Feb – Mar 2027)", "Glacier Express & Bernina Express seats (reportedly from ~93 days ahead). Mountain huts and guesthouses. Note the SAC huts' new reservation fee from 2027."),
+    ("Now (late Oct – Nov 2026)", "Vote on an option and dates. Book refundable accommodation for hotspots (Lauterbrunnen, Täsch/Zermatt, Lucerne, Lake Como). For July–August this matters even more, because peak-season beds go first. Friends set flight price alerts. Domestic DB tickets to Basel Bad Bf are already bookable."),
+    ("6 months before (Nov 2026 – Feb 2027)", "DB international Sparpreis tickets open: buy on day one. That is Nov 2026 – Jan 2027 for May–June, or Jan – Feb 2027 for July–August. SBB Saver Day Passes also go on sale 6 months ahead (limited cheap quotas)."),
+    ("Jan – Feb 2027", "Friends book flights (summer fares rise fastest). Book the rental car (free cancellation) for the road trip. Swiss fares for 2027 will be known (≈ +3–4 % on national tickets from Dec 2026)."),
+    ("~3 months before (Feb – May 2027)", "Glacier Express & Bernina Express seats (reportedly from ~93 days ahead). Mountain huts and guesthouses. Note the SAC huts' new reservation fee from 2027."),
     ("2–6 weeks before", "Buy the Swiss Travel Pass / Half Fare Card / regional pass online (fixed price, no early-bird). Check passports. Travel insurance for non-EU friends."),
     ("Last week", "Watch the forecast. Buy Jungfraujoch/Gornergrat tickets 1–2 days before a clear day. Download offline maps and the SBB, MeteoSwiss and SwitzerlandMobility apps."),
 ]
@@ -899,7 +1022,7 @@ PRACTICAL = [
     ("📱 Roaming", "Switzerland is not in the EU roaming zone. Check your tariff or buy a Swiss eSIM data plan."),
     ("💳 Money", "CHF. Cards and phones work almost everywhere. Keep some cash for mountain huts. Euros are accepted sometimes, at bad rates."),
     ("🏥 Health", "The EHIC card works for people with German insurance. Friends from abroad need travel insurance that covers mountain rescue."),
-    ("⛈️ Weather", "June afternoons bring thunderstorms, so start hikes early. Check MeteoSwiss and the webcams before buying lift tickets."),
+    ("⛈️ Weather", "June to August afternoons bring thunderstorms, so start hikes early. July–August heat waves can hit 30–35 °C in the valleys. Check MeteoSwiss and the webcams before buying lift tickets."),
     ("🥾 Trails", "Yellow signs = easy paths. White-red-white = mountain trails (sure-footed). Blue-white = alpine (not for you)."),
     ("🛒 Sundays", "Shops close on Sundays, except at train stations and petrol stations."),
     ("🧳 Luggage", "SBB luggage forwarding (≈ CHF 12–25 per bag) lets you hop between bases with only a daypack."),
@@ -942,6 +1065,14 @@ SOURCES = [
     ("GoldenPass Express reservations", "https://www.myswissalps.com/activity/goldenpass/"),
     ("Val Bavona road reopened", "https://www.rsi.ch/info/ticino-grigioni-e-insubria/La-Valle-Bavona-riallaccia-i-fili-con-il-turismo--2748536.html"),
     ("NRW public holidays 2027", "https://www.kalenderpedia.de/feiertage/feiertage-nrw-2027.html"),
+    ("NRW school holidays 2027", "https://www.kalenderpedia.de/ferien/ferien-nrw-2027.html"),
+    ("Swiss school holidays 2027 (TCS)", "https://www.tcs.ch/mam/Corporate-Communication/PDF/Info-Sheet/schulferien-2027.pdf"),
+    ("Montreux Jazz Festival 2027", "https://www.montreuxriviera.com/en/P1075/montreux-jazz-festival"),
+    ("Locarno Film Festival 2027 date change", "https://locarnofestival.ch/press/press-releases/2024/possibility-of-changing-the-date-of-the-event-in-2027.html"),
+    ("Lauterbrunnen rental prices by month", "https://www.kayak.de/Lauterbrunnen-Ferienunterkuenfte.45166.rental.ksp"),
+    ("Lake Como by month", "https://www.tripbase.com/destinations/lake-como-italy/when-to-visit/"),
+    ("Swiss summer weather", "https://www.tour-switzerland.ch/guides/weather-climate/"),
+    ("Glacier Express reservation 2026", "https://www.tour-switzerland.ch/guides/glacier-express/"),
     ("SAC hut fees from 2027", "https://www.blick.ch/wirtschaft/no-show-gebuehr-ab-2027-so-viel-steigen-die-preise-pro-nacht-in-den-sac-huetten-id22028074.html"),
     ("ETIAS status", "https://navan.com/blog/when-does-etias-go-into-effect"),
     ("EUR/CHF rate (Oct 2026)", "https://www.exchange-rates.org/exchange-rate-history/chf-eur-2026-10-02"),

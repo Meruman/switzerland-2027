@@ -33,12 +33,45 @@ def totals(opt):
     return b, c
 
 
+def summer_totals(opt):
+    """July-August estimate: accommodation + opt['peak'], getting there + PEAK_TRAVEL, the rest unchanged."""
+    def factor(label):
+        if label.startswith("Accommodation"):
+            return 1 + opt["peak"]
+        if label.startswith(("Train Langenfeld", "Car hire")):
+            return 1 + D.PEAK_TRAVEL
+        return 1
+    b = round(sum(r[1] * factor(r[0]) for r in opt["costs"]))
+    c = round(sum(r[2] * factor(r[0]) for r in opt["costs"]))
+    return b, c
+
+
+def month_price(opt, month):
+    return summer_totals(opt) if month in ("July", "August") else totals(opt)
+
+
+def ratings(opt):
+    return {m: v for m, v, _ in opt["season"]}
+
+
+def mstrip(opt):
+    """Four small May-August pills coloured by rating."""
+    label = ", ".join(f"{m} {D.RATING[v].lower()}" for m, v, _ in opt["season"])
+    cells = "".join(f'<span class="r{v}" title="{m}: {D.RATING[v]}. {e(note)}">{m[:3]}</span>' for m, v, note in opt["season"])
+    return f'<span class="mstrip" role="img" aria-label="{e(label)}">{cells}</span>'
+
+
 def stars(n):
     return "★" * n + "☆" * (5 - n)
 
 
 def card_tags(opt):
-    t = set(opt["months"])
+    r = ratings(opt)
+    t = set()
+    if r["May"] >= 2:
+        t.add("may")
+    if max(r["July"], r["August"]) >= 3:
+        t.add("summer")
     s = opt["scores"]
     if s["Budget"] >= 4:
         t.add("budget")
@@ -93,12 +126,13 @@ def option_page(i, opt):
     n = i + 1
     p = "../"
     b, c = totals(opt)
+    sb, sc = summer_totals(opt)
     prev_opt = D.OPTIONS[i - 1]
     next_opt = D.OPTIONS[(i + 1) % len(D.OPTIONS)]
     out = [head(f"{opt['title']} – Switzerland 2027", opt["tagline"], p), "<body>"]
     out.append('<div class="progress"></div>')
     out.append(f'<header class="topbar"><a href="../index.html">← All options</a>'
-               f'<span class="title">Option {n:02d} · {e(opt["title"])}</span><span class="count">1 / 9</span>'
+               f'<span class="title">Option {n:02d} · {e(opt["title"])}</span><span class="count">1 / 10</span>'
                f'<button class="icon-btn" data-theme-toggle aria-label="Toggle dark mode">◐</button></header>')
     out.append('<nav class="dots" aria-label="Slides"></nav>')
     out.append('<div class="keys"><button data-go="-1" aria-label="Previous slide">↑</button><button data-go="1" aria-label="Next slide">↓</button></div>')
@@ -121,7 +155,7 @@ def option_page(i, opt):
 
     # 2 at a glance
     why = "".join(f'<li class="reveal" style="--i:{k}"><span class="n">{k + 1}</span><span>{e(w)}</span></li>' for k, w in enumerate(opt["why"]))
-    sc = "".join(f'<div class="score"><span>{e(k)}</span><div class="bar"><span style="--v:{v * 20}%"></span></div><b>{v}</b></div>' for k, v in opt["scores"].items())
+    score_html = "".join(f'<div class="score"><span>{e(k)}</span><div class="bar"><span style="--v:{v * 20}%"></span></div><b>{v}</b></div>' for k, v in opt["scores"].items())
     stops = ['<div class="stop reveal" style="--i:0"><div class="pin home">⌂</div><strong>Langenfeld</strong><small>start</small></div>']
     for k, (place, nights, note) in enumerate(opt["route"]):
         stops.append(f'<div class="stop reveal" style="--i:{k + 1}"><div class="pin">{nights}</div><strong>{e(place)}</strong><small>{nights} night{"s" if nights > 1 else ""} · {e(note)}</small></div>')
@@ -132,7 +166,7 @@ def option_page(i, opt):
     <div class="glance">
       <ul class="why">{why}</ul>
       <div>
-        <div class="scores reveal" style="--i:2">{sc}</div>
+        <div class="scores reveal" style="--i:2">{score_html}</div>
         <div class="facts reveal" style="--i:3">
           <div class="fact"><b>Length</b>{opt['days']} days / {opt['nights']} nights</div>
           <div class="fact"><b>Best dates</b>{e(opt['best'])} 2027</div>
@@ -145,7 +179,22 @@ def option_page(i, opt):
   </div>
 </section>""")
 
-    # 3 itinerary
+    # 3 month by month
+    months = []
+    for k, (m, v, note) in enumerate(opt["season"]):
+        mb, mc = month_price(opt, m)
+        months.append(f'<article class="mo r{v} reveal" style="--i:{k}"><div class="mo-top"><h3>{m}</h3><span class="rate">{D.RATING[v]}</span></div>'
+                      f'<p>{e(note)}</p><div class="mo-price"><small>per person</small>≈ €{money(eur(mb))}–{money(eur(mc))}</div></article>')
+    extra_b, extra_c = eur(sb) - eur(b), eur(sc) - eur(c)
+    out.append(f"""<section class="slide" id="months" data-title="Month by month">
+  <div class="inner">
+    <div class="slide-head"><div><div class="eyebrow">When to go</div><h2>May to August, month by month</h2></div><p class="muted">July–August adds ≈ €{extra_b}–{extra_c} per person here (+{round((sb - b) / b * 100)} %), mostly for beds. Passes, food and most lift tickets cost the same all summer.</p></div>
+    <div class="months">{''.join(months)}</div>
+    <div class="stretch reveal" style="--i:4">☀️ Summer tip: {e(opt['summer_tip'])}</div>
+  </div>
+</section>""")
+
+    # 4 itinerary
     days = []
     for k, (title, text, tip) in enumerate(opt["itinerary"]):
         t = f'<div class="tip">{e(tip)}</div>' if tip else ""
@@ -157,7 +206,7 @@ def option_page(i, opt):
   </div>
 </section>""")
 
-    # 4 highlights + gems
+    # 5 highlights + gems
     figs = "".join(f'<figure class="reveal" style="--i:{k}">{img(name, p, cap)}<figcaption>{e(cap)}</figcaption></figure>' for k, (name, cap) in enumerate(opt["gallery"]))
     gems = "".join(f'<div class="gem reveal" style="--i:{k}"><b>{e(g)}</b><span>{e(d)}</span></div>' for k, (g, d) in enumerate(opt["gems"]))
     out.append(f"""<section class="slide alt" id="highlights" data-title="Highlights & hidden gems">
@@ -168,7 +217,7 @@ def option_page(i, opt):
   </div>
 </section>""")
 
-    # 5 stay
+    # 6 stay
     tiers = "".join(f'<div class="tier reveal" style="--i:{k}"><span class="label">{e(t)}</span><h3>{e(name)}</h3><p>{e(desc)}</p><span class="price">{e(price)}</span></div>' for k, (t, name, desc, price) in enumerate(opt["stay"]))
     out.append(f"""<section class="slide" id="stay" data-title="Where to stay">
   <div class="inner">
@@ -177,7 +226,7 @@ def option_page(i, opt):
   </div>
 </section>""")
 
-    # 6 transport
+    # 7 transport
     first = opt["route"][0][0]
     line = ['<span class="node home">Langenfeld</span>', '<span class="arrow">→</span>', '<span class="node">Köln / Düsseldorf</span>']
     if "road trip" not in opt["tags"]:
@@ -196,11 +245,11 @@ def option_page(i, opt):
   </div>
 </section>""")
 
-    # 7 costs
+    # 8 costs
     rows = "".join(f'<tr><td>{e(label)}</td><td class="num">{money(bb)}</td><td class="num">{money(cc)}</td></tr>' for label, bb, cc in opt["costs"])
     out.append(f"""<section class="slide" id="costs" data-title="Costs">
   <div class="inner">
-    <div class="slide-head"><div><div class="eyebrow">What it costs</div><h2>Budget per person</h2></div><p class="muted">CHF per person for the whole trip, sharing everything between 5. 'Budget' = hostels/campsites and cooking. 'Comfort' = apartments/3★ hotels and more meals out.</p></div>
+    <div class="slide-head"><div><div class="eyebrow">What it costs</div><h2>Budget per person</h2></div><p class="muted">CHF per person for the whole trip in May–June, sharing everything between 5. 'Budget' = hostels/campsites and cooking. 'Comfort' = apartments/3★ hotels and more meals out.</p></div>
     <div class="cost-grid">
       <div class="panel reveal"><table class="costs">
         <thead><tr><th>Item</th><th class="num">Budget</th><th class="num">Comfort</th></tr></thead>
@@ -210,13 +259,14 @@ def option_page(i, opt):
         <div class="total-card hl reveal" style="--i:1"><small>Per person · budget → comfort</small><div class="amount">€<span data-count="{eur(b)}">{money(eur(b))}</span>–<span data-count="{eur(c)}">{money(eur(c))}</span></div></div>
         <div class="total-card reveal" style="--i:2"><small>Whole group of {D.GROUP}</small><div class="amount">€<span data-count="{eur(b) * D.GROUP}">{money(eur(b) * D.GROUP)}</span>–<span data-count="{eur(c) * D.GROUP}">{money(eur(c) * D.GROUP)}</span></div></div>
         <div class="total-card reveal" style="--i:3"><small>Per person per day</small><div class="amount">≈ €{money(eur(b) // opt['days'])}–{money(eur(c) // opt['days'])}</div></div>
+        <div class="total-card summer reveal" style="--i:4"><small>☀️ July–August, per person</small><div class="amount">€<span data-count="{eur(sb)}">{money(eur(sb))}</span>–<span data-count="{eur(sc)}">{money(eur(sc))}</span></div><span class="d">+{round((sb - b) / b * 100)} %: beds +{round(opt['peak'] * 100)} %, getting there +{round(D.PEAK_TRAVEL * 100)} % (estimate)</span></div>
         <p class="note">€ at 1 CHF ≈ €{D.EUR_PER_CHF:.2f}. 2026 prices; Swiss fares rise ≈ 3–4 % from Dec 2026. Splurges are listed separately.</p>
       </div>
     </div>
   </div>
 </section>""")
 
-    # 8 tips + splurges
+    # 9 tips + splurges
     know = "".join(f'<li class="reveal" style="--i:{k}">{e(x)}</li>' for k, x in enumerate(opt["know"]))
     spl = "".join(f'<li class="splurge reveal" style="--i:{k}"><b>{e(name)}</b><span class="p">{e(price)}</span><span>{e(why)}</span></li>' for k, (name, price, why) in enumerate(opt["splurges"]))
     out.append(f"""<section class="slide alt" id="tips" data-title="Good to know">
@@ -229,7 +279,7 @@ def option_page(i, opt):
   </div>
 </section>""")
 
-    # 9 booking + nav
+    # 10 booking + nav
     steps = "".join(f'<div class="step reveal" style="--i:{k}"><b>{e(w)}</b><span>{e(t)}</span></div>' for k, (w, t) in enumerate(opt["booking"]))
     out.append(f"""<section class="slide" id="booking" data-title="Booking plan">
   <div class="inner">
@@ -249,21 +299,38 @@ def option_page(i, opt):
 # ---------------------------------------------------------------------------
 # Overview page
 # ---------------------------------------------------------------------------
-MONTHS = {"May": 0, "June": 31}
+MONTHS = {"May": 0, "June": 31, "July": 61, "August": 92}
+SPAN = 123  # days from 1 May to 31 August
+
+
+def pos(day, month):
+    return (MONTHS[month] + day - 1) / SPAN * 100
 
 
 def date_pos(label):
-    m = "June" if "June" in label else "May"
-    nums = re.findall(r"\d+", label)
-    day = 25 if not nums else (sum(int(x) for x in nums[:2]) / min(2, len(nums)))
-    return (MONTHS[m] + day - 1) / 61 * 100
+    """Track position of a label such as '6 May', '~12–15 June', 'late June' or 'mid-August'."""
+    month = re.search(r"May|June|July|August", label).group(0)
+    num = re.search(r"\d+", label)
+    day = int(num.group(0)) if num else next((d for w, d in (("early", 5), ("mid", 15), ("late", 25)) if w in label), 15)
+    return pos(day, month)
+
+
+def summer_range():
+    """Smallest and largest July-August surcharge across the options, in % and € per person."""
+    pct, extra = [], []
+    for o in D.OPTIONS:
+        (b, c), (sb, sc) = totals(o), summer_totals(o)
+        pct.append(((sb - b) / b * 100, o["title"]))
+        extra += [eur(sb) - eur(b), eur(sc) - eur(c)]
+    return min(pct), max(pct), min(extra), max(extra)
 
 
 def index_page():
     p = ""
     bs = [totals(o) for o in D.OPTIONS]
+    ss = [summer_totals(o) for o in D.OPTIONS]
     cheapest = min(eur(b) for b, _ in bs)
-    out = [head("Switzerland 2027 – 10 trip ideas", "Ten researched Switzerland itineraries for five friends from Langenfeld, May–June 2027, with costs, transport, passes and a booking timeline.", p), "<body>"]
+    out = [head("Switzerland 2027 – 10 trip ideas", "Ten researched Switzerland itineraries for five friends from Langenfeld, May–August 2027, with costs per month, transport, passes and a booking timeline.", p), "<body>"]
     out.append('<div class="progress"></div>')
     out.append('<header class="topbar"><a href="#options">10 options</a><a href="#compare">Compare</a><a href="#when">When</a><a href="#getting-there">Getting there</a><a href="#booking">Booking</a>'
                '<span class="title"></span><button class="icon-btn" data-theme-toggle aria-label="Toggle dark mode">◐</button></header>')
@@ -291,15 +358,17 @@ def index_page():
   <div class="img">{img(o['cover'], p, o['title'])}<span class="num">{k + 1:02d}</span><span class="when">☀️ {e(o['best'])}</span></div>
   <div class="body"><h3>{e(o['title'])}</h3><div class="subt">{e(o['subtitle'])}</div>
     <div class="chips"><span class="chip">🗓 {o['days']} days</span><span class="chip">🚆 {e(o['travel'])}</span></div>
+    <div class="mrow"><small>May → Aug</small>{mstrip(o)}</div>
     <div class="meta"><div class="price"><small>per person</small>≈ €{money(eur(b))}–{money(eur(c))}</div><div class="pips">{pips}</div></div>
   </div>
 </a>""")
     out.append(f"""<section class="section" id="options"><div class="wrap">
   <div class="section-head"><div class="eyebrow">The options</div><h2>Ten ways to do Switzerland</h2>
-  <p class="muted">Each option opens a full presentation: day-by-day plan, where to stay, how to get there, a cost table and a booking checklist. Prices are researched 2026 tariffs per person, for a group of 5 sharing.</p></div>
+  <p class="muted">Each option opens a full presentation: day-by-day plan, month-by-month rating, where to stay, how to get there, a cost table and a booking checklist. Prices are researched 2026 tariffs per person for May–June, for a group of 5 sharing. The coloured pills rate May to August.</p></div>
   <div class="controls" role="group" aria-label="Filter options">
     <button class="chip" data-filter="all" aria-pressed="true">All</button>
     <button class="chip" data-filter="may" aria-pressed="false">Good in May</button>
+    <button class="chip" data-filter="summer" aria-pressed="false">Best in July–August</button>
     <button class="chip" data-filter="budget" aria-pressed="false">Budget-friendly</button>
     <button class="chip" data-filter="gems" aria-pressed="false">Most hidden gems</button>
     <button class="chip" data-filter="onebase" aria-pressed="false">One base</button>
@@ -311,16 +380,16 @@ def index_page():
 
     # compare table
     rows = []
-    for k, (o, (b, c)) in enumerate(zip(D.OPTIONS, bs)):
+    for k, (o, (b, c), (sb, sc)) in enumerate(zip(D.OPTIONS, bs, ss)):
         s = o["scores"]
         rows.append(f'<tr><td>{k + 1:02d}</td><td><a href="options/{o["slug"]}.html">{e(o["title"])}</a><br><span class="muted">{e(o["subtitle"])}</span></td>'
-                    f'<td>{o["days"]}</td><td>{e(o["best"])}</td><td>{e(o["travel"])}</td><td>{e(o["pass"][0])}</td>'
-                    f'<td><b>€{money(eur(b))}–{money(eur(c))}</b></td>'
+                    f'<td>{o["days"]}</td><td>{e(o["best"])}</td><td>{mstrip(o)}</td><td>{e(o["travel"])}</td><td>{e(o["pass"][0])}</td>'
+                    f'<td><b>€{money(eur(b))}–{money(eur(c))}</b></td><td>€{money(eur(sb))}–{money(eur(sc))}</td>'
                     + "".join(f'<td class="stars">{stars(s[x])}</td>' for x in ["Nature", "Views", "Hidden gems", "Budget", "Easy"]) + "</tr>")
     out.append(f"""<section class="section alt" id="compare"><div class="wrap">
-  <div class="section-head"><div class="eyebrow">Compare</div><h2>All ten at a glance</h2><p class="muted">Scroll sideways on a phone.</p></div>
+  <div class="section-head"><div class="eyebrow">Compare</div><h2>All ten at a glance</h2><p class="muted">Scroll sideways on a phone. Hover a month pill for the reason behind its rating.</p></div>
   <div class="table-wrap reveal"><table class="compare">
-    <thead><tr><th>#</th><th>Trip</th><th>Days</th><th>Best time</th><th>From Langenfeld</th><th>Main ticket</th><th>€ per person</th><th>Nature</th><th>Views</th><th>Hidden gems</th><th>Budget</th><th>Easy</th></tr></thead>
+    <thead><tr><th>#</th><th>Trip</th><th>Days</th><th>Best time</th><th>May → Aug</th><th>From Langenfeld</th><th>Main ticket</th><th>€ pp May–Jun</th><th>€ pp Jul–Aug</th><th>Nature</th><th>Views</th><th>Hidden gems</th><th>Budget</th><th>Easy</th></tr></thead>
     <tbody>{''.join(rows)}</tbody></table></div>
 </div></section>""")
 
@@ -335,24 +404,39 @@ def index_page():
                       f'<small class="muted">{total} nights + travel days</small><p>{e(cb["why"])}</p><ul><li><b>Tickets:</b> {e(cb["transport"])}</li><li><b>Cost:</b> {e(cb["cost"])}</li></ul></div>')
     out.append(f"""<section class="section" id="picks"><div class="wrap">
   <div class="section-head"><div class="eyebrow">Our recommendation</div><h2>If we had to choose</h2>
-  <p class="muted">For a first trip with 5 people who love nature and want to keep costs down, our favourite is <b>mid to late June 2027</b> using one of the 14-day combos below. Two or three bases means fewer check-ins, cheaper apartments and more variety.</p></div>
+  <p class="muted">For a first trip with 5 people who love nature and want to keep costs down, our favourite is still <b>mid to late June 2027</b> using one of the 14-day combos below. If July or August suits you better, it is the best time for the high Alps. Take the High Alpine Summer combo and book the beds now. Two or three bases means fewer check-ins, cheaper apartments and more variety.</p></div>
   <div class="picks">{picks}</div>
-  <h3 style="margin-top:44px">Three ready-made 14-day combos</h3>
+  <h3 style="margin-top:44px">Four ready-made 14-day combos</h3>
   <div class="combos">{''.join(combos)}</div>
 </div></section>""")
 
     # when to go
     marks = "".join(f'<span class="mk {kind}" style="left:{date_pos(lbl):.1f}%" title="{e(lbl)}: {e(txt)}"></span>' for lbl, txt, kind in D.DATES)
     dates = "".join(f'<li><span class="dot {kind}"></span><b>{e(lbl)}</b><span>{e(txt)}</span></li>' for lbl, txt, kind in D.DATES)
+    months = "".join(f'<span class="m" style="left:{pos(1, m):.1f}%">{m}</span>' for m in MONTHS)
+    bands = []
+    for label, (d1, m1), (d2, m2) in D.BANDS:
+        x1, x2 = pos(d1, m1), pos(d2, m2) + 100 / SPAN
+        anchor = f"right:{100 - x2:.1f}%" if x1 > 50 else f"left:{x1:.1f}%"
+        bands.append(f'<div class="band"><small style="{anchor}">{e(label)} · {d1} {m1[:3]} – {d2} {m2[:3]}</small><span style="left:{x1:.1f}%;width:{x2 - x1:.1f}%"></span></div>')
+    seasons = "".join(f'<div class="season reveal" style="--i:{k % 2}"><h3>{m} <span class="chip">{e(chip)}</span></h3><p class="muted">{text}</p></div>' for k, (m, chip, text) in enumerate(D.SEASONS))
+    (lo, lo_t), (hi, hi_t), xmin, xmax = summer_range()
+    pros = "".join(f'<li>{e(x)}</li>' for x in D.SUMMER_PROS)
+    cons = "".join(f'<li>{e(x)}</li>' for x in D.SUMMER_CONS)
     out.append(f"""<section class="section alt" id="when"><div class="wrap">
-  <div class="section-head"><div class="eyebrow">When to go</div><h2>May or June?</h2></div>
-  <div class="when-grid">
-    <div class="season reveal"><h3>May <span class="chip">cheaper · greener · snow up high</span></h3><p class="muted">Shoulder season: lower prices, fewer tourists, waterfalls at their peak and blossoming meadows. But many high trails above ~1,800 m are still snowy and some lifts are closed for maintenance. Best regions: Ticino, Lake Geneva, Lucerne, Appenzell, Italian lakes. Watch out for the long weekends (Ascension 6 May, Pentecost 16–17 May), when Swiss and Germans travel too.</p></div>
-    <div class="season reveal" style="--i:1"><h3>June <span class="chip">everything opens</span></h3><p class="muted">From mid-June nearly all lifts and passes are open, the days are the longest of the year and the high-alpine lakes thaw. It is still before the July–August school holidays. <b>Sweet spot: Sat 12 – Sat 26 June 2027.</b> Late June is ideal for Zermatt, Engadin and the road trip.</p></div>
-  </div>
-  <div class="track reveal"><span class="m" style="left:0">May</span><span class="m" style="left:50.8%">June</span>{marks}</div>
+  <div class="section-head"><div class="eyebrow">When to go</div><h2>May, June, July or August?</h2><p class="muted">Late May to June is the best value. July and August are the best months for the high Alps, but they are peak season, so you pay more and share the views.</p></div>
+  <div class="when-grid">{seasons}</div>
+  <div class="track reveal">{months}{marks}</div>
+  <div class="bands reveal">{''.join(bands)}</div>
+  <p class="note" style="margin-top:0">Track colour: cooler = quieter and cheaper, warmer = busier and pricier.</p>
   <ul class="datelist">{dates}</ul>
-  <p class="note">* Opening dates marked with a star are the 2026 dates and are usually similar each year. Check the operator's site in spring 2027. Corpus Christi (27 May) + Friday 28 May off = a 4-day weekend in NRW. Ascension → Whit Monday (6–17 May) gives 12 days off for 6 vacation days.</p>
+  <p class="note">* Opening dates marked with a star are the 2026 dates and are usually similar each year. Check the operator's site in spring 2027. Corpus Christi (27 May) + Friday 28 May off = a 4-day weekend in NRW. Ascension → Whit Monday (6–17 May) gives 12 days off for 6 vacation days. Swiss school holidays differ by canton; Zürich and some others start later in July.</p>
+  <h3 style="margin-top:44px">Is July–August worth it?</h3>
+  <div class="proscons">
+    <div class="season reveal"><h3>Why it is great <span class="chip">✓</span></h3><ul class="list">{pros}</ul></div>
+    <div class="season reveal" style="--i:1"><h3>What you pay for it <span class="chip">✗</span></h3><ul class="list">{cons}</ul></div>
+  </div>
+  <div class="stretch reveal">💶 For your group, July–August makes the whole trip ≈ {lo:.0f}–{hi:.0f} % dearer: about €{xmin}–{xmax} more per person, depending on the option and comfort level. {e(lo_t)} changes least (+{lo:.0f} %) and {e(hi_t)} most (+{hi:.0f} %). Each option's 'Month by month' slide has the exact numbers.</div>
 </div></section>""")
 
     # getting there
@@ -413,10 +497,11 @@ def markdown():
          f"*Window: {D.TRIP['window']} · group of {D.GROUP} · researched {D.TRIP['researched']} · prices are 2026 tariffs, per person, € at 1 CHF ≈ €{D.EUR_PER_CHF:.2f}*", "",
          "Open `index.html` for the visual version with photos and animated presentations.", "",
          "## The 10 options at a glance", "",
-         "| # | Trip | Days | Best time | € per person (budget–comfort) | Main ticket |", "|---|---|---|---|---|---|"]
+         "| # | Trip | Days | Best time | May / Jun / Jul / Aug | € pp May–Jun | € pp Jul–Aug | Main ticket |", "|---|---|---|---|---|---|---|---|"]
     for k, o in enumerate(D.OPTIONS):
-        b, c = totals(o)
-        L.append(f"| {k + 1:02d} | **{o['title']}**: {o['subtitle']} | {o['days']} | {o['best']} | €{money(eur(b))}–{money(eur(c))} | {o['pass'][0]} |")
+        (b, c), (sb, sc) = totals(o), summer_totals(o)
+        rate = " / ".join(D.RATING[v] for _, v, _ in o["season"])
+        L.append(f"| {k + 1:02d} | **{o['title']}**: {o['subtitle']} | {o['days']} | {o['best']} | {rate} | €{money(eur(b))}–{money(eur(c))} | €{money(eur(sb))}–{money(eur(sc))} | {o['pass'][0]} |")
     L += ["", "## Our recommendation", ""]
     for label, slug, text in D.PICKS:
         L.append(f"- **{label}:** {text}")
@@ -424,11 +509,20 @@ def markdown():
     for cb in D.COMBOS:
         plan = " → ".join(f"{pl} ({nn} n)" for pl, nn in cb["plan"])
         L.append(f"- **{cb['name']}** ({cb['when']}): {plan}. {cb['why']} Tickets: {cb['transport']}. {cb['cost']}.")
-    L += ["", "## When to go", "", "- **Sweet spot:** Sat 12 – Sat 26 June 2027 (lifts and passes open, before school holidays).",
-          "- **May:** cheaper and greener, but snow above ~1,800 m. Choose Ticino, Lake Geneva, Lucerne, Appenzell or the Italian lakes.", ""]
+    L += ["", "## When to go", ""]
+    for m, chip, text in D.SEASONS:
+        L.append(f"- **{m}** ({chip}): {text.replace('<b>', '**').replace('</b>', '**')}")
+    L.append("")
     for lbl, txt, _ in D.DATES:
         L.append(f"- {lbl}: {txt}")
-    L += ["", "*Starred dates are 2026 opening dates; check again in spring 2027.*", "", "## Getting from Langenfeld to Switzerland", ""]
+    L += ["", "*Starred dates are 2026 opening dates; check again in spring 2027.*", ""]
+    for label, (d1, m1), (d2, m2) in D.BANDS:
+        L.append(f"- {label}: {d1} {m1} – {d2} {m2} 2027")
+    (lo, lo_t), (hi, hi_t), xmin, xmax = summer_range()
+    L += ["", "### Is July–August worth it?", "", "**Why it is great**", ""] + [f"- {x}" for x in D.SUMMER_PROS]
+    L += ["", "**What you pay for it**", ""] + [f"- {x}" for x in D.SUMMER_CONS]
+    L += ["", f"For your group, July–August makes the whole trip ≈ {lo:.0f}–{hi:.0f} % dearer: about €{xmin}–{xmax} more per person. {lo_t} changes least (+{lo:.0f} %) and {hi_t} most (+{hi:.0f} %).",
+          "", "## Getting from Langenfeld to Switzerland", ""]
     for t in D.TRANSPORT:
         L.append(f"- **{t['mode']}** ({t['time']}, {t['price']}): {t['text']}")
     L += ["", "## Passes", "", "| Pass | Price (2026) | Best for |", "|---|---|---|"]
@@ -445,6 +539,8 @@ def markdown():
         L += ["", "---", "", f"## Option {k + 1:02d}: {o['title']} ({o['subtitle']})", "", f"> {o['tagline']}", "",
               f"**{o['days']} days / {o['nights']} nights · best {o['best']} 2027 · {o['travel']} · ≈ €{money(eur(b))}–{money(eur(c))} pp**", "",
               f"*{o['best_note']}*", "",
+              "**Month by month:** " + " · ".join(f"*{m}: {D.RATING[v]}* ({note})" for m, v, note in o["season"]), "",
+              f"**July–August:** ≈ €{money(eur(summer_totals(o)[0]))}–{money(eur(summer_totals(o)[1]))} pp (beds +{round(o['peak'] * 100)} %). {o['summer_tip']}", "",
               "**Route:** Langenfeld → " + " → ".join(f"{pl} ({nn} n)" for pl, nn, _ in o["route"]) + " → home", "", "**Why go**", ""]
         L += [f"- {w}" for w in o["why"]]
         L += ["", "**Day by day**", ""]
@@ -454,7 +550,9 @@ def markdown():
         L += ["", f"**Getting there:** {o['getting_there']}", "", f"**Getting around:** {o['getting_around']}", "",
               "**Costs per person (CHF)**", "", "| Item | Budget | Comfort |", "|---|---:|---:|"]
         L += [f"| {lab} | {money(bb)} | {money(cc)} |" for lab, bb, cc in o["costs"]]
-        L += [f"| **Total** | **{money(b)}** (≈ €{money(eur(b))}) | **{money(c)}** (≈ €{money(eur(c))}) |", "",
+        sb, sc = summer_totals(o)
+        L += [f"| **Total May–June** | **{money(b)}** (≈ €{money(eur(b))}) | **{money(c)}** (≈ €{money(eur(c))}) |",
+              f"| *Total July–August (estimate)* | *{money(sb)}* (≈ €{money(eur(sb))}) | *{money(sc)}* (≈ €{money(eur(sc))}) |", "",
               "**Hidden gems:** " + "; ".join(f"{g}: {d}" for g, d in o["gems"]), "",
               "**Worth the splurge:** " + "; ".join(f"{n} ({pr}): {w}" for n, pr, w in o["splurges"]), "", "**Good to know**", ""]
         L += [f"- {x}" for x in o["know"]]
@@ -471,8 +569,8 @@ def main():
     (ROOT / "index.html").write_text(index_page(), encoding="utf-8")
     (ROOT / "trip-plan.md").write_text(markdown(), encoding="utf-8")
     for o in D.OPTIONS:
-        b, c = totals(o)
-        print(f"{o['slug']:28s} CHF {b:>5}-{c:<5}  EUR {eur(b):>5}-{eur(c):<5}")
+        (b, c), (sb, sc) = totals(o), summer_totals(o)
+        print(f"{o['slug']:28s} CHF {b:>5}-{c:<5}  EUR {eur(b):>5}-{eur(c):<5}  Jul-Aug EUR {eur(sb):>5}-{eur(sc):<5}")
     print("built index.html, trip-plan.md and", len(D.OPTIONS), "option decks")
 
 

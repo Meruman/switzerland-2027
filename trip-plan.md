@@ -1,40 +1,44 @@
 # Switzerland 2027: 10 trip ideas for five friends, starting in Langenfeld
 
-*Window: May – June 2027 · group of 5 · researched 25 October 2026 · prices are 2026 tariffs, per person, € at 1 CHF ≈ €1.07*
+*Window: May – August 2027 · group of 5 · researched 25 October 2026 · prices are 2026 tariffs, per person, € at 1 CHF ≈ €1.07*
 
 Open `index.html` for the visual version with photos and animated presentations.
 
 ## The 10 options at a glance
 
-| # | Trip | Days | Best time | € per person (budget–comfort) | Main ticket |
-|---|---|---|---|---|---|
-| 01 | **Bernese Oberland**: The Valley of 72 Waterfalls | 9 | 12–30 June | €1 480–2 390 | Berner Oberland Pass (6 days) |
-| 02 | **Grand Train Tour**: Switzerland's greatest hits by panorama train | 14 | 1–30 June | €2 560–3 910 | Swiss Travel Pass (15 days) |
-| 03 | **Valais Glaciers**: Matterhorn, Aletsch & the free-lift valley | 10 | 15–30 June | €1 520–2 510 | Swiss Half Fare Card |
-| 04 | **Engadin & Graubünden**: Turquoise lakes, glaciers & lifts included | 10 | 12–30 June | €1 570–2 570 | Half Fare Card + hotel 'lifts included' |
-| 05 | **Ticino**: Emerald rivers, palm trees & stone villages | 9 | 15 May – 15 June | €1 130–1 950 | Ticino Ticket (free with your stay) |
-| 06 | **Central Switzerland**: Lucerne, lakes & legendary peaks | 8 | 20 May – 30 June | €1 280–2 030 | Lucerne Travel Pass (5 days) |
-| 07 | **Appenzell & the East**: Hidden gems close to home | 8 | 25 May – 30 June | €1 090–1 790 | Individual tickets (Supersaver) |
-| 08 | **Lake Geneva & the Jura**: Vineyards, castles & a secret canyon | 9 | 10 May – 30 June | €1 480–2 390 | Half Fare Card + Riviera Card |
-| 09 | **Alpine Road Trip**: Grand Tour of Switzerland by car | 13 | 15–30 June | €1 540–2 860 | Car + optional Half Fare |
-| 10 | **Swiss–Italian Lakes**: Bernina, Lake Como & Lugano | 11 | 10 May – 30 June | €1 390–2 270 | Pay as you go |
+| # | Trip | Days | Best time | May / Jun / Jul / Aug | € pp May–Jun | € pp Jul–Aug | Main ticket |
+|---|---|---|---|---|---|---|---|
+| 01 | **Bernese Oberland**: The Valley of 72 Waterfalls | 9 | 12–30 June | OK / Great / Good / Good | €1 480–2 390 | €1 640–2 650 | Berner Oberland Pass (6 days) |
+| 02 | **Grand Train Tour**: Switzerland's greatest hits by panorama train | 14 | 1–30 June | Good / Great / Good / Good | €2 560–3 910 | €2 800–4 310 | Swiss Travel Pass (15 days) |
+| 03 | **Valais Glaciers**: Matterhorn, Aletsch & the free-lift valley | 10 | July – August | Not ideal / Good / Great / Great | €1 520–2 510 | €1 670–2 770 | Swiss Half Fare Card |
+| 04 | **Engadin & Graubünden**: Turquoise lakes, glaciers & lifts included | 10 | July – August | Not ideal / Good / Great / Great | €1 570–2 570 | €1 680–2 760 | Half Fare Card + hotel 'lifts included' |
+| 05 | **Ticino**: Emerald rivers, palm trees & stone villages | 9 | 15 May – 15 June | Great / Great / Good / OK | €1 130–1 950 | €1 280–2 190 | Ticino Ticket (free with your stay) |
+| 06 | **Central Switzerland**: Lucerne, lakes & legendary peaks | 8 | 20 May – 30 June | Good / Great / Good / Good | €1 280–2 030 | €1 410–2 230 | Lucerne Travel Pass (5 days) |
+| 07 | **Appenzell & the East**: Hidden gems close to home | 8 | 1 June – 31 July | Good / Great / Great / Good | €1 090–1 790 | €1 150–1 880 | Individual tickets (Supersaver) |
+| 08 | **Lake Geneva & the Jura**: Vineyards, castles & a secret canyon | 9 | 10 May – 30 June | Great / Great / Good / Good | €1 480–2 390 | €1 590–2 580 | Half Fare Card + Riviera Card |
+| 09 | **Alpine Road Trip**: Grand Tour of Switzerland by car | 13 | late June – July | Not ideal / Good / Great / Good | €1 540–2 860 | €1 700–3 190 | Car + optional Half Fare |
+| 10 | **Swiss–Italian Lakes**: Bernina, Lake Como & Lugano | 11 | 10 May – 30 June | Great / Great / OK / Not ideal | €1 390–2 270 | €1 580–2 600 | Pay as you go |
 
 ## Our recommendation
 
 - **If you only pick one:** The Bernese Oberland is the Switzerland everyone dreams of, and it is easy from Langenfeld. Add Lucerne or Ticino to make it 12–14 days.
 - **Best value:** Ticino (free transport with your stay, great in May) or Appenzell (Option 07, closest and cheapest).
 - **Most epic two weeks:** The Grand Train Tour by train, or the Alpine Road Trip (Option 09) if someone is happy to drive.
+- **Best for July–August:** Valais or Engadin (Option 04): every high trail is open, and free or included lifts soften the peak-season prices.
 
 ### 14-day combos
 
 - **Classic & Hidden** (12–26 June 2027): Lauterbrunnen (5 n) → Saas valley + Täsch (4 n) → Ticino (4 n). Waterfalls, the Matterhorn with free Saas lifts, then lakes and palm trees. Tickets: Half Fare Card + Saver Day Passes for the 3 long moves (or Swiss Travel Pass 15 days for zero thinking). ≈ CHF 2,000–3,000 pp.
 - **Budget Lakes & Peaks** (late May – mid June): Appenzell (4 n) → Lucerne (4 n) → Ticino (5 n). The cheapest regions, the shortest travel days and all doable in late May. Tickets: Individual tickets → Lucerne Travel Pass (5 days) → Ticino Ticket. ≈ CHF 1,700–2,600 pp.
 - **South & Sun** (10–24 May 2027): Lake Geneva (4 n) → Ticino (5 n) → Lake Como (Italy) (4 n). The snow-free, warm version for May: vineyards, rivers, villas. Tickets: Half Fare Card + Ticino Ticket + Italian trains. ≈ CHF 1,800–2,700 pp.
+- **High Alpine Summer** (1–16 July or 16–31 August 2027): Engadin (4 n) → Saas valley + Täsch (5 n) → Lauterbrunnen (4 n). The summer version: lifts included in Engadin, free Saas lifts, then the Bernese Oberland, with every high trail open. Tickets: Swiss Travel Pass 15 days (regional trains along the Glacier Express route), or Half Fare + Saver Day Passes. ≈ CHF 2,300–3,600 pp at peak-season prices.
 
 ## When to go
 
-- **Sweet spot:** Sat 12 – Sat 26 June 2027 (lifts and passes open, before school holidays).
-- **May:** cheaper and greener, but snow above ~1,800 m. Choose Ticino, Lake Geneva, Lucerne, Appenzell or the Italian lakes.
+- **May** (cheaper · greener · snow up high): Shoulder season: lower prices, fewer tourists, waterfalls at their peak and blossoming meadows. But many high trails above ~1,800 m are still snowy and some lifts are closed for maintenance. Best regions: Ticino, Lake Geneva, Lucerne, Appenzell, Italian lakes. Watch out for the long weekends (Ascension 6 May, Pentecost 16–17 May), when Swiss and Germans travel too.
+- **June** (everything opens): From mid-June nearly all lifts and passes are open, the days are the longest of the year and the high-alpine lakes thaw. It is still before the July–August school holidays. **Sweet spot: Sat 12 – Sat 26 June 2027.** Late June is ideal for Zermatt, Engadin and the road trip.
+- **July** (all open · peak season starts): Every lift, pass and high trail is open, alpine flowers peak in early July and the lakes get warm enough to swim. But Swiss schools break up around 3 July and NRW's on 19 July, so prices climb and the famous spots are busy. Montreux Jazz Festival runs 2–17 July. Best regions: Valais, Engadin, Appenzell and the road trip. **Summer sweet spot: 1–16 July**, before the German holidays.
+- **August** (warmest · busiest · priciest): The warmest lakes and reliable high-alpine hiking, plus Swiss National Day on Sunday 1 August. It is also the most crowded month: Italians fill Ticino and Lake Como around Ferragosto (15 Aug), and beds are at peak prices. It gets better after ~16 August, when most Swiss schools go back. **Avoid the Italian lakes and Ticino in mid-August.**
 
 - 6 May: Ascension (holiday DE + CH)
 - 11 May: Pilatus cog railway opens*
@@ -47,8 +51,40 @@ Open `index.html` for the visual version with photos and animated presentations.
 - ~12–15 June: Susten pass*
 - 20 June: Diavolezza*
 - late June: Five Lakes Walk / high trails snow-free
+- 2–17 July: Montreux Jazz Festival (Montreux fills up)
+- 3 July: Swiss school holidays start (Bern, Zug and many others, to ~15 Aug)
+- early July: Alpine flowers at their peak around 2,000 m
+- 19 July: NRW school holidays start (to 31 Aug)
+- 1 August: Swiss National Day: fireworks & bonfires (a Sunday)
+- ~4–14 August: Locarno Film Festival (it may move to late July in 2027)
+- 15 August: Ferragosto: Italy's peak holiday (Ticino & Lake Como full)
+- mid-August: Lucerne Festival summer season begins
 
 *Starred dates are 2026 opening dates; check again in spring 2027.*
+
+- Swiss schools off: 3 July – 15 August 2027
+- NRW schools off: 19 July – 31 August 2027
+- Italy's holiday peak: 8 August – 22 August 2027
+
+### Is July–August worth it?
+
+**Why it is great**
+
+- Every lift, pass, hut and high trail is open: no snow surprises on the Five Lakes Walk, Faulhorn, Aletsch or the Furka and Susten passes.
+- Warm lakes and rivers for swimming (≈ 20–24 °C in Lake Geneva, Lugano, Thun and Brienz).
+- Alpine flowers peak in early July, and the evenings are long and warm for picnics, BBQ spots and open-air events.
+- Swiss National Day on 1 August: bonfires on the hills, fireworks over the lakes and farm brunches.
+- Swiss passes (Swiss Travel Pass, Half Fare, regional passes) cost the same as in June.
+
+**What you pay for it**
+
+- Accommodation costs ≈ 10–35 % more and sells out earlier. Booking sites show July as Lauterbrunnen's most expensive month.
+- Crowds and midday queues at the hotspots: Lauterbrunnen, Grindelwald, Lucerne, Zermatt, Oeschinensee, Lake Como.
+- Heat waves (30–35 °C in Ticino, Valais and around Geneva in recent summers) and almost daily afternoon thunderstorms in the mountains.
+- Packed DB trains in the NRW holidays (from 19 July). The cheapest Sparpreis fares go faster.
+- Dry summers can bring fire bans, so check before lighting a BBQ.
+
+For your group, July–August makes the whole trip ≈ 5–14 % dearer: about €60–400 more per person. Appenzell & the East changes least (+5 %) and Swiss–Italian Lakes most (+14 %).
 
 ## Getting from Langenfeld to Switzerland
 
@@ -71,10 +107,10 @@ Open `index.html` for the visual version with photos and animated presentations.
 
 ## Booking timeline
 
-- **Now (late Oct – Nov 2026):** Vote on an option and dates. Book refundable accommodation for hotspots (Lauterbrunnen, Täsch/Zermatt, Lucerne, Lake Como). Friends set flight price alerts. Domestic DB tickets to Basel Bad Bf are already bookable.
-- **6 months before (Nov 2026 – Jan 2027):** DB international Sparpreis tickets open: buy on day one. SBB Saver Day Passes also go on sale 6 months ahead (limited cheap quotas).
-- **Jan – Feb 2027:** Friends book flights. Book the rental car (free cancellation) for the road trip. Swiss fares for 2027 will be known (≈ +3–4 % on national tickets from Dec 2026).
-- **~3 months before (Feb – Mar 2027):** Glacier Express & Bernina Express seats (reportedly from ~93 days ahead). Mountain huts and guesthouses. Note the SAC huts' new reservation fee from 2027.
+- **Now (late Oct – Nov 2026):** Vote on an option and dates. Book refundable accommodation for hotspots (Lauterbrunnen, Täsch/Zermatt, Lucerne, Lake Como). For July–August this matters even more, because peak-season beds go first. Friends set flight price alerts. Domestic DB tickets to Basel Bad Bf are already bookable.
+- **6 months before (Nov 2026 – Feb 2027):** DB international Sparpreis tickets open: buy on day one. That is Nov 2026 – Jan 2027 for May–June, or Jan – Feb 2027 for July–August. SBB Saver Day Passes also go on sale 6 months ahead (limited cheap quotas).
+- **Jan – Feb 2027:** Friends book flights (summer fares rise fastest). Book the rental car (free cancellation) for the road trip. Swiss fares for 2027 will be known (≈ +3–4 % on national tickets from Dec 2026).
+- **~3 months before (Feb – May 2027):** Glacier Express & Bernina Express seats (reportedly from ~93 days ahead). Mountain huts and guesthouses. Note the SAC huts' new reservation fee from 2027.
 - **2–6 weeks before:** Buy the Swiss Travel Pass / Half Fare Card / regional pass online (fixed price, no early-bird). Check passports. Travel insurance for non-EU friends.
 - **Last week:** Watch the forecast. Buy Jungfraujoch/Gornergrat tickets 1–2 days before a clear day. Download offline maps and the SBB, MeteoSwiss and SwitzerlandMobility apps.
 
@@ -97,7 +133,7 @@ Open `index.html` for the visual version with photos and animated presentations.
 - **📱 Roaming:** Switzerland is not in the EU roaming zone. Check your tariff or buy a Swiss eSIM data plan.
 - **💳 Money:** CHF. Cards and phones work almost everywhere. Keep some cash for mountain huts. Euros are accepted sometimes, at bad rates.
 - **🏥 Health:** The EHIC card works for people with German insurance. Friends from abroad need travel insurance that covers mountain rescue.
-- **⛈️ Weather:** June afternoons bring thunderstorms, so start hikes early. Check MeteoSwiss and the webcams before buying lift tickets.
+- **⛈️ Weather:** June to August afternoons bring thunderstorms, so start hikes early. July–August heat waves can hit 30–35 °C in the valleys. Check MeteoSwiss and the webcams before buying lift tickets.
 - **🥾 Trails:** Yellow signs = easy paths. White-red-white = mountain trails (sure-footed). Blue-white = alpine (not for you).
 - **🛒 Sundays:** Shops close on Sundays, except at train stations and petrol stations.
 - **🧳 Luggage:** SBB luggage forwarding (≈ CHF 12–25 per bag) lets you hop between bases with only a daypack.
@@ -112,6 +148,10 @@ Open `index.html` for the visual version with photos and animated presentations.
 **9 days / 8 nights · best 12–30 June 2027 · ≈ 6.5–7 h by train · ≈ €1 480–2 390 pp**
 
 *All lifts open from mid-June. Late May has the biggest waterfalls, but trails above 1,800 m are still snowy.*
+
+**Month by month:** *May: OK* (Waterfalls at their biggest and cheap, but snow above 1,800 m and some lifts shut.) · *June: Great* (Lifts open from mid-June, still before the school holidays. The sweet spot.) · *July: Good* (Every trail open and flowers at their best, but the busiest and priciest month.) · *August: Good* (Warm and fully open. Crowds ease a little after mid-August.)
+
+**July–August:** ≈ €1 640–2 650 pp (beds +30 %). In July–August, stay in Wilderswil or Matten (20–30 % cheaper than Lauterbrunnen), be at the lifts by 8 am and do Oeschinensee on a weekday.
 
 **Route:** Langenfeld → Lauterbrunnen (8 n) → home
 
@@ -154,7 +194,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (8 nights, shared) | 440 | 720 |
 | Food (cook + picnic / some dinners out) | 315 | 585 |
 | Buffer (coffee, lockers, souvenirs) | 60 | 100 |
-| **Total** | **1 385** (≈ €1 480) | **2 235** (≈ €2 390) |
+| **Total May–June** | **1 385** (≈ €1 480) | **2 235** (≈ €2 390) |
+| *Total July–August (estimate)* | *1 536* (≈ €1 640) | *2 481* (≈ €2 650) |
 
 **Hidden gems:** Sefinental: A wild side valley behind Stechelberg with waterfalls and almost no tourists.; Gimmelwald: A farming hamlet with honesty-box cheese stalls and a timeless feel.; Giessbach Falls: Walk behind a 14-step waterfall and take a 1879 funicular up to a grand hotel terrace.; Heuberg trail: The high path above Oeschinensee: the postcard view without the crowds.; Rosenlaui gorge: A glacier gorge on the Grosse Scheidegg bus route (Meiringen ↔ Grindelwald, summer only).
 
@@ -179,7 +220,11 @@ Open `index.html` for the visual version with photos and animated presentations.
 
 **14 days / 13 nights · best 1–30 June 2027 · ≈ 5.5 h to Lucerne · ≈ €2 560–3 910 pp**
 
-*Works any time in May or June. June has more mountain lifts open.*
+*Works any time from May to August. June has all the mountain lifts open without the summer crowds.*
+
+**Month by month:** *May: Good* (Trains run and seats are easier to get; some high lifts are still closed.) · *June: Great* (Everything open, before the holidays. The best balance.) · *July: Good* (All open, but Glacier Express seats go fast and Lucerne and Zermatt are packed.) · *August: Good* (Peak crowds and prices at every stop, and 30 °C+ in Lugano.)
+
+**July–August:** ≈ €2 800–4 310 pp (beds +25 %). Reserve the Glacier Express the day bookings open (~93 days ahead). The CHF 54 reservation costs the same all year, but summer seats sell out first.
 
 **Route:** Langenfeld → Lucerne (2 n) → Lauterbrunnen (3 n) → Montreux (2 n) → Täsch / Zermatt (2 n) → Pontresina (2 n) → Lugano (2 n) → home
 
@@ -227,7 +272,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (13 nights) | 845 | 1 365 |
 | Food | 560 | 980 |
 | Buffer | 100 | 150 |
-| **Total** | **2 390** (≈ €2 560) | **3 655** (≈ €3 910) |
+| **Total May–June** | **2 390** (≈ €2 560) | **3 655** (≈ €3 910) |
+| *Total July–August (estimate)* | *2 620* (≈ €2 800) | *4 026* (≈ €4 310) |
 
 **Hidden gems:** Rigi Scheidegg trail: The quiet side of Rigi, with views over Lake Lucerne and Lake Zug.; St-Saphorin: A tiny medieval wine village in Lavaux with a lakeside tavern.; Riffelsee at dawn: The famous Matterhorn reflection without people.; Alp Grüm: A station terrace above the Palü glacier on the Bernina line.; Gandria: A car-free fishing village clinging to the cliffs of Lake Lugano.
 
@@ -250,9 +296,13 @@ Open `index.html` for the visual version with photos and animated presentations.
 
 > The Matterhorn, the longest glacier in the Alps and a car-free glacier village where your guest card makes all summer lifts free.
 
-**10 days / 9 nights · best 15–30 June 2027 · ≈ 6.5–7 h by train · ≈ €1 520–2 510 pp**
+**10 days / 9 nights · best July – August 2027 · ≈ 6.5–7 h by train · ≈ €1 520–2 510 pp**
 
-*High trails (Five Lakes Walk, Aletsch ridge) are usually snow-free from mid or late June.*
+*High trails (Five Lakes Walk, Aletsch ridge) are snow-free from about late June or July. Late June works too, and the second half of August is a little quieter.*
+
+**Month by month:** *May: Not ideal* (Too early: the Five Lakes and Aletsch trails are under snow.) · *June: Good* (Good from late June, but some high trails are still opening.) · *July: Great* (Prime time: snow-free high trails, wildflowers and all the free Saas lifts.) · *August: Great* (Still prime. Zermatt is busy, so the Saas valley base pays off.)
+
+**July–August:** ≈ €1 670–2 770 pp (beds +25 %). The SaastalCard's free lifts and cheaper beds in Täsch cancel out much of the summer premium. Book both now.
 
 **Route:** Langenfeld → Saas-Fee / Saas-Grund (4 n) → Täsch (2 n) → Riederalp / Bettmeralp (3 n) → home
 
@@ -296,7 +346,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (9 nights) | 495 | 855 |
 | Food | 380 | 700 |
 | Buffer | 60 | 100 |
-| **Total** | **1 420** (≈ €1 520) | **2 345** (≈ €2 510) |
+| **Total May–June** | **1 420** (≈ €1 520) | **2 345** (≈ €2 510) |
+| *Total July–August (estimate)* | *1 564* (≈ €1 670) | *2 589* (≈ €2 770) |
 
 **Hidden gems:** SaastalCard lifts: Nine free summer cable cars. Hardly any foreign tourists know this trick.; Mattmark: A turquoise high-alpine reservoir at the end of the road.; Riffelsee: Matterhorn reflection, 5 minutes from Rotenboden station.; Aletsch forest: 1,000-year-old Swiss stone pines at the glacier's edge.; Gemmi pass: A cliff-top lake plateau above Leukerbad.
 
@@ -309,7 +360,7 @@ Open `index.html` for the visual version with photos and animated presentations.
 - The Five Lakes Walk and Aletsch high trails open when the snow melts, often only in late June.
 - Valais has the most sunshine in Switzerland, but it is still the Alps: pack layers.
 
-**Booking:** *Now:* Täsch + Riederalp apartments (popular in June). · *6 months before:* DB tickets to Visp/Brig. · *2–4 weeks before:* Half Fare Card online. · *1 day before:* Gornergrat on the clearest day.
+**Booking:** *Now:* Täsch + Riederalp apartments (popular from June, and they sell out for July–August). · *6 months before:* DB tickets to Visp/Brig. · *2–4 weeks before:* Half Fare Card online. · *1 day before:* Gornergrat on the clearest day.
 
 **Make it longer:** Add 4 nights in the Bernese Oberland (Option 01) before Valais. Kandersteg → Lötschberg tunnel → Visp is only 1 hour.
 
@@ -319,9 +370,13 @@ Open `index.html` for the visual version with photos and animated presentations.
 
 > Switzerland's highest valley: silver lakes, the Bernina glaciers, sgraffito villages and hotels that include all mountain lifts in the room price.
 
-**10 days / 9 nights · best 12–30 June 2027 · ≈ 6–8 h by train · ≈ €1 570–2 570 pp**
+**10 days / 9 nights · best July – August 2027 · ≈ 6–8 h by train · ≈ €1 570–2 570 pp**
 
-*Summer lifts open between ~6 and 27 June (2026: Muottas Muragl 6 June, Diavolezza 20 June).*
+*Summer lifts open between ~6 and 27 June (2026: Muottas Muragl 6 June, Diavolezza 20 June). July and August have every lift, the warmest lakes and the most out of 'lifts included'.*
+
+**Month by month:** *May: Not ideal* (Off season: the summer lifts are closed and some hotels shut until June.) · *June: Good* (Lifts start between ~6 and 27 June. Late June is lovely and quiet.) · *July: Great* (Best month: every lift, warm lakes, flowers, and fewer crowds than the Bernese Oberland.) · *August: Great* (Warm and fully open. Busier with Italian visitors around mid-August.)
+
+**July–August:** ≈ €1 680–2 760 pp (beds +15 %). Book a hotel with 'Bergbahnen inklusive' (lifts included). It runs all summer, so the longer the lifts are open, the more you save.
 
 **Route:** Langenfeld → Flims (2 n) → Pontresina (4 n) → Scuol (3 n) → home
 
@@ -365,7 +420,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (9 nights) | 585 | 990 |
 | Food | 380 | 700 |
 | Buffer | 60 | 100 |
-| **Total** | **1 465** (≈ €1 570) | **2 400** (≈ €2 570) |
+| **Total May–June** | **1 465** (≈ €1 570) | **2 400** (≈ €2 570) |
+| *Total July–August (estimate)* | *1 573* (≈ €1 680) | *2 578* (≈ €2 760) |
 
 **Hidden gems:** Lej da Staz: A dark forest lake between St. Moritz and Pontresina.; Val Fex: A car-free side valley with a glacier at the end.; Crestasee: Caumasee's quieter, cheaper twin.; Guarda: One of the prettiest villages in Switzerland, straight out of a children's book.; Soglio (bonus): A chestnut-forest village above Val Bregaglia, 1.5 h by PostBus from St. Moritz.
 
@@ -391,6 +447,10 @@ Open `index.html` for the visual version with photos and animated presentations.
 **9 days / 8 nights · best 15 May – 15 June 2027 · ≈ 7.5–8 h by train · ≈ €1 130–1 950 pp**
 
 *The best region for May: 20–25 °C, rivers full, before the summer heat. River water is still cold (≈ 12–16 °C).*
+
+**Month by month:** *May: Great* (Warm (20–25 °C), green and quiet. The best region for May.) · *June: Great* (Warm, long evenings, and the lakes become swimmable.) · *July: Good* (Swimming season, but hot (30 °C+), humid and busier.) · *August: OK* (The hottest month. Ferragosto (15 Aug) brings Italian crowds, and Locarno hotels spike during the film festival.)
+
+**July–August:** ≈ €1 280–2 190 pp (beds +25 %). In summer, sleep higher up (Valle Maggia or the Monti above Locarno), hike in the morning and swim in the afternoon. The Ticino Ticket still makes transport free.
 
 **Route:** Langenfeld → Tenero / Locarno (5 n) → Lugano (3 n) → home
 
@@ -433,7 +493,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (8 nights) | 400 | 680 |
 | Food (grotti are good value) | 340 | 585 |
 | Buffer | 50 | 100 |
-| **Total** | **1 060** (≈ €1 130) | **1 825** (≈ €1 950) |
+| **Total May–June** | **1 060** (≈ €1 130) | **1 825** (≈ €1 950) |
+| *Total July–August (estimate)* | *1 194* (≈ €1 280) | *2 045* (≈ €2 190) |
 
 **Hidden gems:** Corippo: The smallest municipality in Switzerland until 2020, a cascade of stone houses.; Val Bavona: Twelve stone hamlets, waterfalls and no electricity grid.; Rasa: A car-free hamlet reached only by a tiny cable car from Verdasio.; Gandria: A fishing village on stilts, reached by an olive-grove trail.; Grotti: Rustic stone taverns: polenta, brasato and Merlot for ≈ CHF 30–45.
 
@@ -459,6 +520,10 @@ Open `index.html` for the visual version with photos and animated presentations.
 **8 days / 7 nights · best 20 May – 30 June 2027 · ≈ 5 h by train · ≈ €1 280–2 030 pp**
 
 *Pilatus opened on 11 May in 2026. The Stoos ridge hike is usually snow-free from mid-June.*
+
+**Month by month:** *May: Good* (Pilatus from mid-May, but the Stoos ridge and high trails are still snowy.) · *June: Great* (Everything open and the lake warming up. The sweet spot.) · *July: Good* (Lake swimming and every lift, but the old town and the boats are packed.) · *August: Good* (The same crowds, and the Lucerne Festival starts in mid-August.)
+
+**July–August:** ≈ €1 410–2 230 pp (beds +25 %). Take the first lift of the day up Pilatus or Rigi, and swim at the free Ufschötti lakeside park in the afternoon.
 
 **Route:** Langenfeld → Lucerne (7 n) → home
 
@@ -500,7 +565,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (7 nights) | 385 | 665 |
 | Food | 305 | 560 |
 | Buffer | 50 | 80 |
-| **Total** | **1 200** (≈ €1 280) | **1 895** (≈ €2 030) |
+| **Total May–June** | **1 200** (≈ €1 280) | **1 895** (≈ €2 030) |
+| *Total July–August (estimate)* | *1 314* (≈ €1 410) | *2 087* (≈ €2 230) |
 
 **Hidden gems:** Musegg wall: Free medieval towers with the best view over Lucerne's rooftops.; Maderanertal: A deep, quiet valley of waterfalls, with a 19th-century hotel at the end.; Seelisberg & Rütli: A forest lake, a lakeside meadow and boats on fjord-like Lake Uri.; Härzlisee: A small mountain lake at Brunni (Engelberg), perfect for a picnic.; Rigi Scheidegg: The quiet end of Rigi, with old railway tracks turned into a trail.
 
@@ -523,9 +589,13 @@ Open `index.html` for the visual version with photos and animated presentations.
 
 > The cliff-side Aescher guesthouse, mirror lakes in the Alpstein, Europe's mightiest waterfall and a village you can only reach by boat. Cheap, close and still a secret.
 
-**8 days / 7 nights · best 25 May – 30 June 2027 · ≈ 5–6 h by train · ≈ €1 090–1 790 pp**
+**8 days / 7 nights · best 1 June – 31 July 2027 · ≈ 5–6 h by train · ≈ €1 090–1 790 pp**
 
-*Lower mountains (max ~2,000 m) open early. The new Säntis cable car opens in spring 2027.*
+*Lower mountains (max ~2,000 m) open early. The new Säntis cable car opens in spring 2027. July is just as good and barely pricier.*
+
+**Month by month:** *May: Good* (Green and cheap, but the Alpstein trails stay snowy until June.) · *June: Great* (Meadows in flower and huts opening. The sweet spot.) · *July: Great* (Alpstein lakes and mountain inns at their best, and prices barely change.) · *August: Good* (Still lovely, but Ebenalp and Seealpsee are busy on sunny weekends.)
+
+**July–August:** ≈ €1 150–1 880 pp (beds +10 %). The cheapest summer option: mostly Swiss visitors, small family hotels and almost no peak surcharge. Do Ebenalp and Seealpsee on a weekday.
 
 **Route:** Langenfeld → Schaffhausen (1 n) → Appenzell (4 n) → Walensee (2 n) → home
 
@@ -567,7 +637,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (7 nights) | 350 | 595 |
 | Food | 280 | 520 |
 | Buffer | 50 | 80 |
-| **Total** | **1 020** (≈ €1 090) | **1 675** (≈ €1 790) |
+| **Total May–June** | **1 020** (≈ €1 090) | **1 675** (≈ €1 790) |
+| *Total July–August (estimate)* | *1 073* (≈ €1 150) | *1 760* (≈ €1 880) |
 
 **Hidden gems:** Fälensee: A long, narrow mirror lake framed by limestone walls.; Sämtisersee: A lake that drains away underground, with cows grazing along it.; Quinten: A car-free hamlet reachable only by boat or on foot.; Barfussweg: A 1.5 h barefoot trail through meadows and mud between Gontenbad and Appenzell.; Klöntalersee: A turquoise lake under 2,000 m cliffs near Glarus.
 
@@ -593,6 +664,10 @@ Open `index.html` for the visual version with photos and animated presentations.
 **9 days / 8 nights · best 10 May – 30 June 2027 · ≈ 6.5 h by train · ≈ €1 480–2 390 pp**
 
 *Low altitude, so it is great in May (wild narcissus fields above Montreux). Note: Rochers-de-Naye is closed until 21 May 2027.*
+
+**Month by month:** *May: Great* (Narcissus fields, mild and quiet. Rochers-de-Naye reopens on 22 May.) · *June: Great* (Warm, the vines are green, and the lake is swimmable by late June.) · *July: Good* (Swimming weather. Avoid Montreux during the Jazz Festival (2–17 July 2027).) · *August: Good* (Hot and lively. The Lavaux terraces and Jura lakes are great for a swim.)
+
+**July–August:** ≈ €1 590–2 580 pp (beds +20 %). In early July, base in Vevey or Lausanne instead of Montreux until the Jazz Festival ends (17 July 2027). The Jura stays cooler on hot days.
 
 **Route:** Langenfeld → Montreux / Vevey (5 n) → Neuchâtel (3 n) → home
 
@@ -635,7 +710,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (8 nights) | 440 | 760 |
 | Food | 340 | 630 |
 | Buffer | 50 | 90 |
-| **Total** | **1 380** (≈ €1 480) | **2 230** (≈ €2 390) |
+| **Total May–June** | **1 380** (≈ €1 480) | **2 230** (≈ €2 390) |
+| *Total July–August (estimate)* | *1 488* (≈ €1 590) | *2 412* (≈ €2 580) |
 
 **Hidden gems:** Creux du Van: A 1,400 m-wide rock cirque with ibex, often almost empty.; Lac de Taney: A car-free mountain lake above the Rhône valley.; Narcissus fields: Mid-May 'May snow' of wild narcissi above Montreux.; Areuse gorge: Bridges and footbridges through a forested canyon.; St-Saphorin: A medieval wine village with no traffic.
 
@@ -648,7 +724,7 @@ Open `index.html` for the visual version with photos and animated presentations.
 - Lake Geneva is mild and sunny: the warmest swimming in this list after Ticino (≈ 18–20 °C late June).
 - Wine caveaux in Lavaux often open only in the late afternoon or evening and at weekends.
 
-**Booking:** *Now:* Montreux/Vevey apartment (Montreux Jazz Festival starts in July, so June is fine). · *6 months before:* DB tickets. · *2–4 weeks before:* Half Fare Card. · *On arrival:* Collect the Riviera Card from your host.
+**Booking:** *Now:* Montreux/Vevey apartment. June is fine; in July avoid Montreux during the Jazz Festival (2–17 July 2027). · *6 months before:* DB tickets. · *2–4 weeks before:* Half Fare Card. · *On arrival:* Collect the Riviera Card from your host.
 
 **Make it longer:** Add Zermatt / Valais (Option 03): Montreux → Visp is only 1.5 h.
 
@@ -658,9 +734,13 @@ Open `index.html` for the visual version with photos and animated presentations.
 
 > Hairpin passes, glaciers by the roadside, turquoise lakes and every hidden corner a train can't reach. The most freedom for five people sharing one car.
 
-**13 days / 12 nights · best 15–30 June 2027 · ≈ 6 h drive to Lake Lucerne · ≈ €1 540–2 860 pp**
+**13 days / 12 nights · best late June – July 2027 · ≈ 6 h drive to Lake Lucerne · ≈ €1 540–2 860 pp**
 
-*In 2026 the Furka, Grimsel and Nufenen passes opened on 29 May and Susten in mid-June. Go after mid-June.*
+*In 2026 the Furka, Grimsel and Nufenen passes opened on 29 May and Susten in mid-June. Go after mid-June. July adds snow-free high trails; August has the busiest pass roads.*
+
+**Month by month:** *May: Not ideal* (Too early: the high passes only open from late May to mid-June.) · *June: Good* (Passes open between walls of snow, and the roads are quiet. High trails still opening.) · *July: Great* (Everything open: every pass, lift and trail. Book the beds early.) · *August: Good* (All open, but the busiest pass roads and full campsites.)
+
+**July–August:** ≈ €1 700–3 190 pp (beds +25 %). Drive each pass early, before the motorbikes and coaches. Book every night ahead, because last-minute rooms are rare in summer.
 
 **Route:** Langenfeld → Lake Lucerne (2 n) → Lauterbrunnen (3 n) → Täsch (2 n) → Flims (2 n) → Tenero (2 n) → Lucerne area (1 n) → home
 
@@ -707,7 +787,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (12 nights) | 600 | 1 080 |
 | Food | 455 | 845 |
 | Buffer | 80 | 120 |
-| **Total** | **1 435** (≈ €1 540) | **2 675** (≈ €2 860) |
+| **Total May–June** | **1 435** (≈ €1 540) | **2 675** (≈ €2 860) |
+| *Total July–August (estimate)* | *1 585* (≈ €1 700) | *2 979* (≈ €3 190) |
 
 **Hidden gems:** Tremola: The old cobbled Gotthard road, Switzerland's longest road monument, with 24 hairpins.; Steingletscher: A glacier and lake right by the Susten pass road.; Oberalp lighthouse: A red lighthouse at 2,046 m at the source of the Rhine.; Crestasee: A smaller forest lake next to Caumasee.; Seelisberg: A sunny lake terrace above Lake Uri.
 
@@ -732,7 +813,11 @@ Open `index.html` for the visual version with photos and animated presentations.
 
 **11 days / 10 nights · best 10 May – 30 June 2027 · ≈ 7.5 h by train to Lugano · ≈ €1 390–2 270 pp**
 
-*Lakes are lovely from May. For Bernina lifts (Muottas Muragl, Diavolezza) go after ~6–20 June.*
+*Lakes are lovely from May. For Bernina lifts (Muottas Muragl, Diavolezza) go after ~6–20 June. Avoid August.*
+
+**Month by month:** *May: Great* (Gardens in bloom (azaleas), mild and calm.) · *June: Great* (Warm, long evenings, before peak prices.) · *July: OK* (Hot and crowded on Lake Como, with prices near their peak.) · *August: Not ideal* (Ferragosto: Lake Como is at its fullest and most expensive. Avoid.)
+
+**July–August:** ≈ €1 580–2 600 pp (beds +35 %). If it has to be summer, sleep on Lake Lugano or in Chiavenna rather than Bellagio, and visit the Como villas at opening time.
 
 **Route:** Langenfeld → Lugano (2 n) → Varenna / Bellano (3 n) → Pontresina (2 n) → Chiavenna (2 n) → Lugano or Como (1 n) → home
 
@@ -777,7 +862,8 @@ Open `index.html` for the visual version with photos and animated presentations.
 | Accommodation (10 nights) | 450 | 800 |
 | Food (Italy is cheaper) | 385 | 660 |
 | Buffer | 60 | 100 |
-| **Total** | **1 295** (≈ €1 390) | **2 120** (≈ €2 270) |
+| **Total May–June** | **1 295** (≈ €1 390) | **2 120** (≈ €2 270) |
+| *Total July–August (estimate)* | *1 472* (≈ €1 580) | *2 430* (≈ €2 600) |
 
 **Hidden gems:** Soglio: Painter Segantini called it 'the threshold of paradise'.; Crotti of Chiavenna: Taverns built into natural rock caves with cool air currents.; Acquafraggia falls: Twin waterfalls Leonardo da Vinci wrote about.; Orrido di Bellano: Walkways through a roaring gorge.; Fiumelatte: Italy's shortest river (250 m), only flowing from spring to autumn.
 
@@ -790,7 +876,7 @@ Open `index.html` for the visual version with photos and animated presentations.
 - Italian restaurants charge 'coperto' (cover charge) of €2–4 per person. That's normal.
 - Mobile data: EU roaming works in Italy, but Switzerland may cost extra on German tariffs.
 
-**Booking:** *Now:* Lake Como apartment (June books up early). · *6 months before:* DB ticket to Lugano. · *Few days before:* Palm Express bus reservation if you want it. · *On the day:* Italian regional trains: buy in the Trenitalia/Trenord app.
+**Booking:** *Now:* Lake Como apartment (June books up early, July–August even earlier). · *6 months before:* DB ticket to Lugano. · *Few days before:* Palm Express bus reservation if you want it. · *On the day:* Italian regional trains: buy in the Trenitalia/Trenord app.
 
 **Make it longer:** Combine with Ticino (Option 05) for a 14-day 'sun and lakes' trip.
 
@@ -833,6 +919,14 @@ Open `index.html` for the visual version with photos and animated presentations.
 - [GoldenPass Express reservations](https://www.myswissalps.com/activity/goldenpass/)
 - [Val Bavona road reopened](https://www.rsi.ch/info/ticino-grigioni-e-insubria/La-Valle-Bavona-riallaccia-i-fili-con-il-turismo--2748536.html)
 - [NRW public holidays 2027](https://www.kalenderpedia.de/feiertage/feiertage-nrw-2027.html)
+- [NRW school holidays 2027](https://www.kalenderpedia.de/ferien/ferien-nrw-2027.html)
+- [Swiss school holidays 2027 (TCS)](https://www.tcs.ch/mam/Corporate-Communication/PDF/Info-Sheet/schulferien-2027.pdf)
+- [Montreux Jazz Festival 2027](https://www.montreuxriviera.com/en/P1075/montreux-jazz-festival)
+- [Locarno Film Festival 2027 date change](https://locarnofestival.ch/press/press-releases/2024/possibility-of-changing-the-date-of-the-event-in-2027.html)
+- [Lauterbrunnen rental prices by month](https://www.kayak.de/Lauterbrunnen-Ferienunterkuenfte.45166.rental.ksp)
+- [Lake Como by month](https://www.tripbase.com/destinations/lake-como-italy/when-to-visit/)
+- [Swiss summer weather](https://www.tour-switzerland.ch/guides/weather-climate/)
+- [Glacier Express reservation 2026](https://www.tour-switzerland.ch/guides/glacier-express/)
 - [SAC hut fees from 2027](https://www.blick.ch/wirtschaft/no-show-gebuehr-ab-2027-so-viel-steigen-die-preise-pro-nacht-in-den-sac-huetten-id22028074.html)
 - [ETIAS status](https://navan.com/blog/when-does-etias-go-into-effect)
 - [EUR/CHF rate (Oct 2026)](https://www.exchange-rates.org/exchange-rate-history/chf-eur-2026-10-02)
